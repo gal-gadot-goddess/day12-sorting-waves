@@ -1,11 +1,37 @@
 {
-  "topic": "QuantumBioAI: The 2026 Quantum Biology Machine Learning Sprint",
-  "description": "A head‑to‑head showdown where autonomous neural agents, powered by quantum processors, race to solve complex bio‑inspired puzzles—from protein folding to neural signal emulation. The competition blends cutting‑edge quantum hardware, biological data sets, and real‑time evolutionary learning, pushing the boundaries of what ML can achieve when it starts mimicking life itself.",
-  "instagram_caption": "🚀 Dive into the QuantumBioAI race! Bio‑inspired agents battling for the crown in a quantum‑powered arena. Who will reshape the future of AI? 🌐✨",
-  "facebook_caption": "🤖💡 The QuantumBioAI 2026 sprint is live! Watch thousands of brain‑inspired models compete to crack the toughest bio‑computing challenges, all fueled by quantum processors. Join the hype, vote for your favorite, and get ready for the next generation of AI!",
-  "threads_caption": "QuantumBioAI 2026: bio‑inspired agents, quantum power, ML brilliance. Let the race begin! 🤟",
-  "twitter_caption": "🚀 QuantumBioAI 2026: Quantum processors + bio‑inspired ML. Who wins the race to reshape AI? 🏆 #QuantumBioAI",
-  "youtube_title": "QuantumBioAI 2026: The Ultimate ML Quantum‑Bio Competition!",
-  "youtube_description": "Welcome to the QuantumBioAI 2026 competition, where the frontiers of quantum computing meet biology-inspired machine learning. In this video, we showcase the newest agents, their bio‑based challenges, and real‑time evolution results. Watch, comment, and subscribe to see who claims the crown of the future of AI! \n\n🔔 Subscribe: [link]\n💬 Comment your predictions below!\n⏱️ Timecode: 0:00 Intro | 1:20 Agent Highlights | 3:45 Challenge Breakdown | 6:10 Live Battle Replay",
-  "hashtags": "#QuantumBioAI #QuantumML #FutureOfAI #MLHackathon #NeuralNetWars #QuantumBrain"
+  "topic": "NeuroNova Sprint",
+  "description": "A high‑octane AI race where the fastest neural networks sprint to the virtual finish line, each vying for the title of the most adaptive machine learner of 2047.",
+  "competitors": [
+    {
+      "name": "SynapseForge",
+      "color": "#FF3BBD"
+    },
+    {
+      "name": "QuantumPulse",
+      "color": "#4A90E2"
+    },
+    {
+      "name": "NeuroNimbus",
+      "color": "#FF9500"
+    },
+    {
+      "name": "HaloTensor",
+      "color": "#7ED321"
+    },
+    {
+      "name": "CircuitSage",
+      "color": "#8E44AD"
+    },
+    {
+      "name": "PixelVoyager",
+      "color": "#E74C3C"
+    }
+  ],
+  "instagram_caption": "The 🚀 of the future is racing on the line! Who will cross the data finish first? 🏁 #NeuroNovaSprint #AI",
+  "facebook_caption": "In the future, speed isn't just about gears—it’s about bits. Join the NeuroNova Sprint and see which AI beats today's imagination. Share your predictions! #AI #ML",
+  "threads_caption": "Race to the future! 🏁🚀 #NeuroNovaSprint",
+  "twitter_caption": "The future's fast lane? We're racing AI into tomorrow. Who's leading? #NeuroNovaSprint #AI",
+  "youtube_title": "NeuroNova Sprint 2047 – AI Races for Tomorrow",
+  "youtube_description": "Witness the ultimate AI showdown in the NeuroNova Sprint 2047! Five cutting‑edge neural architectures compete for the crown of the next frontier in machine learning. Who will cross the finish line first? Subscribe for live updates, behind the scenes, and deep dives into the algorithms that will shape our tomorrow.",
+  "hashtags": "#ai #ml #tech"
 }
