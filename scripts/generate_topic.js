@@ -49,8 +49,13 @@ async function generateTopic() {
         const jsonStr = jsonMatch[0];
         const json = JSON.parse(jsonStr);
 
+        const publicDir = path.join(__dirname, '../public');
+        if (!fs.existsSync(publicDir)) {
+            fs.mkdirSync(publicDir, { recursive: true });
+        }
+
         fs.writeFileSync(path.join(__dirname, '../current_topic.json'), JSON.stringify(json, null, 2));
-        fs.writeFileSync(path.join(__dirname, '../public/current_topic.json'), JSON.stringify(json, null, 2));
+        fs.writeFileSync(path.join(publicDir, 'current_topic.json'), JSON.stringify(json, null, 2));
         console.log("✅ Topic generated and saved:", json.topic);
     } catch (e) {
         console.error("❌ Failed to generate topic:", e.message);
@@ -58,6 +63,11 @@ async function generateTopic() {
         const fallback = {
             "topic": "Neural Network Convergence Speedrun",
             "description": "Comparing training speeds of different architectures.",
+            "competitors": [
+                { "name": "ADAM", "color": "#00ffaa" },
+                { "name": "SGD", "color": "#ff3e3e" },
+                { "name": "RMSPROP", "color": "#bc13fe" }
+            ],
             "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
             "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
             "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
@@ -66,8 +76,14 @@ async function generateTopic() {
             "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
             "hashtags": "#ai #ml #machinelearning #datascience #tech"
         };
+        
+        const publicDir = path.join(__dirname, '../public');
+        if (!fs.existsSync(publicDir)) {
+            fs.mkdirSync(publicDir, { recursive: true });
+        }
+        
         fs.writeFileSync(path.join(__dirname, '../current_topic.json'), JSON.stringify(fallback, null, 2));
-        fs.writeFileSync(path.join(__dirname, '../public/current_topic.json'), JSON.stringify(fallback, null, 2));
+        fs.writeFileSync(path.join(publicDir, 'current_topic.json'), JSON.stringify(fallback, null, 2));
     }
 }
 
