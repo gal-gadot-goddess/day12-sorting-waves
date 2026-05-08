@@ -55,8 +55,11 @@ async function orchestrate() {
 
         // 2. Start Dev Server
         console.log("\n--- STEP 2: Starting Dev Server ---");
-        // Use 'vite' directly if possible, or 'npm run dev' but we want to be able to kill it.
-        const serverProc = spawn('npx', ['vite', '--port', '3012', '--host'], { shell: true });
+        // We use detached: true so we can kill the whole process group later
+        const serverProc = spawn('npx', ['vite', '--port', '3012', '--host'], { 
+            shell: true,
+            detached: process.platform !== 'win32' 
+        });
         
         serverProc.stdout.on('data', (data) => {
             console.log(`[SERVER] ${data.toString().trim()}`);
@@ -79,12 +82,16 @@ async function orchestrate() {
             if (process.platform === 'win32') {
                 try { execSync('taskkill /F /T /PID ' + serverProc.pid); } catch(e) {}
             } else {
-                // On Linux, kill the process group
-                try { process.kill(-serverProc.pid); } catch(e) {
-                    try { serverProc.kill(); } catch(e2) {}
-                }
+                // On Linux, be extremely aggressive to prevent hanging
+                try { 
+                    execSync('pkill -9 -f vite'); // Kill all vite processes
+                } catch(e) {}
+                try { 
+                    process.kill(-serverProc.pid, 'SIGKILL'); 
+                } catch(e) {}
             }
-            await new Promise(r => setTimeout(r, 2000)); // wait for port to clear
+            console.log("💤 Waiting for cleanup...");
+            await new Promise(r => setTimeout(r, 2000)); 
         }
 
         // 4. Publish
@@ -93,6 +100,7 @@ async function orchestrate() {
         await runCommand(pythonCmd, ['publish_day12.py']);
 
         console.log("\n✅ Day 12 Automation Complete!");
+        process.exit(0);
 
     } catch (error) {
         console.error("\n❌ Pipeline failed:", error.message);

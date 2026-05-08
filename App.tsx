@@ -2,9 +2,12 @@
 import React, { useEffect, useRef, useState, useCallback } from 'react';
 import { MLEngine } from './services/MLEngine';
 
-const MODELS = ['adam', 'sgd', 'rmsprop', 'momentum', 'adagrad', 'nadam', 'adafactor'];
+interface Competitor {
+    name: string;
+    color: string;
+}
 
-const MLRow = ({ model, audioCtx, masterGain, isRaceStarted, onComplete }: { key?: string, model: string, audioCtx: AudioContext, masterGain: GainNode, isRaceStarted: boolean, onComplete: () => void }) => {
+const MLRow = ({ name, color, audioCtx, masterGain, isRaceStarted, onComplete, competitorCount }: { name: string, color: string, audioCtx: AudioContext, masterGain: GainNode, isRaceStarted: boolean, onComplete: () => void, competitorCount: number }) => {
     const canvasRef = useRef<HTMLCanvasElement>(null);
     const engineRef = useRef<MLEngine | null>(null);
     const hasStarted = useRef(false);
@@ -19,10 +22,13 @@ const MLRow = ({ model, audioCtx, masterGain, isRaceStarted, onComplete }: { key
                 canvasRef.current.height = Math.max(parent.clientHeight, 100);
             }
 
-            const engine = new MLEngine(canvasRef.current, model, audioCtx, masterGain, onComplete);
+            const engine = new MLEngine(canvasRef.current, name, color, audioCtx, masterGain, onComplete);
             engineRef.current = engine;
 
-            const delay = MODELS.indexOf(model) * 200;
+            // Stagger start based on index
+            // We'll need to pass the index or handle it differently. 
+            // For now, use a small random delay or consistent stagger if we had the index.
+            const delay = Math.random() * 1000; 
             setTimeout(() => {
                 engine.runTraining();
             }, delay);
@@ -31,7 +37,7 @@ const MLRow = ({ model, audioCtx, masterGain, isRaceStarted, onComplete }: { key
                 engine.stop();
             };
         }
-    }, [model, audioCtx, masterGain, isRaceStarted, onComplete]);
+    }, [name, color, audioCtx, masterGain, isRaceStarted, onComplete]);
 
     return (
         <div className="flex-1 w-full relative border-b border-white/5" style={{ minHeight: 0 }}>
@@ -46,6 +52,11 @@ const App: React.FC = () => {
     const [completedCount, setCompletedCount] = useState(0);
     const [isRaceStarted, setIsRaceStarted] = useState(false);
     const [topic, setTopic] = useState("NEURAL TRAINING RACE");
+    const [competitors, setCompetitors] = useState<Competitor[]>([
+        { name: "ADAM", color: "#00ffaa" },
+        { name: "SGD", color: "#ff3e3e" },
+        { name: "RMSPROP", color: "#bc13fe" }
+    ]);
 
     const handleComplete = useCallback(() => {
         setCompletedCount(prev => prev + 1);
@@ -70,18 +81,21 @@ const App: React.FC = () => {
         setMasterGain(gain);
 
         // Load dynamic topic if exists
-        fetch('./current_topic.json').then(r => r.json()).then(data => {
+        fetch(`/current_topic.json?t=${Date.now()}`).then(r => r.json()).then(data => {
             if (data.topic) setTopic(data.topic.toUpperCase());
+            if (data.competitors && Array.isArray(data.competitors)) {
+                setCompetitors(data.competitors);
+            }
         }).catch(() => { });
 
         return () => { ctx.close(); }
     }, []);
 
     useEffect(() => {
-        if (completedCount >= MODELS.length) {
+        if (completedCount > 0 && completedCount >= competitors.length) {
             (window as any).isSortingCompleted = true;
         }
-    }, [completedCount]);
+    }, [completedCount, competitors]);
 
     return (
         <div className="flex flex-col h-screen w-full bg-[#030303] overflow-hidden px-12 py-32 font-sans">
@@ -94,8 +108,8 @@ const App: React.FC = () => {
                 </div>
 
                 <div className="flex-1 flex flex-col gap-2 w-full mx-auto border border-white/5 relative min-h-0 rounded-[2rem] overflow-hidden glass-effect">
-                    {audioCtx && masterGain && MODELS.map(model => (
-                        <MLRow key={model} model={model} audioCtx={audioCtx} masterGain={masterGain} isRaceStarted={isRaceStarted} onComplete={handleComplete} />
+                    {audioCtx && masterGain && competitors.map((comp, idx) => (
+                        <MLRow key={`${comp.name}-${idx}`} name={comp.name} color={comp.color} audioCtx={audioCtx} masterGain={masterGain} isRaceStarted={isRaceStarted} onComplete={handleComplete} competitorCount={competitors.length} />
                     ))}
                 </div>
             </div>
