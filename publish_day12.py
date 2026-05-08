@@ -58,7 +58,7 @@ def main():
             description=yt_description,
             tags=tags_list,
             category_id='28',
-            privacy_status='public'
+            privacyStatus='public'
         )
         print("✅ YouTube Upload Complete!")
     except Exception as e:

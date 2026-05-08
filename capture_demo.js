@@ -119,13 +119,13 @@ const FINAL_OUTPUT = path.join(__dirname, 'day12_ml_race.mp4');
 
     // Find stop condition
     try {
-        await page.waitForFunction(() => window.isSortingCompleted === true, { timeout: 300000 }); // 5 min max
+        await page.waitForFunction(() => window.isSortingCompleted === true, { timeout: 120000 }); // 2 min max for race
     } catch (e) {
         console.error('Timeout waiting for completion signal.');
     }
 
     console.log('✨ Visulization found! Capturing finale...');
-    await new Promise(r => setTimeout(r, 10000)); // 10s buffer for final path enjoyment
+    await new Promise(r => setTimeout(r, 3000)); // 3s buffer for final path enjoyment
 
     console.log('🛑 Stopping...');
     await videoRecorder.stop();
