@@ -11,8 +11,26 @@ async function generateTopic() {
     console.log("🤖 Generating Friday ML Topic via Pollinations...");
 
     const prompt = `Generate a viral, futuristic topic for a machine learning "race" or competition visualization.
-    Fields: topic, description, instagram_caption, facebook_caption, threads_caption, twitter_caption, youtube_title, youtube_description, hashtags (space-separated string).
-    Return ONLY a valid JSON object. No other text.`;
+    Current Time: ${new Date().toISOString()}
+    
+    Return ONLY a valid JSON object with these fields:
+    {
+        "topic": "The catchy title",
+        "description": "Short explanation",
+        "competitors": [
+            {"name": "Competitor 1", "color": "#hex"},
+            {"name": "Competitor 2", "color": "#hex"},
+            ... (5-7 total)
+        ],
+        "instagram_caption": "Viral IG caption",
+        "facebook_caption": "Engaging FB caption",
+        "threads_caption": "Short hook",
+        "twitter_caption": "Tweet",
+        "youtube_title": "YT Title",
+        "youtube_description": "YT Description",
+        "hashtags": "#ai #ml #tech"
+    }
+    Ensure the competitors fit the theme of the topic. No markdown.`;
 
     try {
         const response = await fetch(`https://text.pollinations.ai/${encodeURIComponent(prompt)}?model=openai`);
@@ -25,15 +43,15 @@ async function generateTopic() {
         const content = await response.text();
         console.log("API Response (Shortened):", content.slice(0, 200));
         
-        const start = content.indexOf('{');
-        const end = content.lastIndexOf('}') + 1;
-        if (start === -1 || end === 0) throw new Error("No JSON found");
+        const jsonMatch = content.match(/\{[\s\S]*\}/);
+        if (!jsonMatch) throw new Error("No JSON found");
         
-        const jsonStr = content.substring(start, end);
+        const jsonStr = jsonMatch[0];
         const json = JSON.parse(jsonStr);
 
         fs.writeFileSync(path.join(__dirname, '../current_topic.json'), JSON.stringify(json, null, 2));
-        console.log("✅ Topic generated:", json.topic);
+        fs.writeFileSync(path.join(__dirname, '../public/current_topic.json'), JSON.stringify(json, null, 2));
+        console.log("✅ Topic generated and saved:", json.topic);
     } catch (e) {
         console.error("❌ Failed to generate topic:", e.message);
         // Fallback
@@ -49,6 +67,7 @@ async function generateTopic() {
             "hashtags": "#ai #ml #machinelearning #datascience #tech"
         };
         fs.writeFileSync(path.join(__dirname, '../current_topic.json'), JSON.stringify(fallback, null, 2));
+        fs.writeFileSync(path.join(__dirname, '../public/current_topic.json'), JSON.stringify(fallback, null, 2));
     }
 }
 
