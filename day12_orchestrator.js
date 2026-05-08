@@ -78,7 +78,8 @@ async function orchestrate() {
 
         // 4. Publish
         console.log("\n--- STEP 4: Publishing to Social Media ---");
-        await runCommand('py', ['publish_day12.py']);
+        const pythonCmd = process.platform === 'win32' ? 'python' : 'python3';
+        await runCommand(pythonCmd, ['publish_day12.py']);
 
         console.log("\n✅ Day 12 Automation Complete!");
 
