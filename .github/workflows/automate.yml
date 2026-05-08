@@ -30,7 +30,7 @@ jobs:
           sudo apt-get install -y ffmpeg libgbm-dev libnss3 libatk-bridge2.0-0 libgtk-3-0 libasound2t64
 
       - name: Install Node Dependencies
-        run: npm install
+        run: npm install --legacy-peer-deps
 
       - name: Install Python Dependencies
         run: pip install -r requirements.txt
