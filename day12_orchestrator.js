@@ -49,13 +49,20 @@ async function orchestrate() {
     console.log("🌟 Starting Day 12 Automation Pipeline...");
 
     try {
-        // 1. Start Dev Server (which also generates the topic)
-        console.log("\n--- STEP 1: Starting Dev Server & Generating Topic ---");
-        const serverProc = spawn('npm', ['run', 'dev'], { shell: true });
+        // 1. Generate Topic explicitly first
+        console.log("\n--- STEP 1: Generating Topic ---");
+        await runCommand('node', ['scripts/generate_topic.js']);
+
+        // 2. Start Dev Server
+        console.log("\n--- STEP 2: Starting Dev Server ---");
+        // Use 'vite' directly if possible, or 'npm run dev' but we want to be able to kill it.
+        const serverProc = spawn('npx', ['vite', '--port', '3012', '--host'], { shell: true });
         
         serverProc.stdout.on('data', (data) => {
-            // Optional: log server output if needed
-            // console.log(`[SERVER] ${data}`);
+            console.log(`[SERVER] ${data.toString().trim()}`);
+        });
+        serverProc.stderr.on('data', (data) => {
+            console.error(`[SERVER-ERROR] ${data.toString().trim()}`);
         });
 
         try {
@@ -70,10 +77,14 @@ async function orchestrate() {
             // Always kill the server
             console.log("🛑 Shutting down server...");
             if (process.platform === 'win32') {
-                execSync('taskkill /F /T /PID ' + serverProc.pid);
+                try { execSync('taskkill /F /T /PID ' + serverProc.pid); } catch(e) {}
             } else {
-                serverProc.kill();
+                // On Linux, kill the process group
+                try { process.kill(-serverProc.pid); } catch(e) {
+                    try { serverProc.kill(); } catch(e2) {}
+                }
             }
+            await new Promise(r => setTimeout(r, 2000)); // wait for port to clear
         }
 
         // 4. Publish
