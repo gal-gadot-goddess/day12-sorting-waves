@@ -1,0 +1,11 @@
+requests
+python-dotenv
+google-api-python-client
+google-auth-oauthlib
+google-auth
+google-auth-httplib2
+tweepy
+urllib3
+Pillow
+numpy
+opencv-python
