@@ -98,7 +98,7 @@ const App: React.FC = () => {
     }, [completedCount, competitors]);
 
     return (
-        <div className="flex flex-col h-screen w-full bg-[#030303] overflow-hidden px-12 py-32 font-sans">
+        <div className="flex flex-col h-screen w-full bg-[#030303] overflow-hidden px-12 py-32 font-sans relative">
             <div className="flex flex-col h-full w-full max-w-[90%] mx-auto gap-12">
                 <div className="flex flex-col items-center justify-center shrink-0">
                     <h1 className="text-5xl font-black bg-gradient-to-r from-red-500 via-purple-500 to-cyan-500 bg-clip-text text-transparent tracking-tighter text-center leading-none uppercase">

@@ -149,6 +149,16 @@ const FINAL_OUTPUT = path.join(__dirname, 'day12_ml_race.mp4');
             execSync(`"${ffmpegPath}" -y -i "${VIDEO_ONLY}" -i "${AUDIO_ONLY}" -c:v copy -c:a aac -b:a 192k -shortest "${FINAL_OUTPUT}"`);
             console.log(`✅ COMPLETE! Saved to: ${FINAL_OUTPUT}`);
 
+            // Extract thumbnail from 10s mark
+            const THUMBNAIL_PATH = path.join(__dirname, 'thumbnail.jpg');
+            console.log('🖼️  Extracting thumbnail from 10s mark...');
+            try {
+                execSync(`"${ffmpegPath}" -y -ss 00:00:10 -i "${FINAL_OUTPUT}" -vframes 1 -q:v 2 "${THUMBNAIL_PATH}"`);
+                console.log(`✅ Thumbnail saved to: ${THUMBNAIL_PATH}`);
+            } catch (thumbErr) {
+                console.warn('⚠️ Thumbnail extraction failed, but video is saved.');
+            }
+
             // Clean up temps
             if (fs.existsSync(VIDEO_ONLY)) fs.unlinkSync(VIDEO_ONLY);
             if (fs.existsSync(AUDIO_ONLY)) fs.unlinkSync(AUDIO_ONLY);

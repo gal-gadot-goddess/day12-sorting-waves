@@ -25,6 +25,7 @@ def main():
     
     data_file = current_dir / "current_topic.json"
     video_path = current_dir / "day12_ml_race.mp4"
+    thumbnail_path = current_dir / "thumbnail.jpg"
     
     if not data_file.exists():
         print(f"❌ current_topic.json not found.")
@@ -58,7 +59,7 @@ def main():
             description=yt_description,
             tags=tags_list,
             category_id='28',
-            privacyStatus='public'
+            thumbnail_path=str(thumbnail_path)
         )
         print("✅ YouTube Upload Complete!")
     except Exception as e:
@@ -67,7 +68,7 @@ def main():
     # --- Instagram Reel ---
     print("\n📸 UPLOADING TO INSTAGRAM REEL...")
     try:
-        upload_to_instagram(str(video_path), ig_caption, is_story=False)
+        upload_to_instagram(str(video_path), ig_caption, is_story=False, cover_path=str(thumbnail_path))
         print("✅ Instagram Reel Upload Complete!")
     except Exception as e:
         print(f"❌ Instagram Reel upload failed: {e}")
@@ -83,7 +84,7 @@ def main():
     # --- Facebook ---
     print("\n📘 UPLOADING TO FACEBOOK...")
     try:
-        upload_to_facebook(str(video_path), fb_caption, title=title)
+        upload_to_facebook(str(video_path), fb_caption, title=title, thumbnail_path=str(thumbnail_path))
         print("✅ Facebook Reel Upload Complete!")
     except Exception as e:
         print(f"❌ Facebook upload failed: {e}")
