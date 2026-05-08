@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-def upload_to_facebook(video_path, description, title="Algorithm Visualization"):
+def upload_to_facebook(video_path, description, title="Algorithm Visualization", thumbnail_path=None):
     """
     Upload video to Facebook Page as a Reel.
     
@@ -65,6 +65,10 @@ def upload_to_facebook(video_path, description, title="Algorithm Visualization")
     try:
         with open(video_path, 'rb') as video:
             files = {'file': video}
+            if thumbnail_path and Path(thumbnail_path).exists():
+                print(f"[facebook] 🖼️  Including custom thumbnail...")
+                files['thumb'] = open(thumbnail_path, 'rb')
+
             data = {
                 'access_token': access_token,
                 'description': description,
@@ -75,6 +79,10 @@ def upload_to_facebook(video_path, description, title="Algorithm Visualization")
             
             print(f"[facebook] Sending request to Facebook API...")
             response = requests.post(url, files=files, data=data, timeout=300)
+            
+            # Close thumbnail if opened
+            if 'thumb' in files:
+                files['thumb'].close()
             
             # Check response
             if response.status_code == 200:

@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-def upload_to_instagram(video_path, caption, is_story=False):
+def upload_to_instagram(video_path, caption, is_story=False, cover_path=None):
     """
     Upload video to Instagram via temporary public URL.
     Can be a Reel or a Story.
@@ -60,8 +60,8 @@ def upload_to_instagram(video_path, caption, is_story=False):
     print(f"[instagram] Caption length: {len(caption_limited)} characters")
     
     try:
-        # Step 1: Upload to tmpfiles.org to get public URL
-        print(f"[instagram] 📤 Step 1: Uploading to temporary hosting...")
+        # Step 1: Upload video to tmpfiles.org
+        print(f"[instagram] 📤 Step 1: Uploading video to temporary hosting...")
         
         with open(video_path_obj, 'rb') as video_file:
             files = {'file': ('video.mp4', video_file, 'video/mp4')}
@@ -72,25 +72,25 @@ def upload_to_instagram(video_path, caption, is_story=False):
             )
         
         if temp_response.status_code != 200:
-            error_msg = f"Failed to upload to temporary hosting: {temp_response.status_code}"
-            print(f"[instagram] ❌ {error_msg}")
-            print(f"[instagram] Response: {temp_response.text[:200]}")
-            raise Exception(error_msg)
-        
-        temp_data = temp_response.json()
-        if temp_data.get('status') != 'success':
-            error_msg = f"Temporary hosting failed: {temp_data}"
+            error_msg = f"Failed to upload video to temporary hosting: {temp_response.status_code}"
             print(f"[instagram] ❌ {error_msg}")
             raise Exception(error_msg)
         
-        # tmpfiles.org returns URL in format: https://tmpfiles.org/12345
-        # We need direct download link: https://tmpfiles.org/dl/12345
-        temp_url = temp_data.get('data', {}).get('url', '')
-        video_url = temp_url.replace('tmpfiles.org/', 'tmpfiles.org/dl/')
-        
-        print(f"[instagram] ✅ Temporary URL created: {video_url}")
-        
-        # Step 2: Create Instagram container with video URL
+        video_url = temp_response.json().get('data', {}).get('url', '').replace('tmpfiles.org/', 'tmpfiles.org/dl/')
+        print(f"[instagram] ✅ Video URL created: {video_url}")
+
+        # Step 1.5: Upload cover image if provided
+        cover_url = None
+        if cover_path and Path(cover_path).exists():
+            print(f"[instagram] 🖼️  Step 1.5: Uploading cover image...")
+            with open(cover_path, 'rb') as cover_file:
+                files = {'file': ('cover.jpg', cover_file, 'image/jpeg')}
+                cover_temp_response = requests.post('https://tmpfiles.org/api/v1/upload', files=files, timeout=60)
+                if cover_temp_response.status_code == 200:
+                    cover_url = cover_temp_response.json().get('data', {}).get('url', '').replace('tmpfiles.org/', 'tmpfiles.org/dl/')
+                    print(f"[instagram] ✅ Cover URL created: {cover_url}")
+
+        # Step 2: Create Instagram container
         print(f"[instagram] 📦 Step 2: Creating Instagram {media_type} container...")
         
         container_url = f"https://graph.facebook.com/v18.0/{user_id}/media"
@@ -99,6 +99,9 @@ def upload_to_instagram(video_path, caption, is_story=False):
             'video_url': video_url,
             'access_token': access_token
         }
+        
+        if cover_url:
+            container_params['cover_url'] = cover_url
         
         if not is_story:
             container_params['caption'] = caption_limited
