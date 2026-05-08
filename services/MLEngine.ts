@@ -52,16 +52,28 @@ export class MLEngine {
     onComplete: () => void;
     animationId: number | null = null;
 
-    constructor(canvas: HTMLCanvasElement, mlType: string, audioCtx: AudioContext, masterGain: GainNode, onComplete: () => void) {
+    constructor(canvas: HTMLCanvasElement, name: string, color: string, audioCtx: AudioContext, masterGain: GainNode, onComplete: () => void) {
         this.canvas = canvas;
         this.ctx = canvas.getContext('2d')!;
-        this.mlType = mlType;
+        this.mlType = name;
         this.audioCtx = audioCtx;
         this.masterGain = masterGain;
         this.width = canvas.width;
         this.height = canvas.height;
         this.onComplete = onComplete;
-        this.currentTheme = OPTIMIZER_THEMES[mlType] || OPTIMIZER_THEMES['adam'];
+        
+        // Dynamic theme based on AI data
+        this.currentTheme = {
+            color: color,
+            desc: name.toUpperCase(),
+            sound: this.getSoundForName(name)
+        };
+    }
+
+    getSoundForName(name: string): string {
+        const sounds = ['sine', 'triangle', 'square', 'sawtooth'];
+        const index = name.length % sounds.length;
+        return sounds[index];
     }
 
     playTone(freq: number) {
