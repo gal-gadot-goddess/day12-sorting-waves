@@ -1,37 +1,25 @@
 {
-  "topic": "Quantum Code Dash: AI Faces the Cosmos",
-  "description": "A hyper‑speed simulation where leading ML frameworks battle in the first zero‑gravity, quantum‑enabled code challenge, judged on speed, accuracy and ethical score.",
+  "topic": "Neural Network Convergence Speedrun",
+  "description": "Comparing training speeds of different architectures.",
   "competitors": [
     {
-      "name": "NebulaNet",
-      "color": "#4B0082"
+      "name": "ADAM",
+      "color": "#00ffaa"
     },
     {
-      "name": "ChronoML",
-      "color": "#FF4500"
+      "name": "SGD",
+      "color": "#ff3e3e"
     },
     {
-      "name": "AstroAIM",
-      "color": "#00CED1"
-    },
-    {
-      "name": "VortexVision",
-      "color": "#228B22"
-    },
-    {
-      "name": "SingularSynth",
-      "color": "#8A2BE2"
-    },
-    {
-      "name": "PhotonPulse",
-      "color": "#FFD700"
+      "name": "RMSPROP",
+      "color": "#bc13fe"
     }
   ],
-  "instagram_caption": "🚀 Witness the future unfold as AI rockets collide in the Quantum Code Dash! Who will claim the AI crown? 🏆✨ #QuantumRace",
-  "facebook_caption": "Get ready for the most electrifying AI showdown yet—The Quantum Code Dash! Five titans of ML compete in zero‑gravity, quantum‑powered code. Join the conversation and see who emerges victorious. #AIDeck",
-  "threads_caption": "AI in zero‑gravity—who will win? Quick view: #QuantumRace 🧠⚡️",
-  "twitter_caption": "⚡️ Quantum Code Dash: AI teams battle in zero‑gravity coding speed‑run. Who takes the crown? 🤖🏁 #AI #ML #Tech",
-  "youtube_title": "Quantum Code Dash 2026: AI's Zero‑G Showdown",
-  "youtube_description": "In this high‑octane episode, we pit the world’s leading machine‑learning frameworks—NebulaNet, ChronoML, AstroAIM, VortexVision, SingularSynth, and PhotonPulse—against one another in the first‑ever Quantum Code Dash. Watch the race, compare metrics, and find out which one caps the AI crown. Subscribe for more AI tech adventures!",
-  "hashtags": "#ai #ml #tech"
+  "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
+  "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
+  "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
+  "twitter_caption": "The Great AI Race: CNN vs Transformer vs MLP. Who converges first? #AI #DataScience",
+  "youtube_title": "Machine Learning Race: Neural Network Convergence Comparison",
+  "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
+  "hashtags": "#ai #ml #machinelearning #datascience #tech"
 }
