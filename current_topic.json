@@ -1,37 +1,37 @@
 {
-  "topic": "Quantum Loop Race 2026: AI vs. Quantum Edge",
-  "description": "A 3D, immersive race where state‑of‑the‑art AI models sprint through quantum‑generated data streams, battling for supremacy in a near‑real‑world simulation. The fastest model to parse and act on the data wins the ultimate technologic bragging rights.",
+  "topic": "Quantum Code Dash: AI Faces the Cosmos",
+  "description": "A hyper‑speed simulation where leading ML frameworks battle in the first zero‑gravity, quantum‑enabled code challenge, judged on speed, accuracy and ethical score.",
   "competitors": [
     {
-      "name": "Nexus Labs",
-      "color": "#FF5733"
+      "name": "NebulaNet",
+      "color": "#4B0082"
     },
     {
-      "name": "Quantum Quark",
-      "color": "#33FF57"
+      "name": "ChronoML",
+      "color": "#FF4500"
     },
     {
-      "name": "Neuro Nebula",
-      "color": "#3357FF"
+      "name": "AstroAIM",
+      "color": "#00CED1"
     },
     {
-      "name": "Synapse Sigma",
-      "color": "#FFC300"
+      "name": "VortexVision",
+      "color": "#228B22"
     },
     {
-      "name": "Cybersyn Solutions",
-      "color": "#FF33A5"
+      "name": "SingularSynth",
+      "color": "#8A2BE2"
     },
     {
-      "name": "Edge AI Alliance",
-      "color": "#33FFF0"
+      "name": "PhotonPulse",
+      "color": "#FFD700"
     }
   ],
-  "instagram_caption": "🚀 Witness the future of speed—AI models racing through quantum data. Who will take the crown? #NeuroRun",
-  "facebook_caption": "The showdown of the century: AI vs quantum tech. Join the edge‑of‑your-seat ride and see who wins the Quantum Loop Race 2026! 🚀👾",
-  "threads_caption": "💥 Who will accelerate to infinity? #MLrace",
-  "twitter_caption": "Laser‑fast models clash in the Quantum Loop! 🚀⚡ #AIvsQuantum",
-  "youtube_title": "Quantum Loop Race 2026: AI's Ultimate Showdown",
-  "youtube_description": "Trailblazers in AI and quantum computing face off in a high‑speed, VR‑animated challenge. Watch as each model crunches data at 500 MOPS/sec—who emerges victorious? 1K+ views, 50k likes already!",
+  "instagram_caption": "🚀 Witness the future unfold as AI rockets collide in the Quantum Code Dash! Who will claim the AI crown? 🏆✨ #QuantumRace",
+  "facebook_caption": "Get ready for the most electrifying AI showdown yet—The Quantum Code Dash! Five titans of ML compete in zero‑gravity, quantum‑powered code. Join the conversation and see who emerges victorious. #AIDeck",
+  "threads_caption": "AI in zero‑gravity—who will win? Quick view: #QuantumRace 🧠⚡️",
+  "twitter_caption": "⚡️ Quantum Code Dash: AI teams battle in zero‑gravity coding speed‑run. Who takes the crown? 🤖🏁 #AI #ML #Tech",
+  "youtube_title": "Quantum Code Dash 2026: AI's Zero‑G Showdown",
+  "youtube_description": "In this high‑octane episode, we pit the world’s leading machine‑learning frameworks—NebulaNet, ChronoML, AstroAIM, VortexVision, SingularSynth, and PhotonPulse—against one another in the first‑ever Quantum Code Dash. Watch the race, compare metrics, and find out which one caps the AI crown. Subscribe for more AI tech adventures!",
   "hashtags": "#ai #ml #tech"
 }
