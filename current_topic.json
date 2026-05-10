@@ -1,37 +1,37 @@
 {
-  "topic": "Neural Nexus Rush: ML Titans Sprint the Virtual Spectrum",
-  "description": "Witness AI models battling through a hyper‑real landscape, each optimizing in real time to outpace rivals in a futuristic data‑driven sprint.",
+  "topic": "Photon Flux: AI Models Racing to Simulate Solar Storms",
+  "description": "A dynamic, real‑time competition where machine‑learning agents race to predict and model solar flare behavior, powering next‑gen space tech.",
   "competitors": [
     {
-      "name": "GammaGolem",
-      "color": "#FF4500"
+      "name": "SolarSynth",
+      "color": "#FF8C00"
     },
     {
-      "name": "Quantum Quark",
-      "color": "#1E90FF"
+      "name": "PhotonPulse",
+      "color": "#00BFFF"
     },
     {
-      "name": "Synaptic Surfer",
-      "color": "#32CD32"
-    },
-    {
-      "name": "ByteBlazer",
+      "name": "LunaLoop",
       "color": "#FFD700"
     },
     {
-      "name": "TerraTorch",
-      "color": "#FF69B4"
+      "name": "StellarWave",
+      "color": "#8A2BE2"
     },
     {
-      "name": "NeuroNebula",
-      "color": "#8A2BE2"
+      "name": "NovaNet",
+      "color": "#DC143C"
+    },
+    {
+      "name": "SpaceMatrix",
+      "color": "#3CB371"
     }
   ],
-  "instagram_caption": "🚀 The race of the future is here! Watch our AI titans sprint through the Virtual Spectrum and claim the crown. Who will win?",
-  "facebook_caption": "👀 Ready for a mind‑bending showdown? Join us as our top machine learning models go head‑to‑head in the Neural Nexus Rush. Like, share and comment on your predictions!",
-  "threads_caption": "🏁 ML models go full‑throttle in the Neural Nexus Rush. Who's the ultimate speedster in the virtual realm?",
-  "twitter_caption": "Who's taking the crown in the #NeuralNexusRush? Watch AI models race through a hyper‑real data playground in real‑time.",
-  "youtube_title": "Neural Nexus Rush | AI Models Sprint to the Future – Live Race & Real‑Time Optimization",
-  "youtube_description": "Join the action as elite machine learning models compete in the Neural Nexus Rush – a futuristic, real‑time data sprint. Watch their strategies, learn behind‑the‑scenes insights, and see who raises the podium. Subscribe, like, and comment with your favorite model!",
-  "hashtags": "#ai #ml #tech #neuralnetworks #AIrace"
+  "instagram_caption": "⚡🚀 Who can outpace the Sun? The Photon Flux is live—watch AI models battle to capture solar flare secrets! #AI #Tech #Future",
+  "facebook_caption": "🔥 The stakes are high! Our top AI teams are racing to decode solar storms and keep space tech safe. Witness history unfold LIVE! 🌞💻",
+  "threads_caption": "Solar flare showdown: ML agents racing to outguess the Sun! ⚡🚀",
+  "twitter_caption": "Solar flare showdown: ML agents racing to outguess the Sun! #AI #ML #SpaceTech",
+  "youtube_title": "Photon Flux 2026: AI Battle to Decode Solar Flare Mysteries!",
+  "youtube_description": "Join us as six revolutionary AI squads sprint to outguess the Sun! Live updates, expert commentary, and a deep dive into the science behind solar flare modeling. Subscribe for future tech showdowns!",
+  "hashtags": "#ai #ml #tech"
 }
