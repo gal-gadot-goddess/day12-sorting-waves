@@ -1,37 +1,25 @@
 {
-  "topic": "Photon Flux: AI Models Racing to Simulate Solar Storms",
-  "description": "A dynamic, real‑time competition where machine‑learning agents race to predict and model solar flare behavior, powering next‑gen space tech.",
+  "topic": "Neural Network Convergence Speedrun",
+  "description": "Comparing training speeds of different architectures.",
   "competitors": [
     {
-      "name": "SolarSynth",
-      "color": "#FF8C00"
+      "name": "ADAM",
+      "color": "#00ffaa"
     },
     {
-      "name": "PhotonPulse",
-      "color": "#00BFFF"
+      "name": "SGD",
+      "color": "#ff3e3e"
     },
     {
-      "name": "LunaLoop",
-      "color": "#FFD700"
-    },
-    {
-      "name": "StellarWave",
-      "color": "#8A2BE2"
-    },
-    {
-      "name": "NovaNet",
-      "color": "#DC143C"
-    },
-    {
-      "name": "SpaceMatrix",
-      "color": "#3CB371"
+      "name": "RMSPROP",
+      "color": "#bc13fe"
     }
   ],
-  "instagram_caption": "⚡🚀 Who can outpace the Sun? The Photon Flux is live—watch AI models battle to capture solar flare secrets! #AI #Tech #Future",
-  "facebook_caption": "🔥 The stakes are high! Our top AI teams are racing to decode solar storms and keep space tech safe. Witness history unfold LIVE! 🌞💻",
-  "threads_caption": "Solar flare showdown: ML agents racing to outguess the Sun! ⚡🚀",
-  "twitter_caption": "Solar flare showdown: ML agents racing to outguess the Sun! #AI #ML #SpaceTech",
-  "youtube_title": "Photon Flux 2026: AI Battle to Decode Solar Flare Mysteries!",
-  "youtube_description": "Join us as six revolutionary AI squads sprint to outguess the Sun! Live updates, expert commentary, and a deep dive into the science behind solar flare modeling. Subscribe for future tech showdowns!",
-  "hashtags": "#ai #ml #tech"
+  "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
+  "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
+  "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
+  "twitter_caption": "The Great AI Race: CNN vs Transformer vs MLP. Who converges first? #AI #DataScience",
+  "youtube_title": "Machine Learning Race: Neural Network Convergence Comparison",
+  "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
+  "hashtags": "#ai #ml #machinelearning #datascience #tech"
 }
