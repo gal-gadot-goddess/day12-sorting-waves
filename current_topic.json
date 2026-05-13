@@ -1,37 +1,37 @@
 {
-  "topic": "Synthetic Sprint: The AI Galactic Race",
-  "description": "Watch legendary machine learning models clash in a high‑velocity tour through the universe of data, vying for the crown of fastest decision‑making.",
+  "topic": "Quantum City Quest: AI Models Race to Design Tomorrow's Metropolis",
+  "description": "Five advanced AI systems compete in real‑time to generate neighborhood layouts, traffic flows, and sustainability metrics for a futuristic city. The visual runs as a live leaderboard, animating each model’s progress and design snapshots.",
   "competitors": [
     {
-      "name": "NeuralNova",
-      "color": "#FF5733"
+      "name": "NeuroForge Labs",
+      "color": "#5A1A9F"
     },
     {
-      "name": "QuantumQuasar",
-      "color": "#33FF57"
+      "name": "Quantum Leap ML",
+      "color": "#FFC107"
     },
     {
-      "name": "EdgeEcho",
-      "color": "#3357FF"
+      "name": "Singularity Dynamics",
+      "color": "#1E88E5"
     },
     {
-      "name": "CodexCortex",
-      "color": "#FF33FF"
+      "name": "Atlas Neural Networks",
+      "color": "#E53935"
     },
     {
-      "name": "SynapseSphere",
-      "color": "#33FFFF"
+      "name": "Eclipse AI Studio",
+      "color": "#009688"
     },
     {
-      "name": "PixelPulse",
-      "color": "#FFAA00"
+      "name": "Lumina DeepTech",
+      "color": "#FF5722"
     }
   ],
-  "instagram_caption": "🚀 The ultimate AI showdown is in orbit! ➡️ Who will fuel the future? #SyntheticSprint",
-  "facebook_caption": "The future is now— machine learning models are racing across the galaxy! Watch the spectacular rise and fall of genius algorithms and feel the pulse of technology racing ahead.",
-  "threads_caption": "AI in a flash‑race through space— who wins?",
-  "twitter_caption": "👾 The AI Galaxy Race is live! Fastest decisions, boldest models. Vote for your favorite. #SyntheticSprint #ai",
-  "youtube_title": "Synthetic Sprint – The AI Galactic Race | Who Will Win?",
-  "youtube_description": "Live from the hyper‑dimension, machine learning models battle it out in the Synthetic Sprint. Join us for real‑time updates, behind‑the‑world insights, and a chance to influence the outcome.",
+  "instagram_caption": "🚀🤖 The smartest algorithms are drafting blueprints for our future! Who will claim the crown? #NeuralNexusMarathon",
+  "facebook_caption": "Join the race where AI architects reshape cities. Watch the models build, compete, and evolve in real‑time. #AIInnovation",
+  "threads_caption": "AI architect showdown.",
+  "twitter_caption": "AI is building the cities of 2030—one model at a time. Who wins the race? #AIRace",
+  "youtube_title": "30‑Second AI Race: Building the Next Quantum City",
+  "youtube_description": "Watch as six cutting‑edge AI systems compete to design the most efficient, sustainable and innovative parts of a futuristic city. Live leaderboard, design snaps, and instant feedback. Like, comment, and subscribe for more AI challenges!",
   "hashtags": "#ai #ml #tech"
 }
