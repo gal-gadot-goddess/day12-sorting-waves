@@ -1,37 +1,33 @@
 {
-  "topic": "Quantum City Quest: AI Models Race to Design Tomorrow's Metropolis",
-  "description": "Five advanced AI systems compete in real‑time to generate neighborhood layouts, traffic flows, and sustainability metrics for a futuristic city. The visual runs as a live leaderboard, animating each model’s progress and design snapshots.",
+  "topic": "Circuit Sprint: The AI Auto Racing Tournament",
+  "description": "A high‑speed showdown where neural networks battle it out in a virtual circuit, racing algorithms to optimize performance in real‑time.",
   "competitors": [
     {
-      "name": "NeuroForge Labs",
-      "color": "#5A1A9F"
+      "name": "QuantumPulse",
+      "color": "#FF5733"
     },
     {
-      "name": "Quantum Leap ML",
-      "color": "#FFC107"
+      "name": "NeuralNova",
+      "color": "#3498DB"
     },
     {
-      "name": "Singularity Dynamics",
-      "color": "#1E88E5"
+      "name": "SynthSage",
+      "color": "#9B59B6"
     },
     {
-      "name": "Atlas Neural Networks",
-      "color": "#E53935"
+      "name": "DataDrift",
+      "color": "#2ECC71"
     },
     {
-      "name": "Eclipse AI Studio",
-      "color": "#009688"
-    },
-    {
-      "name": "Lumina DeepTech",
-      "color": "#FF5722"
+      "name": "ByteBlaze",
+      "color": "#E67E22"
     }
   ],
-  "instagram_caption": "🚀🤖 The smartest algorithms are drafting blueprints for our future! Who will claim the crown? #NeuralNexusMarathon",
-  "facebook_caption": "Join the race where AI architects reshape cities. Watch the models build, compete, and evolve in real‑time. #AIInnovation",
-  "threads_caption": "AI architect showdown.",
-  "twitter_caption": "AI is building the cities of 2030—one model at a time. Who wins the race? #AIRace",
-  "youtube_title": "30‑Second AI Race: Building the Next Quantum City",
-  "youtube_description": "Watch as six cutting‑edge AI systems compete to design the most efficient, sustainable and innovative parts of a futuristic city. Live leaderboard, design snaps, and instant feedback. Like, comment, and subscribe for more AI challenges!",
+  "instagram_caption": "🚀🧠 Watch the future of AI as these neural racers race against time! The championship is on—who will cross the finish line first? #AI #ML #tech",
+  "facebook_caption": "The virtual track is lit! 🤖💡 Dive into the ultimate machine learning race where speed, accuracy, and innovation collide. Vote for your favorite and watch the race to the finish! #AI #ML #tech",
+  "threads_caption": "Neural racing redefined: Who's the fastest? 🚀",
+  "twitter_caption": "Circuit Sprint 2026: Neural networks in high‑octane competition! Who will win? #AI #ML #tech",
+  "youtube_title": "Circuit Sprint 2026: AI Models Race to the Finish",
+  "youtube_description": "Join us for an exhilarating machine learning showdown as cutting‑edge neural networks compete in a real‑time racing tournament. Watch how each model upgrades, learns, and accelerates toward victory. Subscribe for more AI action!",
   "hashtags": "#ai #ml #tech"
 }
