@@ -1,33 +1,25 @@
 {
-  "topic": "NeuroNautic Dash: The Quantum ML Race",
-  "description": "Witness ML models sprint through a neon‑lit quantum circuit, each vying for the supreme predictive crown.",
+  "topic": "Neural Network Convergence Speedrun",
+  "description": "Comparing training speeds of different architectures.",
   "competitors": [
     {
-      "name": "NeuroNautics",
-      "color": "#1E90FF"
+      "name": "ADAM",
+      "color": "#00ffaa"
     },
     {
-      "name": "Synaptic Wave",
-      "color": "#8A2BE2"
+      "name": "SGD",
+      "color": "#ff3e3e"
     },
     {
-      "name": "HoloMesh",
-      "color": "#20B2AA"
-    },
-    {
-      "name": "PulseGrid",
-      "color": "#FF8C00"
-    },
-    {
-      "name": "AlphaPulse",
-      "color": "#FF4500"
+      "name": "RMSPROP",
+      "color": "#bc13fe"
     }
   ],
-  "instagram_caption": "Lights, Models, Action! 🌐🏁 The Quantum ML Race is live – who will outpace the others in the neon corridors? #NeuroDash #MLrace",
-  "facebook_caption": "Prepare to be amazed – our future of AI is racing in front of your eyes! Join the Quantum ML Dash and see which algorithm crosses the line first. 🏎️✨",
-  "threads_caption": "Quantum ML race: models sprint through neon circuits.",
-  "twitter_caption": "🚀 The Quantum ML Dash is on! Watch models blaze neon tracks. Who wins the predictive crown? #AI #Tech",
-  "youtube_title": "Quantum ML Dash: Neon Race of the Future",
-  "youtube_description": "Dive into the Quantum ML Dash – a real‑time, visual showdown between top AI models racing through a neon‑lit quantum circuit. Who will claim the crown? Watch, like, and subscribe for more AI races!",
-  "hashtags": "#ai #ml #tech"
+  "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
+  "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
+  "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
+  "twitter_caption": "The Great AI Race: CNN vs Transformer vs MLP. Who converges first? #AI #DataScience",
+  "youtube_title": "Machine Learning Race: Neural Network Convergence Comparison",
+  "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
+  "hashtags": "#ai #ml #machinelearning #datascience #tech"
 }
