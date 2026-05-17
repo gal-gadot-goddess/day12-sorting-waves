@@ -1,25 +1,37 @@
 {
-  "topic": "Neural Network Convergence Speedrun",
-  "description": "Comparing training speeds of different architectures.",
+  "topic": "Neurowave Nexus: The AI Sprint to Singularity",
+  "description": "Six hyper‑intelligent models unleash their neural engines in a procedurally generated gravity‑warp track, racing to drop the first startup burst of the next tech frontier.",
   "competitors": [
     {
-      "name": "ADAM",
-      "color": "#00ffaa"
+      "name": "QuantumCore Neuralix",
+      "color": "#00FFB4"
     },
     {
-      "name": "SGD",
-      "color": "#ff3e3e"
+      "name": "HyperSynapse Labs",
+      "color": "#FF5E5E"
     },
     {
-      "name": "RMSPROP",
-      "color": "#bc13fe"
+      "name": "Subatomic Surge",
+      "color": "#5E5EFF"
+    },
+    {
+      "name": "PixelFlux Dynamics",
+      "color": "#FFAA40"
+    },
+    {
+      "name": "EchoLearn Unity",
+      "color": "#A040FF"
+    },
+    {
+      "name": "CerebroSpace AI",
+      "color": "#00FF00"
     }
   ],
-  "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
-  "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
-  "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
-  "twitter_caption": "The Great AI Race: CNN vs Transformer vs MLP. Who converges first? #AI #DataScience",
-  "youtube_title": "Machine Learning Race: Neural Network Convergence Comparison",
-  "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
-  "hashtags": "#ai #ml #machinelearning #datascience #tech"
+  "instagram_caption": "Who’ll be the first ever AI to cross the Singularity Finish Line? 🏁⚡️",
+  "facebook_caption": "Imagine an AI race where every participant is a living algorithm. Join the wave, watch the future sprint. #AIrace",
+  "threads_caption": "AI’s new front‑line competition—soon to break the speed limits of code.",
+  "twitter_caption": "🚀 The Neurowave Nexus is live: AI models competing for dominance in a hyper‑speed galaxy of code. Who will own the throne? #AIrace",
+  "youtube_title": "AI REVOLUTION: Neurowave Nexus – 2026’s Ultimate Neural Speedrun",
+  "youtube_description": "Dive into the most visually stunning AI marathon, watch the benchmark battle, and see which consciousness emerges victorious. Don’t forget to hit like and subscribe for more mind‑blowing AI showcases!",
+  "hashtags": "#ai #ml #tech"
 }
