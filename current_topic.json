@@ -1,37 +1,25 @@
 {
-  "topic": "Algorithmic Apollo: AI Rocket Race",
-  "description": "A high‑speed showdown where machine‑learning models launch neural insights into orbit, racing to deliver the fastest predictions, cleanest data streams, and most creative outputs. Each model gifts a different trajectory—speed, precision, or novelty—competing for the coveted Stellar Award.",
+  "topic": "Neural Network Convergence Speedrun",
+  "description": "Comparing training speeds of different architectures.",
   "competitors": [
     {
-      "name": "Neural Nova",
-      "color": "#FF5733"
+      "name": "ADAM",
+      "color": "#00ffaa"
     },
     {
-      "name": "Quantum Quark",
-      "color": "#33FF57"
+      "name": "SGD",
+      "color": "#ff3e3e"
     },
     {
-      "name": "Deep Photon",
-      "color": "#3357FF"
-    },
-    {
-      "name": "Tensor Tide",
-      "color": "#FF33A1"
-    },
-    {
-      "name": "Gradient Glitch",
-      "color": "#33FFF5"
-    },
-    {
-      "name": "Synthetix Surge",
-      "color": "#FF8F33"
+      "name": "RMSPROP",
+      "color": "#bc13fe"
     }
   ],
-  "instagram_caption": "🚀 Interstellar AI showdown! Which model will blaze the golden trail? 🌌 #AI #ML #Tech",
-  "facebook_caption": "Join the AI race of the century! Models launch, innovate, and compete—who will claim the Stellar Crown? 🌠",
-  "threads_caption": "⚡️ AI models in a space‑sprint. Who’s first?",
-  "twitter_caption": "🚀 AI Rocket Race live! Speed, precision, creativity collide. Tune in: #AI #ML #Tech",
-  "youtube_title": "AI Rocket Race 2026: Models Compete for Glory!",
-  "youtube_description": "Today’s highlight: six cutting‑edge ML models ignite a pulse‑first competition. Watch as Neural Nova rockets past Quantum Quark in a battle of speed, Tone Deep Photon’s precision, and see who pulls the Stellar Award dust. Comment, subscribe, and watch *next*!",
-  "hashtags": "#ai #ml #tech"
+  "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
+  "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
+  "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
+  "twitter_caption": "The Great AI Race: CNN vs Transformer vs MLP. Who converges first? #AI #DataScience",
+  "youtube_title": "Machine Learning Race: Neural Network Convergence Comparison",
+  "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
+  "hashtags": "#ai #ml #machinelearning #datascience #tech"
 }
