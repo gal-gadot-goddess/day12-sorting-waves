@@ -1,25 +1,37 @@
 {
-  "topic": "Neural Network Convergence Speedrun",
-  "description": "Comparing training speeds of different architectures.",
+  "topic": "Quantum Quark Quest: AI Racing Through Subatomic Simulations",
+  "description": "An ultimate showdown where cutting‑edge machine‑learning models sprint through simulated quantum particles, racing to compute the fastest collision insights. Visualize the race as a 3D track of quarks, each model strapped to a rocket‑powered quark.",
   "competitors": [
     {
-      "name": "ADAM",
-      "color": "#00ffaa"
+      "name": "EntangleAI",
+      "color": "#FF4E50"
     },
     {
-      "name": "SGD",
-      "color": "#ff3e3e"
+      "name": "SubatomicMind",
+      "color": "#4E9DF9"
     },
     {
-      "name": "RMSPROP",
-      "color": "#bc13fe"
+      "name": "NeuralNucleus",
+      "color": "#50C878"
+    },
+    {
+      "name": "QuarkQuester",
+      "color": "#FFD700"
+    },
+    {
+      "name": "ParticleCraft",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "QuantumPulse",
+      "color": "#FF69B4"
     }
   ],
-  "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
-  "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
-  "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
-  "twitter_caption": "The Great AI Race: CNN vs Transformer vs MLP. Who converges first? #AI #DataScience",
-  "youtube_title": "Machine Learning Race: Neural Network Convergence Comparison",
-  "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
-  "hashtags": "#ai #ml #machinelearning #datascience #tech"
+  "instagram_caption": "⚡️💥 Quantum Quark Quest is LIVE! Watch AI models dash through subatomic simulations like never before. Who will claim the quantum crown? #AI #ML #Tech",
+  "facebook_caption": "The race of the future has begun! Join us as top AI models sprint across the quantum frontier in the Quantum Quark Quest. Share the excitement and vote for your favorite at the finish line!",
+  "threads_caption": "Quantum Quark Quest: AI models racing subatomic simulations. Who’s fastest? 🌌",
+  "twitter_caption": "🔬🚀 Hit play on the Quantum Quark Quest – AI racing the universe’s tiniest particles. Who takes the top spot? #AI #ML #Tech",
+  "youtube_title": "Quantum Quark Quest | AI Models Racing Subatomic Simulations",
+  "youtube_description": "Dive into the Quantum Quark Quest, the most futuristic machine‑learning race ever. Watch models battle it out in real‑time through simulated quark collisions. Witness the speed, strategy, and science that power the next generation of AI. Like, comment, and subscribe for more AI racing content!",
+  "hashtags": "#ai #ml #tech"
 }
