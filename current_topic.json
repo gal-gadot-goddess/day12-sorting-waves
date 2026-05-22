@@ -1,25 +1,37 @@
 {
-  "topic": "Neural Network Convergence Speedrun",
-  "description": "Comparing training speeds of different architectures.",
+  "topic": "Quantum Ledger Dash: AI Models Compete in Real‑Time Ledger Scoring",
+  "description": "Watch cutting‑edge ML models race to optimize a hyper‑dynamic quantum ledger, adapting in real time as numbers shift in the live visualization.",
   "competitors": [
     {
-      "name": "ADAM",
-      "color": "#00ffaa"
+      "name": "Neural Nebula",
+      "color": "#FF4500"
     },
     {
-      "name": "SGD",
-      "color": "#ff3e3e"
+      "name": "Quantum Quokka",
+      "color": "#1E90FF"
     },
     {
-      "name": "RMSPROP",
-      "color": "#bc13fe"
+      "name": "Synaptic Samurai",
+      "color": "#32CD32"
+    },
+    {
+      "name": "Byte Bard",
+      "color": "#FFD700"
+    },
+    {
+      "name": "Algorithmic Aurora",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Pixel Pundit",
+      "color": "#FF69B4"
     }
   ],
-  "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
-  "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
-  "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
-  "twitter_caption": "The Great AI Race: CNN vs Transformer vs MLP. Who converges first? #AI #DataScience",
-  "youtube_title": "Machine Learning Race: Neural Network Convergence Comparison",
-  "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
-  "hashtags": "#ai #ml #machinelearning #datascience #tech"
+  "instagram_caption": "🚀 The Quantum Ledger Dash is here! Who will win the fastest AI to crack the ever‑shifting quantum code? 🏁💻 #AICompetition",
+  "facebook_caption": "Join the race! The Quantum Ledger Dash pits the world’s smartest ML models against a turbo‑charged ledger. Which model will step into the future first? Let us know your predictions!",
+  "threads_caption": "Quantum Ledger Dash: AI models fight for the fastest ledger scoring. 🚀",
+  "twitter_caption": "Quantum Ledger Dash is live! Witness 6 AI titans racing to solve a quantum ledger puzzle in real time. Which one will dominate? #AI #ML",
+  "youtube_title": "Quantum Ledger Dash: The Ultimate AI Speed Contest",
+  "youtube_description": "In this high‑stakes livestream, we pit top machine learning models against a quantum ledger. Watch as each AI improvises, learns, and outpaces the rest. Subscribe for more mind‑bending AI battles.",
+  "hashtags": "#ai #ml #tech"
 }
