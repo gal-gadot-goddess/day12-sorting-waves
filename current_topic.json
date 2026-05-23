@@ -1,37 +1,37 @@
 {
-  "topic": "Galactic Byte Dash: The AI Space Race 2026",
-  "description": "An electrifying live‑stream where AI models from Earth, Mars, Jupiter, Venus, Saturn and Neptune compete in real‑time to outmaneuver cutting‑edge simulations and claim the title of the ultimate intelligence.",
+  "topic": "NeuroByte Blitz: AI Speed Showdown",
+  "description": "An electrifying AI race where autonomous neural networks sprint across realms of data, turning raw information into lightning speed. The winner will own the future of computation.",
   "competitors": [
     {
-      "name": "TerraNet",
-      "color": "#4CAF50"
+      "name": "Quantumly Q-Unit",
+      "color": "#FF5733"
     },
     {
-      "name": "MarsMatrix",
-      "color": "#FF5722"
+      "name": "ByteBionic",
+      "color": "#C70039"
     },
     {
-      "name": "JupiterJuice",
-      "color": "#2196F3"
+      "name": "Synthetica",
+      "color": "#900C3F"
     },
     {
-      "name": "VenusVision",
-      "color": "#FFC107"
+      "name": "Algorithmus",
+      "color": "#581845"
     },
     {
-      "name": "SaturnSynapse",
-      "color": "#9C27B0"
+      "name": "DeepPulse",
+      "color": "#1C1C1C"
     },
     {
-      "name": "NeptuneNeural",
-      "color": "#3F51B5"
+      "name": "NeuroNet Nucleus",
+      "color": "#3498DB"
     }
   ],
-  "instagram_caption": "🚀 Watch memories collide as AI from every corner of the solar system go head‑to‑head! Who will rule the galaxy? 🌌 #AiSpaceRace",
-  "facebook_caption": "The ultimate AI showdown is live! From TerraNet to NeptuneNeural, the AI space race heats up—who will dominate the cosmos? #AInoc",
-  "threads_caption": "AI battle across planets—watch the race live!",
-  "twitter_caption": "🚀 AI models from Earth, Mars, Jupiter, and beyond are racing for the crown. Who’s your pick? #AI #ML #Tech",
-  "youtube_title": "AI Gears Up: Galactic Byte Dash Live Stream!",
-  "youtube_description": "Join the fast‑paced match of AI models from every orbit! Subscribe, like, and drop a vote in the comments to support your favorite cosmos coder. Don’t forget to hit the bell for real‑time updates!",
-  "hashtags": "#ai #ml #tech"
+  "instagram_caption": "🚀💥 Watch the future speed race unfold! Only the smartest algorithms survive. #NeuroByteBlitz",
+  "facebook_caption": "Set your sights on the ultimate AI showdown! Which neural net will claim the crown of speed? #NeuroByteBlitz #FutureTech",
+  "threads_caption": "AI Rivals: Who'll outpace the rest? #NeuroByteBlitz",
+  "twitter_caption": "Speed, strategy, and a dash of data! Who will lead the #NeuroByteBlitz? ⚡️🧠",
+  "youtube_title": "NeuroByte Blitz: The AI Race You Can’t Miss!",
+  "youtube_description": "Join us for a nonstop 3D visualization of the most heated AI race yet. Watch Quantumly Q-Unit, ByteBionic, and more battle for supremacy. Subscribe for the next mind‑blowing AI challenge!",
+  "hashtags": "#ai #ml #tech #NeuroByteBlitz"
 }
