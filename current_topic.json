@@ -1,37 +1,25 @@
 {
-  "topic": "NeuroByte Blitz: AI Speed Showdown",
-  "description": "An electrifying AI race where autonomous neural networks sprint across realms of data, turning raw information into lightning speed. The winner will own the future of computation.",
+  "topic": "Neural Network Convergence Speedrun",
+  "description": "Comparing training speeds of different architectures.",
   "competitors": [
     {
-      "name": "Quantumly Q-Unit",
-      "color": "#FF5733"
+      "name": "ADAM",
+      "color": "#00ffaa"
     },
     {
-      "name": "ByteBionic",
-      "color": "#C70039"
+      "name": "SGD",
+      "color": "#ff3e3e"
     },
     {
-      "name": "Synthetica",
-      "color": "#900C3F"
-    },
-    {
-      "name": "Algorithmus",
-      "color": "#581845"
-    },
-    {
-      "name": "DeepPulse",
-      "color": "#1C1C1C"
-    },
-    {
-      "name": "NeuroNet Nucleus",
-      "color": "#3498DB"
+      "name": "RMSPROP",
+      "color": "#bc13fe"
     }
   ],
-  "instagram_caption": "🚀💥 Watch the future speed race unfold! Only the smartest algorithms survive. #NeuroByteBlitz",
-  "facebook_caption": "Set your sights on the ultimate AI showdown! Which neural net will claim the crown of speed? #NeuroByteBlitz #FutureTech",
-  "threads_caption": "AI Rivals: Who'll outpace the rest? #NeuroByteBlitz",
-  "twitter_caption": "Speed, strategy, and a dash of data! Who will lead the #NeuroByteBlitz? ⚡️🧠",
-  "youtube_title": "NeuroByte Blitz: The AI Race You Can’t Miss!",
-  "youtube_description": "Join us for a nonstop 3D visualization of the most heated AI race yet. Watch Quantumly Q-Unit, ByteBionic, and more battle for supremacy. Subscribe for the next mind‑blowing AI challenge!",
-  "hashtags": "#ai #ml #tech #NeuroByteBlitz"
+  "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
+  "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
+  "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
+  "twitter_caption": "The Great AI Race: CNN vs Transformer vs MLP. Who converges first? #AI #DataScience",
+  "youtube_title": "Machine Learning Race: Neural Network Convergence Comparison",
+  "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
+  "hashtags": "#ai #ml #machinelearning #datascience #tech"
 }
