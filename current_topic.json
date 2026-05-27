@@ -1,37 +1,37 @@
 {
-  "topic": "Neural Synapse Sprint 2026",
-  "description": "Watch cutting‑edge machine‑learning models dash across a city‑scale track, competing to eclipse speed, accuracy, and innovation. It’s AI racing redefined for the future.",
+  "topic": "Neural Nomad: AI Racing in Hypernet City",
+  "description": "A high‑tempo machine‑learning sprint where AI agents race across a holographic metropolis, leaving glowing trails of weight updates that brighten with each successful prediction.",
   "competitors": [
     {
-      "name": "Sigmoid Speedster",
-      "color": "#FF5733"
+      "name": "Alpha Lattice",
+      "color": "#ff6f61"
     },
     {
-      "name": "ReLU Racer",
-      "color": "#33FF57"
+      "name": "Quantum Qubit",
+      "color": "#6a5acd"
     },
     {
-      "name": "Transformer Tartan",
-      "color": "#3357FF"
+      "name": "Neural Nova",
+      "color": "#ffd700"
     },
     {
-      "name": "GAN Grizzly",
-      "color": "#FF33A1"
+      "name": "Synth Synth",
+      "color": "#00fa9a"
     },
     {
-      "name": "BERT Buoy",
-      "color": "#FFC300"
+      "name": "Pixel Pulse",
+      "color": "#ff69b4"
     },
     {
-      "name": "LSTM Runner",
-      "color": "#8E44AD"
+      "name": "Edge Enigma",
+      "color": "#8a2be2"
     }
   ],
-  "instagram_caption": "🚀 Neural nets colliding on the fastest track of 2026! 🌐 Who’ll sprint past the silver AI? #NeuralRace",
-  "facebook_caption": "Join the electrifying showdown of tomorrow’s AI—speed, precision, and mind‑blowing tech. Who will claim the crown? 🏅",
-  "threads_caption": "The AI speed duel is live—who’s next to cross the finish line? #AIrace",
-  "twitter_caption": "⚡️ AI in motion: Watch neural nets go turbo! Who will lead the 2026 vision race? #NeuralRace",
-  "youtube_title": "AI 2026: The Ultimate Machine Learning Racing Showdown!",
-  "youtube_description": "Welcome to the future of AI competitions! Follow the Neural Synapse Sprint as the world's top algorithms speed through a cutting‑edge track, pushing the limits of learning, adaptation, and speed. Subscribe, hit the bell, and join the community as we push the frontier of machine intelligence together.",
+  "instagram_caption": "🚀⚡️ Watch the future blaze as these AI masters sprint through the Hypernet City! #NeuralNomad #MLShark",
+  "facebook_caption": "The race of the century is here! Join Alpha Lattice, Quantum Qubit, Neural Nova, and the crew as they sprint quantum speed through Hypernet City. Who will glow the brightest? Comment your pick! 🚦👾",
+  "threads_caption": "🤖⚡️ AI racing in a neon city—who's fastest? #NeuralNomad",
+  "twitter_caption": "Hypernet City heats up as AI agents sprint for the future! Which one will glow brightest? #NeuralNomad #MLRace",
+  "youtube_title": "Hypernet City AI Race – Neural Nomad 2026",
+  "youtube_description": "Dive into the most electrifying AI competition of 2026! Watch Alpha Lattice, Quantum Qubit, Neural Nova, Synth Synth, Pixel Pulse, and Edge Enigma battle it out in Hypernet City. Who takes the neon crown? Subscribe for more AI thrill!",
   "hashtags": "#ai #ml #tech"
 }
