@@ -1,41 +1,37 @@
 {
-  "topic": "Neural Velocity: The 5G AI Grand Prix",
-  "description": "A high‑octane virtual race where cutting‑edge machine‑learning models sprint along a quantum grid, battling for speed, accuracy, and energy efficiency.",
+  "topic": "Neural Synapse Sprint 2026",
+  "description": "Watch cutting‑edge machine‑learning models dash across a city‑scale track, competing to eclipse speed, accuracy, and innovation. It’s AI racing redefined for the future.",
   "competitors": [
     {
-      "name": "Alpha Neural Circuit",
-      "color": "#FF4B2B"
+      "name": "Sigmoid Speedster",
+      "color": "#FF5733"
     },
     {
-      "name": "Quantum Quasar",
-      "color": "#4B79FF"
+      "name": "ReLU Racer",
+      "color": "#33FF57"
     },
     {
-      "name": "BioEdge Synapse",
-      "color": "#28A745"
+      "name": "Transformer Tartan",
+      "color": "#3357FF"
     },
     {
-      "name": "HoloReactor AI",
-      "color": "#FF9121"
+      "name": "GAN Grizzly",
+      "color": "#FF33A1"
     },
     {
-      "name": "CyberLattice",
-      "color": "#6C5CE7"
+      "name": "BERT Buoy",
+      "color": "#FFC300"
     },
     {
-      "name": "EchoFusion",
-      "color": "#00C2FF"
-    },
-    {
-      "name": "Synthetix Engine",
-      "color": "#FF2E63"
+      "name": "LSTM Runner",
+      "color": "#8E44AD"
     }
   ],
-  "instagram_caption": "🏎️✨ Power up the future—AI models are racing the speed of thought! #NeuralVelocity",
-  "facebook_caption": "Ever wondered who can train fast and run fast? The Neural Velocity Grand Prix shows ML teams competing in a race that blurs the line between code and cosmos. Join the sprint!",
-  "threads_caption": "Who will claim the crown in the Neural Velocity Grand Prix? ⚡️",
-  "twitter_caption": "🚀 Get ready for the first AI race into the quantum frontier. 'Neural Velocity' is live—watch models sprint for supremacy. #ai #ml #tech",
-  "youtube_title": "Neural Velocity: The Ultimate AI Grand Prix 2026",
-  "youtube_description": "Dive into the future of machine learning with Neural Velocity, an unprecedented virtual grand prix where AI models battle for speed, accuracy, and sustainability. Subscribe for live updates and behind‑the‑scenes insights.",
+  "instagram_caption": "🚀 Neural nets colliding on the fastest track of 2026! 🌐 Who’ll sprint past the silver AI? #NeuralRace",
+  "facebook_caption": "Join the electrifying showdown of tomorrow’s AI—speed, precision, and mind‑blowing tech. Who will claim the crown? 🏅",
+  "threads_caption": "The AI speed duel is live—who’s next to cross the finish line? #AIrace",
+  "twitter_caption": "⚡️ AI in motion: Watch neural nets go turbo! Who will lead the 2026 vision race? #NeuralRace",
+  "youtube_title": "AI 2026: The Ultimate Machine Learning Racing Showdown!",
+  "youtube_description": "Welcome to the future of AI competitions! Follow the Neural Synapse Sprint as the world's top algorithms speed through a cutting‑edge track, pushing the limits of learning, adaptation, and speed. Subscribe, hit the bell, and join the community as we push the frontier of machine intelligence together.",
   "hashtags": "#ai #ml #tech"
 }
