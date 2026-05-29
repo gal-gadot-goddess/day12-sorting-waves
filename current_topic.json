@@ -1,33 +1,25 @@
 {
-  "topic": "Neural Velocity: The AI Blitz 2026",
-  "description": "A high‑octane showdown where five cutting‑edge AI systems race to solve real‑world problems faster than the clock.",
+  "topic": "Neural Network Convergence Speedrun",
+  "description": "Comparing training speeds of different architectures.",
   "competitors": [
     {
-      "name": "QuantumSynapse",
-      "color": "#FF5733"
+      "name": "ADAM",
+      "color": "#00ffaa"
     },
     {
-      "name": "NeuroNexus",
-      "color": "#33C1FF"
+      "name": "SGD",
+      "color": "#ff3e3e"
     },
     {
-      "name": "ByteBard",
-      "color": "#9C27B0"
-    },
-    {
-      "name": "EchoLogic",
-      "color": "#4CAF50"
-    },
-    {
-      "name": "SkyCoder",
-      "color": "#FF9800"
+      "name": "RMSPROP",
+      "color": "#bc13fe"
     }
   ],
-  "instagram_caption": "🔥 Racing against time, these AI titans battle for the future! Who’s dropping the mic first? 🎤💻 #NeuralVelocity",
-  "facebook_caption": "Join the ultimate AI showdown — neural networks sprint, innovate, and redefine what’s possible! Who will take the crown? 🌐🏁 #NeuralVelocity",
-  "threads_caption": "AI race 2026: who will cross the finish line first? 🏁💡",
-  "twitter_caption": "🚀 The 2026 AI Blitz is live. Fastest algorithms, deepest minds. Who’s winning? #NeuralVelocity #AI",
-  "youtube_title": "⚡️ Neural Velocity 2026 | Epic AI Race: Watch the Machines Compete!",
-  "youtube_description": "Dive into the ultimate AI face‑off.\nWatch QuantumSynapse, NeuroNexus, ByteBard, EchoLogic, and SkyCoder battle it out to solve the toughest challenges.\nSubscribe for all the high‑speed analytics and behind‑the‑scenes insights!",
-  "hashtags": "#ai #ml #tech"
+  "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
+  "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
+  "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
+  "twitter_caption": "The Great AI Race: CNN vs Transformer vs MLP. Who converges first? #AI #DataScience",
+  "youtube_title": "Machine Learning Race: Neural Network Convergence Comparison",
+  "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
+  "hashtags": "#ai #ml #machinelearning #datascience #tech"
 }
