@@ -1,37 +1,37 @@
 {
-  "topic": "Quantum Neural Network Dash: 5G AI Speed Race",
-  "description": "Watch AI models sprint through a holographic nebula, competing for the pinnacle of superhuman inference speed.",
+  "topic": "Neural Network Racing League",
+  "description": "In a livestreamed showdown, top AI models sprint through time‑bound challenges—self‑driving, image super‑resolution, and climate prediction—to earn glory in the most fast‑paced ML competition ever.",
   "competitors": [
     {
-      "name": "FluxWraith",
-      "color": "#FF4500"
+      "name": "NeuroWave",
+      "color": "#FF4D4F"
     },
     {
-      "name": "PulseSynth",
-      "color": "#1E90FF"
+      "name": "QuantumQuill",
+      "color": "#4F4DFF"
     },
     {
-      "name": "NeuraNova",
-      "color": "#32CD32"
+      "name": "VisionSynth",
+      "color": "#4FFF4F"
     },
     {
-      "name": "EchoMatrix",
-      "color": "#8A2BE2"
+      "name": "EdgeForge",
+      "color": "#FF9F4F"
     },
     {
-      "name": "SynapseSyn",
-      "color": "#FFD700"
+      "name": "HyperLayer",
+      "color": "#A94FFF"
     },
     {
-      "name": "RetroByte",
-      "color": "#8B0000"
+      "name": "GravityAI",
+      "color": "#4FFF9F"
     }
   ],
-  "instagram_caption": "🚀⚡️ The AI worlds collide in a neon-lit dash! Who's got the fastest neuron back? #AIShowdown #FutureTech",
-  "facebook_caption": "Ready for the most electrifying AI sprint ever? Fast, furious, and future‑proof; the Quantum Neural Network Dash shows what next‑gen machine learning can do.",
-  "threads_caption": "AI in hyperdrive—who goes first?",
-  "twitter_caption": "⭐️ AI racing into the future: 5G speed, quantum brains. Who's leading the charge? #AIRace",
-  "youtube_title": "Quantum Neural Network Dash: 5G AI Speed Race - Epic Machine Learning Competition",
-  "youtube_description": "Join us as 6 quantum‑powered AI models race through a holographic arena, pushing the limits of inference speed and adaptability. Watch the showdown, compare metrics, and see which model dominates the future of AI. Don’t forget to hit like and subscribe!",
+  "instagram_caption": "⚡️ Who will dominate the AI run? Watch the Neural Network Racing League light up the future. #AI #ML #Tech #Race",
+  "facebook_caption": "The future of machine learning is racing in front of your eyes. Join the Neural Network Racing League and watch top AI models battle for speed, accuracy, and innovation. Don’t miss the live stream!",
+  "threads_caption": "Neural Network Racing League – AI models are hitting the track. Who wins?",
+  "twitter_caption": "🚀 AI models on the track! #NeuralNetworkRacing #MLCompetition #FutureTech",
+  "youtube_title": "Neural Network Racing League: AI Models Battle for the Fastest Prediction",
+  "youtube_description": "In this epic live stream, watch state‑of‑the‑art neural networks sprint through a series of high‑stakes challenges: self‑driving, high‑res imaging, climate modeling. Who will claim the title? Subscribe for the finale!",
   "hashtags": "#ai #ml #tech"
 }
