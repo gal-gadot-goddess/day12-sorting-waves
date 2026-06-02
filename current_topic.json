@@ -1,37 +1,37 @@
 {
-  "topic": "Quantum Neural Sprint: The Hyperdrive Data Race",
-  "description": "Watch the fastest machine‑learning models zip across a quantum‑enhanced data highway, battling for dominance in a high‑stakes, real‑time competition that could redefine AI speed.",
+  "topic": "Galactic Gradient: The Mega-Machine Learning Marathon",
+  "description": "Five orbiting AI titans race across a pixelated galaxy, each algorithm sprinting to outpace the others in a dazzling, neon-ink visualization of their learning curves. The viewer watches neural nets bloom, dive, and bloom again—capturing the thrilling rise and fall of machine intelligence in cosmic scale.",
   "competitors": [
     {
-      "name": "Quantum Quasar",
-      "color": "#FF5733"
+      "name": "Neural Nexus",
+      "color": "#FF4E00"
     },
     {
-      "name": "Neural Nebula",
-      "color": "#33C1FF"
+      "name": "Quantum Quasars",
+      "color": "#00A8FF"
     },
     {
-      "name": "AI Aurora",
-      "color": "#C693FF"
-    },
-    {
-      "name": "Deep Drift",
-      "color": "#28A745"
-    },
-    {
-      "name": "Cipher Storm",
-      "color": "#FFCA28"
-    },
-    {
-      "name": "Synapse Surge",
+      "name": "Synthetix Syndicate",
       "color": "#8E44AD"
+    },
+    {
+      "name": "Singularity Labs",
+      "color": "#4CAF50"
+    },
+    {
+      "name": "Emerald AI",
+      "color": "#E91E63"
+    },
+    {
+      "name": "Omega Dynamics",
+      "color": "#FFC107"
     }
   ],
-  "instagram_caption": "🚀⚡️ The Quantum Neural Sprint is live! Catch the data stream as AI models race across a quantum‑boosted data highway. Who will claim the crown? #AI #ML #Tech",
-  "facebook_caption": "It’s official – the Quantum Neural Sprint is underway. Watch top ML models duke it out in real‑time, pushing the boundaries of speed and accuracy across a quantum‑enhanced data highway. Tune in now and support your favourite contender! #AI #ML #Tech",
-  "threads_caption": "Quantum Neural Sprint live: AI models racing at warp speed! Who’s dominating the data frontier? 🏁",
-  "twitter_caption": "The Quantum Neural Sprint is in full throttle! Watch AI models blaze across a quantum data highway in real time. Who will win? #QuantumAI #AI #ML #Tech",
-  "youtube_title": "Quantum Neural Sprint 2026: AI Models Race Across a Quantum Data Highway",
-  "youtube_description": "Join the first ever Quantum Neural Sprint and witness cutting‑edge machine‑learning models compete in real‑time across a quantum‑enhanced data highway. See who emerges victorious and discover the future of AI speed, strategy, and innovation in this high‑octane live event. #AI #ML #Tech",
+  "instagram_caption": "Press play on the future 🍿🚀 The most electrifying AI race of 2125 isLIVE. Watch your favorite algorithms ignite, collide, and blaze past. Who will claim the neural crown? #GalacticGradient",
+  "facebook_caption": "🌌✨ It’s not a marathon, it’s a quantum sprint. Dive into the blazing Neural Nexus vs. Quantum Quasars showdown; see the future spiral into your feed. Who will top the leaderboard? Comment your pick! #AIShowdown",
+  "threads_caption": "AI in 2125: watch the gradients race across a galaxy. Who’s your future champion?",
+  "twitter_caption": "⚡️🚀 The future’s at full throttle! Neural Nexus, Quantum Quasars, and more battle across the cosmos in the #GalacticGradient race. Who will hold the crown? #AI #ML #Tech",
+  "youtube_title": "GALACTIC GRADIENT: An Epic AI Race Across the Cosmos!",
+  "youtube_description": "Join us as we unravel the most dazzling algorithmic competition ever seen—Neural Nexus, Quantum Quasars, Synthetix Syndicate, Singularity Labs, Emerald AI, and Omega Dynamics clash in a neon-lit galactic showdown. Subscribe, like, and comment on whose gradient will rule the stars!",
   "hashtags": "#ai #ml #tech"
 }
