@@ -1,33 +1,25 @@
 {
-  "topic": "Quantum Quark Challenge: AI's Sprint to the Singularity",
-  "description": "Neon‑lit lanes of silicon and code, where top neural networks duel to predict the next quantum leap before the clock strikes zero. The race is a visual symphony of gradients, swarm charts and pulsating heatmaps that bring hype to algorithmic glory.",
+  "topic": "Neural Network Convergence Speedrun",
+  "description": "Comparing training speeds of different architectures.",
   "competitors": [
     {
-      "name": "TeslAI",
-      "color": "#FF6262"
+      "name": "ADAM",
+      "color": "#00ffaa"
     },
     {
-      "name": "JunoNet",
-      "color": "#62FFBA"
+      "name": "SGD",
+      "color": "#ff3e3e"
     },
     {
-      "name": "PioneerX",
-      "color": "#5A5AFF"
-    },
-    {
-      "name": "NebulaNLP",
-      "color": "#A95EFF"
-    },
-    {
-      "name": "DysonDream",
-      "color": "#FFB16B"
+      "name": "RMSPROP",
+      "color": "#bc13fe"
     }
   ],
-  "instagram_caption": "💥⚡ Get ready for the fastest model in the universe! Who will claim the Quantum Quark crown? #AIGravitas #MachineLearning",
-  "facebook_caption": "🚀 The ultimate AI showdown is here! Watch as five revolutionary models race toward the singularity—who will win the quantum crown? Join the conversation!",
-  "threads_caption": "AI's dash to the singularity—who's the heir to the quantum crown?",
-  "twitter_caption": "⚡️ The Quantum Quark Challenge sparks AI hubris: five models burn through the data cosmos in a speed‑run of predictions! Who will win? #AI",
-  "youtube_title": "Quantum Quark Challenge: Who Wins the AI Race to the Singularity?",
-  "youtube_description": "Dive into the visual frenzy of the Quantum Quark Challenge, where five giant AI models sprint to solve tomorrow's riddles. Watch the gradients, see the swarm analytics, and witness the machine learning glitch that defined the year. Subscribe for more AI fireworks!",
-  "hashtags": "#ai #ml #tech"
+  "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
+  "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
+  "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
+  "twitter_caption": "The Great AI Race: CNN vs Transformer vs MLP. Who converges first? #AI #DataScience",
+  "youtube_title": "Machine Learning Race: Neural Network Convergence Comparison",
+  "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
+  "hashtags": "#ai #ml #machinelearning #datascience #tech"
 }
