@@ -68,7 +68,7 @@ def main():
     # --- Instagram Reel ---
     print("\n📸 UPLOADING TO INSTAGRAM REEL...")
     try:
-        upload_to_instagram(str(video_path), ig_caption, is_story=False, cover_path=str(thumbnail_path))
+        upload_to_instagram(str(video_path), ig_caption, is_story=False)
         print("✅ Instagram Reel Upload Complete!")
     except Exception as e:
         print(f"❌ Instagram Reel upload failed: {e}")
