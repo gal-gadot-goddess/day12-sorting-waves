@@ -1,25 +1,41 @@
 {
-  "topic": "Neural Network Convergence Speedrun",
-  "description": "Comparing training speeds of different architectures.",
+  "topic": "NEON NEUTRINO RACE: AI Engines Compete to Predict Reality",
+  "description": "A futuristic ML race where contenders train on shifting, quantum-inspired signals to forecast the next “neutrino event” faster and more accurately than their rivals.",
   "competitors": [
     {
-      "name": "ADAM",
-      "color": "#00ffaa"
+      "name": "PrismNet v7",
+      "color": "#7C3AED"
     },
     {
-      "name": "SGD",
-      "color": "#ff3e3e"
+      "name": "PhotonForge",
+      "color": "#22D3EE"
     },
     {
-      "name": "RMSPROP",
-      "color": "#bc13fe"
+      "name": "QuantaSprint AI",
+      "color": "#F97316"
+    },
+    {
+      "name": "ShadowGradient",
+      "color": "#10B981"
+    },
+    {
+      "name": "IonPulse Learner",
+      "color": "#60A5FA"
+    },
+    {
+      "name": "Cobalt Cascade",
+      "color": "#F43F5E"
+    },
+    {
+      "name": "Entropy Excalibur",
+      "color": "#EAB308"
     }
   ],
-  "instagram_caption": "🚀 Witness the ultimate AI speedrun! Who wins the convergence race? #AI #MachineLearning",
-  "facebook_caption": "Neural networks competing for the fastest convergence. #TechTrends",
-  "threads_caption": "Which AI architecture is truly the fastest? Let's find out. 🏎️",
-  "twitter_caption": "The Great AI Race: CNN vs Transformer vs MLP. Who converges first? #AI #DataScience",
-  "youtube_title": "Machine Learning Race: Neural Network Convergence Comparison",
-  "youtube_description": "In this video, we visualize the training speed and convergence of various machine learning architectures.",
-  "hashtags": "#ai #ml #machinelearning #datascience #tech"
+  "instagram_caption": "The starter gun just fired—who’s predicting the next neutrino event first? 🚀🧠 Watch the NEON NEUTRINO RACE unfold in real time. Comment your pick! 👇",
+  "facebook_caption": "A new kind of AI competition is here: the NEON NEUTRINO RACE. Seven models enter. One forecasts the future signal the fastest. Can you spot the winner before the final “event” hits?",
+  "threads_caption": "AI vs physics vibes: who wins the NEON NEUTRINO RACE? ⚡️🧠",
+  "twitter_caption": "🚀 NEON NEUTRINO RACE is live: 7 AI engines chasing the next reality-signal. Speed + accuracy = victory. Who do you bet on? #AI #ML",
+  "youtube_title": "NEON NEUTRINO RACE (AI MACHINE LEARNING COMPETITION): Who Predicts Reality Fastest?",
+  "youtube_description": "Welcome to the NEON NEUTRINO RACE—an all-out machine learning showdown where 7 futuristic AI competitors train on shifting, quantum-inspired data to predict the next “neutrino event.” \n\nIn this competition visualization, you’ll see who adapts fastest, who generalizes best, and who ultimately crosses the finish line with the most accurate forecasts.\n\n⏱️ Real-time leaderboard updates\n📈 Accuracy + latency scoring\n🧪 Dynamic signal challenges\n\nWhich model will win? Drop your pick in the comments!",
+  "hashtags": "#ai #ml #tech #machinelearning #competition #dataviz #futuretech #neuralnetworks"
 }
