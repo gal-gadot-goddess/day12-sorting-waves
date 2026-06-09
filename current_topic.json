@@ -1,41 +1,41 @@
 {
-  "topic": "Neural Drift Grand Prix: The Hyper-Sync Race (2026 Edition)",
-  "description": "Watch ML teams compete in a real-time “race” to achieve the fastest, most stable convergence under shifting data wind—synced, adversarial, and relentlessly optimized.",
+  "topic": "NEON NEBULA CUP: The Quantum Drift Race",
+  "description": "A futuristic ML showdown where models sprint through a shifting “quantum nebula” of data, battling for accuracy while latency, drift, and uncertainty are monitored in real time.",
   "competitors": [
     {
-      "name": "QuantumSprint",
+      "name": "AuroraNet",
       "color": "#7C3AED"
     },
     {
-      "name": "GradientGale",
-      "color": "#06B6D4"
-    },
-    {
-      "name": "TokenTurbine",
-      "color": "#F59E0B"
-    },
-    {
-      "name": "PruningPhantom",
+      "name": "QuantaSprint",
       "color": "#22C55E"
     },
     {
-      "name": "VisionVortex",
-      "color": "#3B82F6"
+      "name": "DriftHunter",
+      "color": "#06B6D4"
     },
     {
-      "name": "CausalCruise",
-      "color": "#EF4444"
+      "name": "VantaVision",
+      "color": "#F97316"
     },
     {
-      "name": "MetaMorph",
-      "color": "#14B8A6"
+      "name": "SpectraForge",
+      "color": "#E11D48"
+    },
+    {
+      "name": "Uncertainty Unleashed",
+      "color": "#60A5FA"
+    },
+    {
+      "name": "Latency Lancer",
+      "color": "#A3E635"
     }
   ],
-  "instagram_caption": "🏁 AI is racing itself in 2026. Who wins the Hyper-Sync Grand Prix—speed, stability, or ruthless adaptation? Track the Neural Drift in real time. 🚀 #AI #ML #Tech",
-  "facebook_caption": "The Neural Drift Grand Prix is live: multiple ML teams racing to stay synchronized and converge faster as the data keeps changing. Vote for your favorite competitor and watch the leaderboard evolve! 🏎️💫",
-  "threads_caption": "AI teams: GO. Data: chaos. Who’s keeping the fastest “sync” under pressure? 🧠🏁",
-  "twitter_caption": "Neural Drift Grand Prix (2026): speed vs stability vs adaptation. Watch the ML “race” unfold in real time—who holds sync when the data shifts? 🏁🤖",
-  "youtube_title": "Neural Drift Grand Prix: The Hyper-Sync ML Race (2026) 🏁⚡ Real-Time Visualization",
-  "youtube_description": "Welcome to the Neural Drift Grand Prix—an ML competition visualized like a futuristic race. Each competitor pushes for the fastest and most stable convergence while the environment shifts mid-lap (adversarial noise, distribution drift, and sync challenges).\n\nIn this video you’ll see:\n• Real-time “race” status (loss, accuracy, and robustness)\n• Hyperparameter bursts and recovery arcs\n• The Hyper-Sync leaderboard as models adapt\n\nWhich team will win the Hyper-Sync Race? Drop your pick in the comments!\n\n#ai #ml #tech",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #datascience #futuretech #innovation #visualization"
+  "instagram_caption": "🏁✨ The NEON NEBULA CUP is live: models are racing through drifting space-data in real time. Who will win—accuracy, speed, or uncertainty control? Watch the “quantum drift” visualization go full sci‑fi. 🚀💥",
+  "facebook_caption": "The countdown is on! 🚀 In the NEON NEBULA CUP, competing ML models sprint through a shifting quantum nebula of data—accuracy vs. latency vs. uncertainty. Which competitor do you think takes the trophy? Drop your pick in the comments!",
+  "threads_caption": "ML models racing through a quantum nebula—who’s taking first? 👀🏁",
+  "twitter_caption": "NEON NEBULA CUP is underway: ML models sprint through drifting data fields in real time. Accuracy, latency, uncertainty—no mercy. Who’s your pick? 🚀🏁",
+  "youtube_title": "NEON NEBULA CUP 🏁 Quantum Drift Race: Can AI Models Survive a Moving Data Universe?",
+  "youtube_description": "Welcome to the NEON NEBULA CUP—an electrifying ML race where models must adapt to a constantly shifting “quantum nebula” of data. In this visualization, we track accuracy, latency, and uncertainty as competitors push their limits under drift.\n\nWhich team are you backing?\n\n#ML #AI #Competition #DataDrift #QuantumInspired #ModelEvaluation",
+  "hashtags": "#ai #ml #tech #machinelearning #datadrift #competition #futuretech #quantuminspired #aiviz"
 }
