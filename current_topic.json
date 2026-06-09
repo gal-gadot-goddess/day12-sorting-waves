@@ -1,41 +1,41 @@
 {
-  "topic": "NEON NEBULA CUP: The Quantum Drift Race",
-  "description": "A futuristic ML showdown where models sprint through a shifting “quantum nebula” of data, battling for accuracy while latency, drift, and uncertainty are monitored in real time.",
+  "topic": "Neon Meta-RL Grand Prix: Who Breaks the World First?",
+  "description": "A high-speed ML race where reinforcement learning agents compete to outsmart a constantly evolving “world” in real time—boosting rewards while adapting to sudden rule-shifts.",
   "competitors": [
     {
-      "name": "AuroraNet",
-      "color": "#7C3AED"
+      "name": "Quantum Drift Q-Learner",
+      "color": "#7C4DFF"
     },
     {
-      "name": "QuantaSprint",
-      "color": "#22C55E"
+      "name": "Neural Swarm Actor-Critic",
+      "color": "#00E5FF"
     },
     {
-      "name": "DriftHunter",
-      "color": "#06B6D4"
+      "name": "Cobalt Dreamer Planner",
+      "color": "#1E88E5"
     },
     {
-      "name": "VantaVision",
-      "color": "#F97316"
+      "name": "HyperNova Transformer Pilot",
+      "color": "#FF3D81"
     },
     {
-      "name": "SpectraForge",
-      "color": "#E11D48"
+      "name": "Prism PPO Propeller",
+      "color": "#00C853"
     },
     {
-      "name": "Uncertainty Unleashed",
-      "color": "#60A5FA"
+      "name": "VoidGate Meta-Learner",
+      "color": "#FFB300"
     },
     {
-      "name": "Latency Lancer",
-      "color": "#A3E635"
+      "name": "Spectra SARSA Streak",
+      "color": "#8E24AA"
     }
   ],
-  "instagram_caption": "🏁✨ The NEON NEBULA CUP is live: models are racing through drifting space-data in real time. Who will win—accuracy, speed, or uncertainty control? Watch the “quantum drift” visualization go full sci‑fi. 🚀💥",
-  "facebook_caption": "The countdown is on! 🚀 In the NEON NEBULA CUP, competing ML models sprint through a shifting quantum nebula of data—accuracy vs. latency vs. uncertainty. Which competitor do you think takes the trophy? Drop your pick in the comments!",
-  "threads_caption": "ML models racing through a quantum nebula—who’s taking first? 👀🏁",
-  "twitter_caption": "NEON NEBULA CUP is underway: ML models sprint through drifting data fields in real time. Accuracy, latency, uncertainty—no mercy. Who’s your pick? 🚀🏁",
-  "youtube_title": "NEON NEBULA CUP 🏁 Quantum Drift Race: Can AI Models Survive a Moving Data Universe?",
-  "youtube_description": "Welcome to the NEON NEBULA CUP—an electrifying ML race where models must adapt to a constantly shifting “quantum nebula” of data. In this visualization, we track accuracy, latency, and uncertainty as competitors push their limits under drift.\n\nWhich team are you backing?\n\n#ML #AI #Competition #DataDrift #QuantumInspired #ModelEvaluation",
-  "hashtags": "#ai #ml #tech #machinelearning #datadrift #competition #futuretech #quantuminspired #aiviz"
+  "instagram_caption": "🚀 The Neon Meta-RL Grand Prix is ON. Agents are sprinting through a world that keeps changing mid-lap—who adapts fastest and wins the reward race? 👀💥 Track the live “neon laps” and watch strategies evolve in seconds. Comment your pick! 👇",
+  "facebook_caption": "Can AI adapt faster than chaos? 🤖✨ Welcome to the Neon Meta-RL Grand Prix—where reinforcement learning agents race through a shifting world in real time. Watch who learns, who breaks, and who turns surprises into points. Vote for your champion!",
+  "threads_caption": "AI sprinting through a world that changes every second… who’s winning in your timeline? 👇⚡",
+  "twitter_caption": "Neon Meta-RL Grand Prix: RL agents racing through a constantly changing world. Adaptation speed > brute force. Who wins the neon lap? 🚦🤖 #AI #ML",
+  "youtube_title": "Neon Meta-RL Grand Prix: The AI Race Where the Rules Change Mid-Lap (Live Visualization)",
+  "youtube_description": "In this futuristic ML competition visualization, multiple reinforcement learning agents race in a “world” that evolves during the run. Watch adaptation mechanics, reward trajectories, and sudden rule-shifts as contestants fight for top performance.\n\nTimestamps:\n00:00 Neon start\n02:10 Rule-shift #1\n05:45 Rule-shift #2\n09:30 The final sprint\n\nWho’s your pick? Drop your prediction in the comments!\n\n#reinforcementlearning #machinelearning #visualization",
+  "hashtags": "#ai #ml #tech #reinforcementlearning #deeplearning #competition #futuretech"
 }
