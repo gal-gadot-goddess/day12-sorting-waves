@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Meta-RL Grand Prix: Who Breaks the World First?",
-  "description": "A high-speed ML race where reinforcement learning agents compete to outsmart a constantly evolving “world” in real time—boosting rewards while adapting to sudden rule-shifts.",
+  "topic": "NEON NEURAL GRAND PRIX: The 2026 AI Speedrun Race",
+  "description": "A high-energy ML competition where models sprint through real-time benchmarks—fusing accuracy, latency, and robustness into a futuristic track of live leaderboards.",
   "competitors": [
     {
-      "name": "Quantum Drift Q-Learner",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "Neural Swarm Actor-Critic",
+      "name": "QuantumSprint Q",
       "color": "#00E5FF"
     },
     {
-      "name": "Cobalt Dreamer Planner",
-      "color": "#1E88E5"
+      "name": "NovaDistill Nova",
+      "color": "#7C4DFF"
     },
     {
-      "name": "HyperNova Transformer Pilot",
-      "color": "#FF3D81"
+      "name": "EdgeForge Atlas",
+      "color": "#00E676"
     },
     {
-      "name": "Prism PPO Propeller",
-      "color": "#00C853"
+      "name": "PrismVector Vanta",
+      "color": "#FF3D00"
     },
     {
-      "name": "VoidGate Meta-Learner",
-      "color": "#FFB300"
+      "name": "SynapseWarp Rhea",
+      "color": "#FFEA00"
     },
     {
-      "name": "Spectra SARSA Streak",
-      "color": "#8E24AA"
+      "name": "RetroFusion Kairo",
+      "color": "#00B0FF"
+    },
+    {
+      "name": "CortexComet Lyra",
+      "color": "#FF4DFF"
     }
   ],
-  "instagram_caption": "🚀 The Neon Meta-RL Grand Prix is ON. Agents are sprinting through a world that keeps changing mid-lap—who adapts fastest and wins the reward race? 👀💥 Track the live “neon laps” and watch strategies evolve in seconds. Comment your pick! 👇",
-  "facebook_caption": "Can AI adapt faster than chaos? 🤖✨ Welcome to the Neon Meta-RL Grand Prix—where reinforcement learning agents race through a shifting world in real time. Watch who learns, who breaks, and who turns surprises into points. Vote for your champion!",
-  "threads_caption": "AI sprinting through a world that changes every second… who’s winning in your timeline? 👇⚡",
-  "twitter_caption": "Neon Meta-RL Grand Prix: RL agents racing through a constantly changing world. Adaptation speed > brute force. Who wins the neon lap? 🚦🤖 #AI #ML",
-  "youtube_title": "Neon Meta-RL Grand Prix: The AI Race Where the Rules Change Mid-Lap (Live Visualization)",
-  "youtube_description": "In this futuristic ML competition visualization, multiple reinforcement learning agents race in a “world” that evolves during the run. Watch adaptation mechanics, reward trajectories, and sudden rule-shifts as contestants fight for top performance.\n\nTimestamps:\n00:00 Neon start\n02:10 Rule-shift #1\n05:45 Rule-shift #2\n09:30 The final sprint\n\nWho’s your pick? Drop your prediction in the comments!\n\n#reinforcementlearning #machinelearning #visualization",
-  "hashtags": "#ai #ml #tech #reinforcementlearning #deeplearning #competition #futuretech"
+  "instagram_caption": "🚦THE AI RACE is LIVE: models are speedrunning accuracy + latency + robustness at once. Who takes the NEON CHECKERED FLAG? ⚡🏁 Watch the leaderboard explode in real time. #NEURALGRANDPRIX",
+  "facebook_caption": "What happens when AI models compete like racecars—powering through tests for accuracy, speed, and real-world resilience? Join the NEON NEURAL GRAND PRIX and vote for your champion in the comments! 🏁🤖",
+  "threads_caption": "AI models, meet race track. Who’s winning the NEON GRAND PRIX? ⚡🏁",
+  "twitter_caption": "The 2026 NEON NEURAL GRAND PRIX is underway: accuracy vs latency vs robustness—no excuses. 🏁🤖 Who’s your pick for #1?",
+  "youtube_title": "NEON NEURAL GRAND PRIX 2026: The AI Speedrun Race (Live Leaderboard)",
+  "youtube_description": "Welcome to the NEON NEURAL GRAND PRIX—an adrenaline-fueled ML competition where AI models race through real-time benchmarks. Watch as competitors fight for the best balance of accuracy, low latency, and robustness.\n\nIn this episode:\n- Live-style leaderboard visualization\n- Accuracy vs speed vs resilience “track segments”\n- Comment-powered predictions + dramatic overtakes\n\nSubscribe for more futuristic ML race content and weekly benchmark battles!",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #neuralnetworks #dataviz #competition #race"
 }
