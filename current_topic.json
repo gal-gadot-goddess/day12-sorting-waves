@@ -1,37 +1,41 @@
 {
-  "topic": "Neon Nebula Showdown: The AI Warp-Race to Predict the Unpredictable",
-  "description": "A sci‑fi ML competition where models race through a shifting “nebula” of data, scoring on speed, accuracy, and resilience to sudden concept changes in real time.",
+  "topic": "Neon Relay: The Quantum-Driven Model Sprint",
+  "description": "A futuristic ML race where AI agents compete in real time to win the “latency + accuracy” baton while adapting to shifting data galaxies.",
   "competitors": [
     {
-      "name": "QuantumKite Q",
-      "color": "#7C3AED"
+      "name": "QuantaSprint GPT",
+      "color": "#7C4DFF"
     },
     {
-      "name": "IonRocket RL",
-      "color": "#22D3EE"
+      "name": "LatencyLock Vision",
+      "color": "#00E5FF"
     },
     {
-      "name": "SpectraForge S",
-      "color": "#F97316"
+      "name": "ErrorHorizon Forecast",
+      "color": "#FF4081"
     },
     {
-      "name": "VantaVision V",
-      "color": "#10B981"
+      "name": "Adaptive Alloy RL",
+      "color": "#00E676"
     },
     {
-      "name": "NovaKernel N",
-      "color": "#EAB308"
+      "name": "PatchPulse DistillNet",
+      "color": "#FFD54F"
     },
     {
-      "name": "CryoCortex C",
-      "color": "#60A5FA"
+      "name": "SecureFlow Transformer",
+      "color": "#66BB6A"
+    },
+    {
+      "name": "SynthNova DataForge",
+      "color": "#FF6D00"
     }
   ],
-  "instagram_caption": "🚀 The Neon Nebula is bending time—can your model keep up? Watch the AI Warp-Race live: fastest wins, smartest survives. 💥✨ Who’s taking the warp crown? 👇",
-  "facebook_caption": "Neural racers just launched into the Neon Nebula! 🌌 These models aren’t just predicting—they’re surviving sudden shifts in reality. Like & comment your pick for the winner!",
-  "threads_caption": "AI warp-race check ⚡️ Who wins when the data starts fighting back?",
-  "twitter_caption": "Neon Nebula Showdown: models sprint to predict chaos in real time. Speed + accuracy + resilience. Who takes 1st? 👀 #AI",
-  "youtube_title": "Neon Nebula Showdown 🤖 The AI Warp-Race to Predict the Unpredictable (Live ML Visualization)",
-  "youtube_description": "Welcome to the Neon Nebula Showdown—an intense ML race where competitors must predict the unpredictable as the data environment shifts mid-run. Watch accuracy, latency, and concept-drift resilience score in real time as six AI “pilots” battle for the warp crown.\n\nIn this video: \n- The rules of the AI Warp-Race\n- Live scoreboard breakdown\n- Why concept drift is the ultimate boss fight\n- Who wins (and why)\n\nTimestamps:\n0:00 Intro\n0:30 The Nebula Challenge\n1:10 Live Race Visualization\n3:40 Scoreboard & Winners\n5:10 Final Thoughts\n\nLet us know in the comments: Which competitor are you backing?",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #datascience #aivisualization #competition #futuristic #conceptdrift"
+  "instagram_caption": "🏎️⚡ Neon Relay is LIVE. Who takes the baton—speed or accuracy? Watch the models sprint through shifting “data galaxies” and adapt on the fly. Drop your pick in the comments 👇",
+  "facebook_caption": "The ML race you didn’t know you needed: models battling in a futuristic arena to optimize latency + accuracy as the environment changes every second. Vote for your champion!",
+  "threads_caption": "Speed vs accuracy—who wins the Neon Relay? ⚡🏁",
+  "twitter_caption": "Neon Relay: a futuristic ML race where agents chase the latency+accuracy crown while the data world keeps morphing. Who’s your pick? 👇",
+  "youtube_title": "NEON RELAY: The Quantum-Driven Model Sprint (ML Race Visualization)",
+  "youtube_description": "Welcome to Neon Relay—our futuristic machine learning competition visualization! Watch 7 AI competitors sprint across shifting data galaxies, balancing latency and accuracy in real time. Each round changes the rules mid-race, forcing models to adapt fast.\n\nIn this video:\n- Real-time “latency + accuracy” scoring\n- Adaptive strategy showdowns\n- Live reaction to the closest finish\n\nWhich model are you backing? Comment your winner below.",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #quantumai #deeplearning #futuretech #competition"
 }
