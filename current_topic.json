@@ -1,41 +1,41 @@
 {
-  "topic": "NEON NEURAL DERBY: The Quantum-Vibe Model Sprint",
-  "description": "A high-speed ML race where quantum-inspired algorithms compete in real time to predict, adapt, and generalize under shifting data “weather” on a neon track.",
+  "topic": "Neon Synapse Run: The 2026 Quantum-Normalization Grand Prix",
+  "description": "Watch teams race neural networks in a real-time leaderboard where quantum-inspired data normalization, adaptive losses, and energy-aware inference decide who hits peak accuracy first.",
   "competitors": [
     {
-      "name": "Q-Boost Nova",
+      "name": "Q-Flux Normalize",
       "color": "#7C3AED"
     },
     {
-      "name": "NeuroDrift Reactor",
+      "name": "Synapse Sprint Labs",
       "color": "#22C55E"
     },
     {
-      "name": "Transformer Tide",
+      "name": "LossLattice AI",
       "color": "#06B6D4"
     },
     {
-      "name": "Graph Pulse Engine",
+      "name": "PrismForge Models",
       "color": "#F97316"
     },
     {
-      "name": "Bayes Mirage",
+      "name": "Vector Vortex Training",
       "color": "#F43F5E"
     },
     {
-      "name": "Federated Flash",
-      "color": "#3B82F6"
+      "name": "EnergyGate Inference",
+      "color": "#60A5FA"
     },
     {
-      "name": "SNN Hyperloop",
+      "name": "Gradient Drift Detectives",
       "color": "#EAB308"
     }
   ],
-  "instagram_caption": "🚀 The NEON NEURAL DERBY is LIVE. Who’s fastest when the data starts hallucinating? Watch the models drift, surge, and cross the finish line as the “weather” changes every second. ⚡️🤖 #AI #ML",
-  "facebook_caption": "Can your favorite model survive the shifting data weather? 🌩️🚦 Tune into the NEON NEURAL DERBY—an ML race visualization where quantum-inspired speed meets real-world chaos. Who wins in your opinion?",
-  "threads_caption": "Models racing in neon space… but the data keeps changing. Who’s taking the checkered flag? 🏁🤖",
-  "twitter_caption": "NEON NEURAL DERBY: quantum-vibe ML models sprint as the dataset “weather” changes every tick. Speed vs. stability vs. generalization. Who’s your pick? ⚡️🏁",
-  "youtube_title": "NEON NEURAL DERBY 🏁: Quantum-Vibe ML Models Race in Real Time (Live Visualization)",
-  "youtube_description": "Welcome to the NEON NEURAL DERBY—an addictive, futuristic machine learning race visualization. Seven competitors sprint across a neon track while the environment shifts constantly: concept drift, noise spikes, and distribution “weather” changes every moment. Watch who adapts fastest, who stays accurate under pressure, and who takes the final crown.\n\nSubscribe for more ML race visualizations, showdown dashboards, and real-time AI competitions!",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #quantum #federatedlearning #transformers #graphml #neuralnetworks"
+  "instagram_caption": "🚀 The year’s wildest ML race is LIVE: can your model normalize reality faster than it can drift? 🔥 Neon Synapse Run turns training into a futuristic GRAND PRIX—accuracy, stability, and energy score in one insane leaderboard. Who wins? 👇",
+  "facebook_caption": "Neon Synapse Run is heating up! 🔥 Teams are racing neural networks through quantum-inspired normalization, adaptive losses, and energy-aware inference. Real-time visualization, insane twists, and a leaderboard that won’t forgive drift. Who do you think takes the checkered flag? Comment your pick!",
+  "threads_caption": "AI models don’t just train… they RACE. 🏎️⚡ Vote who wins Neon Synapse Run 👇",
+  "twitter_caption": "Neon Synapse Run: the 2026 Quantum-Normalization Grand Prix is live. 🧠🏁 Accuracy + stability + energy-aware inference decide the winner. Who’s your pick?",
+  "youtube_title": "Neon Synapse Run (2026): The Quantum-Normalization ML Race in Real Time!",
+  "youtube_description": "Welcome to Neon Synapse Run—an all-new futuristic ML competition where teams race neural networks to master quantum-inspired normalization, adaptive losses, and energy-aware inference. Watch the leaderboard update in real time as stability battles speed and every competitor fights drift.\n\nIn this video:\n- The rules of the Quantum-Normalization Grand Prix\n- Real-time race visualization concepts (accuracy, loss, stability, energy)\n- Competitors + their strategies\n\nWhich team wins the checkered flag? Drop your pick in the comments.",
+  "hashtags": "#ai #ml #tech #deeplearning #quantum #machinelearning #futuretech #datascience #mlearnings #artificialintelligence"
 }
