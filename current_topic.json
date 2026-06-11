@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Relay: The Quantum-Driven Model Sprint",
-  "description": "A futuristic ML race where AI agents compete in real time to win the “latency + accuracy” baton while adapting to shifting data galaxies.",
+  "topic": "NEON NEURAL DERBY: The Quantum-Vibe Model Sprint",
+  "description": "A high-speed ML race where quantum-inspired algorithms compete in real time to predict, adapt, and generalize under shifting data “weather” on a neon track.",
   "competitors": [
     {
-      "name": "QuantaSprint GPT",
-      "color": "#7C4DFF"
+      "name": "Q-Boost Nova",
+      "color": "#7C3AED"
     },
     {
-      "name": "LatencyLock Vision",
-      "color": "#00E5FF"
+      "name": "NeuroDrift Reactor",
+      "color": "#22C55E"
     },
     {
-      "name": "ErrorHorizon Forecast",
-      "color": "#FF4081"
+      "name": "Transformer Tide",
+      "color": "#06B6D4"
     },
     {
-      "name": "Adaptive Alloy RL",
-      "color": "#00E676"
+      "name": "Graph Pulse Engine",
+      "color": "#F97316"
     },
     {
-      "name": "PatchPulse DistillNet",
-      "color": "#FFD54F"
+      "name": "Bayes Mirage",
+      "color": "#F43F5E"
     },
     {
-      "name": "SecureFlow Transformer",
-      "color": "#66BB6A"
+      "name": "Federated Flash",
+      "color": "#3B82F6"
     },
     {
-      "name": "SynthNova DataForge",
-      "color": "#FF6D00"
+      "name": "SNN Hyperloop",
+      "color": "#EAB308"
     }
   ],
-  "instagram_caption": "🏎️⚡ Neon Relay is LIVE. Who takes the baton—speed or accuracy? Watch the models sprint through shifting “data galaxies” and adapt on the fly. Drop your pick in the comments 👇",
-  "facebook_caption": "The ML race you didn’t know you needed: models battling in a futuristic arena to optimize latency + accuracy as the environment changes every second. Vote for your champion!",
-  "threads_caption": "Speed vs accuracy—who wins the Neon Relay? ⚡🏁",
-  "twitter_caption": "Neon Relay: a futuristic ML race where agents chase the latency+accuracy crown while the data world keeps morphing. Who’s your pick? 👇",
-  "youtube_title": "NEON RELAY: The Quantum-Driven Model Sprint (ML Race Visualization)",
-  "youtube_description": "Welcome to Neon Relay—our futuristic machine learning competition visualization! Watch 7 AI competitors sprint across shifting data galaxies, balancing latency and accuracy in real time. Each round changes the rules mid-race, forcing models to adapt fast.\n\nIn this video:\n- Real-time “latency + accuracy” scoring\n- Adaptive strategy showdowns\n- Live reaction to the closest finish\n\nWhich model are you backing? Comment your winner below.",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #quantumai #deeplearning #futuretech #competition"
+  "instagram_caption": "🚀 The NEON NEURAL DERBY is LIVE. Who’s fastest when the data starts hallucinating? Watch the models drift, surge, and cross the finish line as the “weather” changes every second. ⚡️🤖 #AI #ML",
+  "facebook_caption": "Can your favorite model survive the shifting data weather? 🌩️🚦 Tune into the NEON NEURAL DERBY—an ML race visualization where quantum-inspired speed meets real-world chaos. Who wins in your opinion?",
+  "threads_caption": "Models racing in neon space… but the data keeps changing. Who’s taking the checkered flag? 🏁🤖",
+  "twitter_caption": "NEON NEURAL DERBY: quantum-vibe ML models sprint as the dataset “weather” changes every tick. Speed vs. stability vs. generalization. Who’s your pick? ⚡️🏁",
+  "youtube_title": "NEON NEURAL DERBY 🏁: Quantum-Vibe ML Models Race in Real Time (Live Visualization)",
+  "youtube_description": "Welcome to the NEON NEURAL DERBY—an addictive, futuristic machine learning race visualization. Seven competitors sprint across a neon track while the environment shifts constantly: concept drift, noise spikes, and distribution “weather” changes every moment. Watch who adapts fastest, who stays accurate under pressure, and who takes the final crown.\n\nSubscribe for more ML race visualizations, showdown dashboards, and real-time AI competitions!",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #quantum #federatedlearning #transformers #graphml #neuralnetworks"
 }
