@@ -1,37 +1,41 @@
 {
-  "topic": "Neural Nightfall Grand Prix: The Model Sprint Through a Living Universe",
-  "description": "A futuristic race where competing ML models sprint to adapt and score highest as the environment morphs in real time—every lap is a new “nightfall” scenario with shifting rules, data drift, and adversarial chaos.",
+  "topic": "Neural Drift Derby 2080: The Model Sprint Through Time",
+  "description": "A futuristic ML race where models compete to survive shifting data, accelerating concept drift, and adversarial time warps—live in a neon “timeline track.”",
   "competitors": [
     {
-      "name": "AstraForge-7",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "KvantKestrel",
+      "name": "ChronoCNN",
       "color": "#00E5FF"
     },
     {
-      "name": "SpectraRanger",
+      "name": "DriftDetectRNN",
+      "color": "#7C4DFF"
+    },
+    {
+      "name": "AdverSlam Transformer",
+      "color": "#FF2E63"
+    },
+    {
+      "name": "Quantum-ish Forest",
       "color": "#00E676"
     },
     {
-      "name": "NightCircuit-Δ",
-      "color": "#FF1744"
+      "name": "BayesPulse Net",
+      "color": "#FFB300"
     },
     {
-      "name": "OpticVortex",
-      "color": "#FFEA00"
+      "name": "MetaRank Optimizer",
+      "color": "#00B0FF"
     },
     {
-      "name": "AtlasLearner",
-      "color": "#2979FF"
+      "name": "Sovereign DistillX",
+      "color": "#D500F9"
     }
   ],
-  "instagram_caption": "POV: you’re watching AI models race through a living universe that changes every second. Who wins when the rules rewrite themselves? 🏁🌌 #NeuralNightfall #MachineLearningRace",
-  "facebook_caption": "Watch the ML Grand Prix where models don’t just predict—they survive a universe that keeps changing. New data, new threats, new rules every lap. Which contender are you betting on?",
-  "threads_caption": "AI race, but the track attacks back. Who’s taking the checkered flag? 🏎️🌌",
-  "twitter_caption": "Neural Nightfall Grand Prix: adaptive ML models vs a universe that mutates every lap. 🏁 Who wins? #AI #MachineLearning",
-  "youtube_title": "Neural Nightfall Grand Prix: The Futuristic ML Race That CHANGES MID-LAP",
-  "youtube_description": "Step into the Neural Nightfall Grand Prix—an adrenaline-fueled competition visualization where competing ML models sprint through a shifting universe. Each lap introduces new distribution drift, adversarial perturbations, and rule changes in real time. Can any model stay perfect when the track evolves instantly?\n\nIn this episode, we pit 6 contenders against the living nightfall environment and rank performance by adaptability, robustness, and time-to-recover.\n\nLike, comment, and tell us: which model are you backing for the final sprint?",
-  "hashtags": "#ai #ml #tech #deeplearning #futuretech #computervision #nlp #datascience"
+  "instagram_caption": "🚀 MODELS RACING THROUGH TIME! Who wins when the data starts changing mid-lap? 🌌🏁 Neural Drift Derby 2080 is LIVE—watch the accuracy, latency, and survival stats go full neon. Comment your pick: #ChronoCNN or #AdverSlam? ⚡",
+  "facebook_caption": "The future of ML is a race against shifting reality. 🏎️💨 In Neural Drift Derby 2080, models must adapt as the world changes—faster than the timeline warps. Watch the competition visualization and vote for your champion in the comments!",
+  "threads_caption": "Data changed mid-race. Can your model survive? ⏱️🏁",
+  "twitter_caption": "Neural Drift Derby 2080: models sprint while the timeline warps. Who’s your pick to beat concept drift + adversarial chaos? 🏁🌌 #ai #ml",
+  "youtube_title": "Neural Drift Derby 2080: The Futuristic ML Race Through Time (Live Visualization)",
+  "youtube_description": "Welcome to Neural Drift Derby 2080—an adrenaline-fueled ML competition visualization where models race across a neon timeline under concept drift, adversarial time warps, and real-time performance pressure.\n\nWatch how each competitor handles shifting data, accuracy decay, robustness tests, and latency demands—then vote for your champion.\n\nTimestamps coming soon:\n00:00 Race intro\n01:10 Drift phase\n03:45 Adversarial time warp\n06:20 Final ranking & winner\n\nWhich model will win the Derby? Drop your pick in the comments!",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #futuretech #neuralnetworks #competition #conceptdrift #adversarialai"
 }
