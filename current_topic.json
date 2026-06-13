@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Drift: The Reinforcement Learning Hyperloop Race",
-  "description": "A high-speed ML competition where agents learn to steer through shifting gravity fields, optimizing rewards in real time as the track mutates every second.",
+  "topic": "Neural Drift Derby: The 2026 Model Speedrun Across the Spacetime Track",
+  "description": "A futuristic race visualization where ML models sprint through a live “spacetime track” of shifting data distributions, latency penalties, and real-time generalization gates.",
   "competitors": [
     {
-      "name": "Gravity Goblin (DQN)",
-      "color": "#00E5FF"
+      "name": "WarpFormer",
+      "color": "#6D28D9"
     },
     {
-      "name": "Policy Phoenix (PPO)",
-      "color": "#FF4D8D"
+      "name": "QuantumDistil",
+      "color": "#22C55E"
     },
     {
-      "name": "Q-Quantum Ranger (Double DQN)",
-      "color": "#7C4DFF"
+      "name": "Spacetime ConvNet",
+      "color": "#38BDF8"
     },
     {
-      "name": "Sarsa Stormrunner",
-      "color": "#00FFA8"
+      "name": "RL Rocket Agent",
+      "color": "#F97316"
     },
     {
-      "name": "Actor-Critic Avalanche (A3C)",
-      "color": "#FFD400"
+      "name": "Bayes Horizon",
+      "color": "#F43F5E"
     },
     {
-      "name": "Meta-Optimizer Mirage (MAML)",
-      "color": "#FF6F00"
+      "name": "MetaTune Mechanic",
+      "color": "#EAB308"
     },
     {
-      "name": "Dream Chaser (World Models)",
-      "color": "#00B3FF"
+      "name": "GraphGatekeeper",
+      "color": "#14B8A6"
     }
   ],
-  "instagram_caption": "The track is alive. The gravity is fake. The agents are real. 🏁⚡ Who’s taking the Hyperloop crown in 60 seconds of chaos? Watch the “Neon Drift” race now!",
-  "facebook_caption": "What happens when reinforcement learning agents race through a world that changes every second? 🚀 Neon Drift is the hyperloop of the future—test your favorite algorithm and predict the winner!",
-  "threads_caption": "AI agents racing in a gravity-shifting hyperloop… who wins?",
-  "twitter_caption": "NEON DRIFT is live: RL agents race a mutating hyperloop track. Every second the rules change. Can your favorite method adapt fast enough? 🏁⚡",
-  "youtube_title": "Neon Drift: The Reinforcement Learning Hyperloop Race (Live ML Visualization)",
-  "youtube_description": "Welcome to Neon Drift—an adrenaline-fueled reinforcement learning race where agents learn to navigate a hyperloop track with shifting gravity fields and surprise obstacles. Watch competitors learn, adapt, and sprint toward maximum reward as the environment mutates every second.\n\nIn this video/visualization, we pit classic and modern RL approaches against a constantly changing world:\n- DQN\n- PPO\n- Double DQN\n- SARSA\n- A3C\n- MAML\n- World Models\n\nComment your pick for the winner and tell us which learning strategy surprised you most!",
-  "hashtags": "#ai #ml #tech #reinforcementlearning #deeplearning #datascience #futuretech #gamedev"
+  "instagram_caption": "🚀 2026 just got faster. Watch the models hit the SPACETIME TRACK—one wrong assumption and they drift out of the lane. Who wins the Neural Drift Derby? 🏁🤖",
+  "facebook_caption": "The Neural Drift Derby is live: models race through shifting data, real-time uncertainty checks, and latency gates. The track changes every lap—only the most resilient AI keeps the lead. Can your favorite competitor cross the finish line first? 👇",
+  "threads_caption": "Your model has speed… but can it survive a shifting universe? ⚡️🏁",
+  "twitter_caption": "Neural Drift Derby 2026: models sprint through spacetime-changing data + latency gates. Who’s taking the crown? 🏁🤖 #ai #ml #race",
+  "youtube_title": "Neural Drift Derby (2026): The ML Race Across Shifting Spacetime Tracks",
+  "youtube_description": "Welcome to the Neural Drift Derby—an AI race visualization where machine learning models compete on a futuristic spacetime track. Each lap introduces new data drift, uncertainty gates, and latency penalties. Watch which competitor adapts fastest and generalizes best as the environment changes in real time.\n\nLike, subscribe, and comment your pick for the winner!",
+  "hashtags": "#ai #ml #tech #deeplearning #machinelearning #datascience #innovation #futurism #competition"
 }
