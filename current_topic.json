@@ -1,37 +1,37 @@
 {
-  "topic": "NEON NUCLEUS: The Transformer Sprint (2026 Edition)",
-  "description": "A live race-style visualization where different transformer families compete to deliver the fastest, most accurate answers under changing ‘quantum weather’ workloads—watch latency, quality, and cost surge in real time.",
+  "topic": "Neural Drift Grand Prix: Predict the Future from Cosmic Noise",
+  "description": "A high-speed ML visualization race where teams try to out-predict tomorrow’s chaotic signals by training on streaming “cosmic noise” data—progress is shown as drifting lanes, live loss holograms, and race-pacing model scores.",
   "competitors": [
     {
-      "name": "Neural Sprint (GPT-Style)",
+      "name": "QuantumLane Q-Learning",
+      "color": "#7C4DFF"
+    },
+    {
+      "name": "PhotonSpline Transformers",
       "color": "#00E5FF"
     },
     {
-      "name": "Vision-Text Warp (Multimodal Transformer)",
-      "color": "#7CFF6B"
+      "name": "NovaBayes DriftNet",
+      "color": "#FF3D7F"
     },
     {
-      "name": "Code Lightning (Coder Model)",
-      "color": "#FFB300"
+      "name": "GravFlux RL Arena",
+      "color": "#00FFA3"
     },
     {
-      "name": "Logic Prism (Reasoning-Focused Model)",
-      "color": "#B388FF"
+      "name": "Echelon Ensemble E-7",
+      "color": "#FFD54F"
     },
     {
-      "name": "Memory Hydra (Long-Context Model)",
-      "color": "#FF4D6D"
-    },
-    {
-      "name": "Edge Ember (On-Device Tiny Model)",
-      "color": "#FF6AF6"
+      "name": "VantaKNN Edge Swarm",
+      "color": "#8BC34A"
     }
   ],
-  "instagram_caption": "🚀 The Transformer Sprint is ON. Who wins when the ‘Quantum Weather’ flips the rules mid-lap—speed, accuracy, or cost? 🔥 Watch the neon race live in your mind… and drop your pick. #race #AI #Transformers",
-  "facebook_caption": "Can your favorite model outrun the Quantum Weather? 🌩️⚡ This futuristic ML race pits transformer families against shifting workloads to maximize accuracy, minimize latency, and control cost. Vote for the winner!",
-  "threads_caption": "Pick a lane: speed, accuracy, or cost—who wins the Neon Nucleus Sprint? 👀",
-  "twitter_caption": "NEON NUCLEUS: Transformer Sprint (2026). Latency vs accuracy vs cost—when the rules change mid-race. Who’s taking the checkered flag? 🏁🤖",
-  "youtube_title": "NEON NUCLEUS: The Transformer Sprint (2026) — Live ML Race Visualization",
-  "youtube_description": "Welcome to NEON NUCLEUS: The Transformer Sprint (2026 Edition)! In this futuristic ML race, transformer competitors battle under shifting “Quantum Weather” workloads. Watch how latency, answer quality, and compute cost evolve in real time as the environment changes.\n\nIn the video:\n- Real-time race visualization style metrics\n- Transformer families competing on speed + accuracy\n- Cost/efficiency under pressure\n\nComment your predicted winner and which metric matters most to you!",
-  "hashtags": "#ai #ml #tech #transformers #deeplearning #aicompete #futuretech #machinelearningrace"
+  "instagram_caption": "🚀 The Neural Drift Grand Prix just went LIVE. Can your favorite model predict the future when the data looks like cosmic static? Watch the hologram lanes—every update is a new lap of accuracy. 🏎️✨",
+  "facebook_caption": "Neural Drift Grand Prix is a futuristic ML race where teams compete to forecast tomorrow from streaming cosmic noise. Track the live “holo-loss” and watch which model truly nails the drift. Who wins in your feed?",
+  "threads_caption": "Predict tomorrow from cosmic noise—watch the ML race live. Who’s your pick? 👀",
+  "twitter_caption": "Neural Drift Grand Prix: teams race to predict the future from cosmic noise. Real-time loss holograms + drifting lanes = chaos you can measure. 🧠🏁",
+  "youtube_title": "Neural Drift Grand Prix (ML Race Visualized): Predict the Future from Cosmic Noise",
+  "youtube_description": "Welcome to the Neural Drift Grand Prix—an electrifying ML competition visualization where models sprint to forecast tomorrow from streaming cosmic noise. Watch drifting lanes, live loss holograms, and race-day leaderboard updates as each team tries to tame chaos. Which competitor will cross the finish line first with the lowest drift error?\n\nTimestamps:\n00:00 Start the race\n02:10 First drift wave\n05:45 Mid-race leaderboard\n09:30 Final prediction sprint\n\n#MachineLearning #AIMetrics #FuturisticVisualization",
+  "hashtags": "#ai #ml #tech #deeplearning #mldrawing #neuralnetworks #datascience #innovation #competition"
 }
