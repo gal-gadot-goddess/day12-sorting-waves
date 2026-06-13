@@ -1,37 +1,41 @@
 {
-  "topic": "Neural Drift Grand Prix: Predict the Future from Cosmic Noise",
-  "description": "A high-speed ML visualization race where teams try to out-predict tomorrow’s chaotic signals by training on streaming “cosmic noise” data—progress is shown as drifting lanes, live loss holograms, and race-pacing model scores.",
+  "topic": "Neon Drift: The Reinforcement Learning Hyperloop Race",
+  "description": "A high-speed ML competition where agents learn to steer through shifting gravity fields, optimizing rewards in real time as the track mutates every second.",
   "competitors": [
     {
-      "name": "QuantumLane Q-Learning",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "PhotonSpline Transformers",
+      "name": "Gravity Goblin (DQN)",
       "color": "#00E5FF"
     },
     {
-      "name": "NovaBayes DriftNet",
-      "color": "#FF3D7F"
+      "name": "Policy Phoenix (PPO)",
+      "color": "#FF4D8D"
     },
     {
-      "name": "GravFlux RL Arena",
-      "color": "#00FFA3"
+      "name": "Q-Quantum Ranger (Double DQN)",
+      "color": "#7C4DFF"
     },
     {
-      "name": "Echelon Ensemble E-7",
-      "color": "#FFD54F"
+      "name": "Sarsa Stormrunner",
+      "color": "#00FFA8"
     },
     {
-      "name": "VantaKNN Edge Swarm",
-      "color": "#8BC34A"
+      "name": "Actor-Critic Avalanche (A3C)",
+      "color": "#FFD400"
+    },
+    {
+      "name": "Meta-Optimizer Mirage (MAML)",
+      "color": "#FF6F00"
+    },
+    {
+      "name": "Dream Chaser (World Models)",
+      "color": "#00B3FF"
     }
   ],
-  "instagram_caption": "🚀 The Neural Drift Grand Prix just went LIVE. Can your favorite model predict the future when the data looks like cosmic static? Watch the hologram lanes—every update is a new lap of accuracy. 🏎️✨",
-  "facebook_caption": "Neural Drift Grand Prix is a futuristic ML race where teams compete to forecast tomorrow from streaming cosmic noise. Track the live “holo-loss” and watch which model truly nails the drift. Who wins in your feed?",
-  "threads_caption": "Predict tomorrow from cosmic noise—watch the ML race live. Who’s your pick? 👀",
-  "twitter_caption": "Neural Drift Grand Prix: teams race to predict the future from cosmic noise. Real-time loss holograms + drifting lanes = chaos you can measure. 🧠🏁",
-  "youtube_title": "Neural Drift Grand Prix (ML Race Visualized): Predict the Future from Cosmic Noise",
-  "youtube_description": "Welcome to the Neural Drift Grand Prix—an electrifying ML competition visualization where models sprint to forecast tomorrow from streaming cosmic noise. Watch drifting lanes, live loss holograms, and race-day leaderboard updates as each team tries to tame chaos. Which competitor will cross the finish line first with the lowest drift error?\n\nTimestamps:\n00:00 Start the race\n02:10 First drift wave\n05:45 Mid-race leaderboard\n09:30 Final prediction sprint\n\n#MachineLearning #AIMetrics #FuturisticVisualization",
-  "hashtags": "#ai #ml #tech #deeplearning #mldrawing #neuralnetworks #datascience #innovation #competition"
+  "instagram_caption": "The track is alive. The gravity is fake. The agents are real. 🏁⚡ Who’s taking the Hyperloop crown in 60 seconds of chaos? Watch the “Neon Drift” race now!",
+  "facebook_caption": "What happens when reinforcement learning agents race through a world that changes every second? 🚀 Neon Drift is the hyperloop of the future—test your favorite algorithm and predict the winner!",
+  "threads_caption": "AI agents racing in a gravity-shifting hyperloop… who wins?",
+  "twitter_caption": "NEON DRIFT is live: RL agents race a mutating hyperloop track. Every second the rules change. Can your favorite method adapt fast enough? 🏁⚡",
+  "youtube_title": "Neon Drift: The Reinforcement Learning Hyperloop Race (Live ML Visualization)",
+  "youtube_description": "Welcome to Neon Drift—an adrenaline-fueled reinforcement learning race where agents learn to navigate a hyperloop track with shifting gravity fields and surprise obstacles. Watch competitors learn, adapt, and sprint toward maximum reward as the environment mutates every second.\n\nIn this video/visualization, we pit classic and modern RL approaches against a constantly changing world:\n- DQN\n- PPO\n- Double DQN\n- SARSA\n- A3C\n- MAML\n- World Models\n\nComment your pick for the winner and tell us which learning strategy surprised you most!",
+  "hashtags": "#ai #ml #tech #reinforcementlearning #deeplearning #datascience #futuretech #gamedev"
 }
