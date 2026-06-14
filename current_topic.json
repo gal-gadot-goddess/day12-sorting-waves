@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Supernova Race: The Galaxy-Scale AI Relay",
-  "description": "A futuristic ML competition where models sprint across a simulated galaxy, competing to decode “supernova signals” with ever-tight latency, energy, and accuracy constraints—visualized like a starship Grand Prix.",
+  "topic": "Neural Speedway: The Quantum Racing League",
+  "description": "A real-time ML race where models sprint through streaming tasks using quantum-inspired search, adaptive routing, and on-the-fly data augmentation—live scored by accuracy, latency, and energy cost.",
   "competitors": [
     {
-      "name": "QuasarNet",
-      "color": "#7C4DFF"
+      "name": "Q-Route Racer",
+      "color": "#7C3AED"
     },
     {
-      "name": "IonPulse AI",
-      "color": "#00E5FF"
+      "name": "Spectral SprintNet",
+      "color": "#22C55E"
     },
     {
-      "name": "PhotonForge",
-      "color": "#FF2D55"
+      "name": "Adaptive DriftGPT",
+      "color": "#06B6D4"
     },
     {
-      "name": "NebulaNexus",
-      "color": "#00C853"
+      "name": "Latency Lancer Transformer",
+      "color": "#F97316"
     },
     {
-      "name": "EventHorizon Labs",
-      "color": "#FFB300"
+      "name": "Ensemble ThunderX",
+      "color": "#EF4444"
     },
     {
-      "name": "AstraKernel",
-      "color": "#00B0FF"
+      "name": "Energy-Aware AtomNet",
+      "color": "#3B82F6"
     },
     {
-      "name": "SpectraSprint",
-      "color": "#FF6D00"
+      "name": "Causal Circuit Convoy",
+      "color": "#EAB308"
     }
   ],
-  "instagram_caption": "🚀💥 The Galaxy-Scale AI Relay is ON. Who will decode the next supernova signal FIRST—accuracy or speed? Watch the Neon Supernova Race in real time. 👀✨",
-  "facebook_caption": "The brightest models are lining up for the Neon Supernova Race! Teams compete to predict and decode supernova signals across a galaxy-scale simulation—fast, accurate, and efficient. Can your favorite contender win the relay?",
-  "threads_caption": "AI models sprinting like starships—who’s taking the supernova crown? 🌌🏁",
-  "twitter_caption": "Neon Supernova Race: Galaxy-scale ML sprint. Decode the signal first—while keeping accuracy + energy in check. ⚡🌌 Who wins?",
-  "youtube_title": "Neon Supernova Race (AI Competition Visualization) | Galaxy-Scale ML Sprint!",
-  "youtube_description": "Welcome to the Neon Supernova Race—an overclocked, futuristic ML competition where rival models battle across a simulated galaxy to decode supernova signals under extreme latency and efficiency constraints. Watch live-style race visuals, starship-rankings, accuracy-energy tradeoffs, and the final relay sprint to victory.\n\nSubscribe for more ML “race” visualizations and futuristic AI battles!",
-  "hashtags": "#ai #ml #tech #deeplearning #visualization #competition #futurism #datascience #race"
+  "instagram_caption": "⚡️🚀 THE NEURAL SPEEDWAY IS ON. Models are racing for the crown—FAST accuracy, low latency, and insane energy efficiency. Which racer wins YOUR vote? 🧠🏁",
+  "facebook_caption": "Neural Speedway just lit up the track! Watch AI models compete in real time—accuracy vs speed vs energy cost. Drop your pick for the winner in the comments 👇",
+  "threads_caption": "AI race mode: ON 🏁 Who’s taking the checkered flag?",
+  "twitter_caption": "🏁 Neural Speedway: Quantum-inspired models racing for accuracy, latency, and energy efficiency. Who wins the league? #AI #ML #Tech",
+  "youtube_title": "Neural Speedway: The Quantum Racing League (Live ML Model Race!)",
+  "youtube_description": "Welcome to Neural Speedway—an ultra-futuristic ML race where competing models tackle streaming tasks in real time. Watch each team sprint using quantum-inspired search, adaptive routing, and dynamic augmentation, then see them scored across accuracy, latency, and energy cost.\n\nVote for your favorite racer, and subscribe for more competitive AI visualizations!",
+  "hashtags": "#ai #ml #tech #machinelearning #quantumai #neuralnetworks #datascience #competition #futuristic #deeplearning"
 }
