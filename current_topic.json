@@ -1,41 +1,41 @@
 {
-  "topic": "Neural Drift Derby: The 2026 Model Speedrun Across the Spacetime Track",
-  "description": "A futuristic race visualization where ML models sprint through a live “spacetime track” of shifting data distributions, latency penalties, and real-time generalization gates.",
+  "topic": "Neon Supernova Race: The Galaxy-Scale AI Relay",
+  "description": "A futuristic ML competition where models sprint across a simulated galaxy, competing to decode “supernova signals” with ever-tight latency, energy, and accuracy constraints—visualized like a starship Grand Prix.",
   "competitors": [
     {
-      "name": "WarpFormer",
-      "color": "#6D28D9"
+      "name": "QuasarNet",
+      "color": "#7C4DFF"
     },
     {
-      "name": "QuantumDistil",
-      "color": "#22C55E"
+      "name": "IonPulse AI",
+      "color": "#00E5FF"
     },
     {
-      "name": "Spacetime ConvNet",
-      "color": "#38BDF8"
+      "name": "PhotonForge",
+      "color": "#FF2D55"
     },
     {
-      "name": "RL Rocket Agent",
-      "color": "#F97316"
+      "name": "NebulaNexus",
+      "color": "#00C853"
     },
     {
-      "name": "Bayes Horizon",
-      "color": "#F43F5E"
+      "name": "EventHorizon Labs",
+      "color": "#FFB300"
     },
     {
-      "name": "MetaTune Mechanic",
-      "color": "#EAB308"
+      "name": "AstraKernel",
+      "color": "#00B0FF"
     },
     {
-      "name": "GraphGatekeeper",
-      "color": "#14B8A6"
+      "name": "SpectraSprint",
+      "color": "#FF6D00"
     }
   ],
-  "instagram_caption": "🚀 2026 just got faster. Watch the models hit the SPACETIME TRACK—one wrong assumption and they drift out of the lane. Who wins the Neural Drift Derby? 🏁🤖",
-  "facebook_caption": "The Neural Drift Derby is live: models race through shifting data, real-time uncertainty checks, and latency gates. The track changes every lap—only the most resilient AI keeps the lead. Can your favorite competitor cross the finish line first? 👇",
-  "threads_caption": "Your model has speed… but can it survive a shifting universe? ⚡️🏁",
-  "twitter_caption": "Neural Drift Derby 2026: models sprint through spacetime-changing data + latency gates. Who’s taking the crown? 🏁🤖 #ai #ml #race",
-  "youtube_title": "Neural Drift Derby (2026): The ML Race Across Shifting Spacetime Tracks",
-  "youtube_description": "Welcome to the Neural Drift Derby—an AI race visualization where machine learning models compete on a futuristic spacetime track. Each lap introduces new data drift, uncertainty gates, and latency penalties. Watch which competitor adapts fastest and generalizes best as the environment changes in real time.\n\nLike, subscribe, and comment your pick for the winner!",
-  "hashtags": "#ai #ml #tech #deeplearning #machinelearning #datascience #innovation #futurism #competition"
+  "instagram_caption": "🚀💥 The Galaxy-Scale AI Relay is ON. Who will decode the next supernova signal FIRST—accuracy or speed? Watch the Neon Supernova Race in real time. 👀✨",
+  "facebook_caption": "The brightest models are lining up for the Neon Supernova Race! Teams compete to predict and decode supernova signals across a galaxy-scale simulation—fast, accurate, and efficient. Can your favorite contender win the relay?",
+  "threads_caption": "AI models sprinting like starships—who’s taking the supernova crown? 🌌🏁",
+  "twitter_caption": "Neon Supernova Race: Galaxy-scale ML sprint. Decode the signal first—while keeping accuracy + energy in check. ⚡🌌 Who wins?",
+  "youtube_title": "Neon Supernova Race (AI Competition Visualization) | Galaxy-Scale ML Sprint!",
+  "youtube_description": "Welcome to the Neon Supernova Race—an overclocked, futuristic ML competition where rival models battle across a simulated galaxy to decode supernova signals under extreme latency and efficiency constraints. Watch live-style race visuals, starship-rankings, accuracy-energy tradeoffs, and the final relay sprint to victory.\n\nSubscribe for more ML “race” visualizations and futuristic AI battles!",
+  "hashtags": "#ai #ml #tech #deeplearning #visualization #competition #futurism #datascience #race"
 }
