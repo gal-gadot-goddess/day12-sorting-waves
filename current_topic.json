@@ -1,41 +1,41 @@
 {
-  "topic": "Neural Speedway: The Quantum Racing League",
-  "description": "A real-time ML race where models sprint through streaming tasks using quantum-inspired search, adaptive routing, and on-the-fly data augmentation—live scored by accuracy, latency, and energy cost.",
+  "topic": "NEON QUANTUM DERBY: The 2030 Speedrun Showdown",
+  "description": "A futuristic ML race where models compete in real-time to win the “latency lottery” while maintaining accuracy under adversarial data drift—broadcast live as a neon track visualization.",
   "competitors": [
     {
-      "name": "Q-Route Racer",
-      "color": "#7C3AED"
+      "name": "Latency Lynx",
+      "color": "#00E5FF"
     },
     {
-      "name": "Spectral SprintNet",
-      "color": "#22C55E"
+      "name": "Prune Phoenix",
+      "color": "#FF3D7F"
     },
     {
-      "name": "Adaptive DriftGPT",
-      "color": "#06B6D4"
+      "name": "Drift Dreadnought",
+      "color": "#7CFF6B"
     },
     {
-      "name": "Latency Lancer Transformer",
-      "color": "#F97316"
+      "name": "Quantum CrispNet",
+      "color": "#8A5CFF"
     },
     {
-      "name": "Ensemble ThunderX",
-      "color": "#EF4444"
+      "name": "Edge Thunderbolt",
+      "color": "#FFD54A"
     },
     {
-      "name": "Energy-Aware AtomNet",
-      "color": "#3B82F6"
+      "name": "Ensemble Avalanche",
+      "color": "#4D90FE"
     },
     {
-      "name": "Causal Circuit Convoy",
-      "color": "#EAB308"
+      "name": "Distill Nova",
+      "color": "#00FF9A"
     }
   ],
-  "instagram_caption": "⚡️🚀 THE NEURAL SPEEDWAY IS ON. Models are racing for the crown—FAST accuracy, low latency, and insane energy efficiency. Which racer wins YOUR vote? 🧠🏁",
-  "facebook_caption": "Neural Speedway just lit up the track! Watch AI models compete in real time—accuracy vs speed vs energy cost. Drop your pick for the winner in the comments 👇",
-  "threads_caption": "AI race mode: ON 🏁 Who’s taking the checkered flag?",
-  "twitter_caption": "🏁 Neural Speedway: Quantum-inspired models racing for accuracy, latency, and energy efficiency. Who wins the league? #AI #ML #Tech",
-  "youtube_title": "Neural Speedway: The Quantum Racing League (Live ML Model Race!)",
-  "youtube_description": "Welcome to Neural Speedway—an ultra-futuristic ML race where competing models tackle streaming tasks in real time. Watch each team sprint using quantum-inspired search, adaptive routing, and dynamic augmentation, then see them scored across accuracy, latency, and energy cost.\n\nVote for your favorite racer, and subscribe for more competitive AI visualizations!",
-  "hashtags": "#ai #ml #tech #machinelearning #quantumai #neuralnetworks #datascience #competition #futuristic #deeplearning"
+  "instagram_caption": "🏁⚡ NEON QUANTUM DERBY is live! Who wins the “Latency Lottery” without sacrificing accuracy as the data goes feral? Watch the models sprint through drift zones—one frame, one verdict. Comment your pick 👇",
+  "facebook_caption": "The future of ML benchmarking is a race. 🚀 In NEON QUANTUM DERBY, models battle for the fastest correct predictions while data changes mid-run. Which competitor will cross the finish line first—and still stay accurate?",
+  "threads_caption": "Real ML… but as a neon race. 🏁 Who’s taking the crown—Latency Lynx or Drift Dreadnought?",
+  "twitter_caption": "NEON QUANTUM DERBY: models racing at the edge of latency + accuracy under adversarial drift. 🏁⚡ Who wins your vote?",
+  "youtube_title": "NEON QUANTUM DERBY: The 2030 ML Race (Latency vs Accuracy in Real Time)",
+  "youtube_description": "Welcome to NEON QUANTUM DERBY—an ML competition visualized like a futuristic race! Watch seven model “drivers” sprint through latency zones, accuracy checkpoints, and sudden adversarial drift. The winners aren’t just fast—they stay correct when the track changes.\n\nIn this video you’ll see:\n• Live-style race UI concepts (speed, accuracy, drift stress)\n• How adversarial data shifts challenge predictors\n• Why latency + robustness beats raw accuracy alone\n\nDrop your pick in the comments: which competitor wins the Derby?",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #datascience #futurism #benchmarking #neuralnets #quantum"
 }
