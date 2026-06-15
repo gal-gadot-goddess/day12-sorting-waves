@@ -1,37 +1,41 @@
 {
-  "topic": "NeuroNova: The 2026 Model Grand Prix (Live Inference Race)",
-  "description": "Watch rival AI teams sprint from cold start to real-time accuracy as models compete in a glowing track—latency, accuracy, and energy all determine the winners.",
+  "topic": "Neon Galaxy Race: The Planet-Swapping Model Derby",
+  "description": "Watch AI teams compete to keep accuracy high while their models are forced to “swap planets” mid-race—meaning sudden domain shifts, sensor noise, and new environments in real time.",
   "competitors": [
     {
-      "name": "QuantumSprint Q-7",
-      "color": "#7C3AED"
+      "name": "QuantaVoyager",
+      "color": "#00E5FF"
     },
     {
-      "name": "NeonLogic NL-9",
-      "color": "#22C55E"
+      "name": "IonForge",
+      "color": "#7C4DFF"
     },
     {
-      "name": "TensorTide TT-3",
-      "color": "#06B6D4"
+      "name": "PulseSovereign",
+      "color": "#FF2E88"
     },
     {
-      "name": "SpectraWeave SW-X",
-      "color": "#F97316"
+      "name": "Atlas DriftNet",
+      "color": "#00FFB2"
     },
     {
-      "name": "CacheCruiser CC-8",
-      "color": "#F43F5E"
+      "name": "HyperNova Ensemble",
+      "color": "#FFD400"
     },
     {
-      "name": "GraphGale GG-2",
-      "color": "#60A5FA"
+      "name": "SpectraCortex",
+      "color": "#FF6A00"
+    },
+    {
+      "name": "ZeroGravity Learning",
+      "color": "#19A7FF"
     }
   ],
-  "instagram_caption": "🚀 The year is 2026 and the models are racing! Who wins the NeuroNova Grand Prix: fastest to accuracy, or smartest under pressure? 🔥 Watch the live “inference track” now—then vote your favorite team in the comments. #NeuroNova #ModelRace",
-  "facebook_caption": "AI is no longer just training—it’s racing. 🏁 In NeuroNova: The 2026 Model Grand Prix, teams compete on real-time inference speed, accuracy, and efficiency. Which model do you think will cross the finish line first?",
-  "threads_caption": "Models in a real-time race—accuracy vs speed vs energy. Who’s taking the checkered flag? 🏎️⚡",
-  "twitter_caption": "NeuroNova Grand Prix is live: models sprint from cold start to real-time accuracy. Latency, accuracy, energy = glory. Who wins? 🏁 #AI #ML",
-  "youtube_title": "NeuroNova: The 2026 Model Grand Prix (Live Inference Race Visualization)",
-  "youtube_description": "Welcome to NeuroNova: The 2026 Model Grand Prix—an adrenaline-fueled ML competition where rival models race through real-time inference challenges. Each contender is judged on latency, accuracy, and energy efficiency.\n\nIn this video you’ll see a futuristic race visualization, side-by-side performance breakdowns, and the moment the leader flips under pressure.\n\nComment your pick and subscribe for the next season of the race!",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #datascience #futuretech #innovation #modelrace"
+  "instagram_caption": "🚀 THE NEON GALAXY RACE is live. Can your model survive a mid-run “planet swap”? 🌍➡️🪐 Accuracy vs. chaos. Watch the leaderboard evolve in real time. Who’s taking the crown? 👇",
+  "facebook_caption": "AI teams are racing through a neon galaxy—then the universe changes rules mid-lap. 🌌 Models must adapt instantly to new “planets” (new data domains, noise, and conditions). Can anyone hold the line? Drop your pick for who wins!",
+  "threads_caption": "Mid-race planet swap… who adapts faster: Quanta or the Chaos? 🌌🤖",
+  "twitter_caption": "Neon Galaxy Race: models forced to planet-swap mid-run. Accuracy under chaos = the real speed test. Who’s winning this season? 🪐⚡ #ai #ml",
+  "youtube_title": "NEON GALAXY RACE (AI Competition): Planet-Swapping Models in Real Time!",
+  "youtube_description": "Welcome to the Neon Galaxy Race—an ML competition visualization where teams must keep accuracy high while models face sudden “planet swaps” (domain shifts, sensor noise, and new environments) mid-race. Watch the leaderboard update live as each contestant adapts to the ever-changing universe. Who will stabilize first and cross the finish line with the highest score?\n\nTime: 2026-06-15",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #competition #visualization #futuristic #neuralnetworks #innovation"
 }
