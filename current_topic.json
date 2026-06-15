@@ -1,41 +1,37 @@
 {
-  "topic": "NEON QUANTUM DERBY: The 2030 Speedrun Showdown",
-  "description": "A futuristic ML race where models compete in real-time to win the “latency lottery” while maintaining accuracy under adversarial data drift—broadcast live as a neon track visualization.",
+  "topic": "NeuroNova: The 2026 Model Grand Prix (Live Inference Race)",
+  "description": "Watch rival AI teams sprint from cold start to real-time accuracy as models compete in a glowing track—latency, accuracy, and energy all determine the winners.",
   "competitors": [
     {
-      "name": "Latency Lynx",
-      "color": "#00E5FF"
+      "name": "QuantumSprint Q-7",
+      "color": "#7C3AED"
     },
     {
-      "name": "Prune Phoenix",
-      "color": "#FF3D7F"
+      "name": "NeonLogic NL-9",
+      "color": "#22C55E"
     },
     {
-      "name": "Drift Dreadnought",
-      "color": "#7CFF6B"
+      "name": "TensorTide TT-3",
+      "color": "#06B6D4"
     },
     {
-      "name": "Quantum CrispNet",
-      "color": "#8A5CFF"
+      "name": "SpectraWeave SW-X",
+      "color": "#F97316"
     },
     {
-      "name": "Edge Thunderbolt",
-      "color": "#FFD54A"
+      "name": "CacheCruiser CC-8",
+      "color": "#F43F5E"
     },
     {
-      "name": "Ensemble Avalanche",
-      "color": "#4D90FE"
-    },
-    {
-      "name": "Distill Nova",
-      "color": "#00FF9A"
+      "name": "GraphGale GG-2",
+      "color": "#60A5FA"
     }
   ],
-  "instagram_caption": "🏁⚡ NEON QUANTUM DERBY is live! Who wins the “Latency Lottery” without sacrificing accuracy as the data goes feral? Watch the models sprint through drift zones—one frame, one verdict. Comment your pick 👇",
-  "facebook_caption": "The future of ML benchmarking is a race. 🚀 In NEON QUANTUM DERBY, models battle for the fastest correct predictions while data changes mid-run. Which competitor will cross the finish line first—and still stay accurate?",
-  "threads_caption": "Real ML… but as a neon race. 🏁 Who’s taking the crown—Latency Lynx or Drift Dreadnought?",
-  "twitter_caption": "NEON QUANTUM DERBY: models racing at the edge of latency + accuracy under adversarial drift. 🏁⚡ Who wins your vote?",
-  "youtube_title": "NEON QUANTUM DERBY: The 2030 ML Race (Latency vs Accuracy in Real Time)",
-  "youtube_description": "Welcome to NEON QUANTUM DERBY—an ML competition visualized like a futuristic race! Watch seven model “drivers” sprint through latency zones, accuracy checkpoints, and sudden adversarial drift. The winners aren’t just fast—they stay correct when the track changes.\n\nIn this video you’ll see:\n• Live-style race UI concepts (speed, accuracy, drift stress)\n• How adversarial data shifts challenge predictors\n• Why latency + robustness beats raw accuracy alone\n\nDrop your pick in the comments: which competitor wins the Derby?",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #datascience #futurism #benchmarking #neuralnets #quantum"
+  "instagram_caption": "🚀 The year is 2026 and the models are racing! Who wins the NeuroNova Grand Prix: fastest to accuracy, or smartest under pressure? 🔥 Watch the live “inference track” now—then vote your favorite team in the comments. #NeuroNova #ModelRace",
+  "facebook_caption": "AI is no longer just training—it’s racing. 🏁 In NeuroNova: The 2026 Model Grand Prix, teams compete on real-time inference speed, accuracy, and efficiency. Which model do you think will cross the finish line first?",
+  "threads_caption": "Models in a real-time race—accuracy vs speed vs energy. Who’s taking the checkered flag? 🏎️⚡",
+  "twitter_caption": "NeuroNova Grand Prix is live: models sprint from cold start to real-time accuracy. Latency, accuracy, energy = glory. Who wins? 🏁 #AI #ML",
+  "youtube_title": "NeuroNova: The 2026 Model Grand Prix (Live Inference Race Visualization)",
+  "youtube_description": "Welcome to NeuroNova: The 2026 Model Grand Prix—an adrenaline-fueled ML competition where rival models race through real-time inference challenges. Each contender is judged on latency, accuracy, and energy efficiency.\n\nIn this video you’ll see a futuristic race visualization, side-by-side performance breakdowns, and the moment the leader flips under pressure.\n\nComment your pick and subscribe for the next season of the race!",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #datascience #futuretech #innovation #modelrace"
 }
