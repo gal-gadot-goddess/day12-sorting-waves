@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Galaxy Race: The Planet-Swapping Model Derby",
-  "description": "Watch AI teams compete to keep accuracy high while their models are forced to “swap planets” mid-race—meaning sudden domain shifts, sensor noise, and new environments in real time.",
+  "topic": "Neural Speedway: The 2026 Quantum-Boost ML Dash",
+  "description": "A futuristic ML race where teams “warp-train” models in real time to win on accuracy, latency, and robustness—mapped like a neon speedway track.",
   "competitors": [
     {
-      "name": "QuantaVoyager",
+      "name": "Quantum SprintNet",
       "color": "#00E5FF"
     },
     {
-      "name": "IonForge",
+      "name": "HyperLlama Drift",
       "color": "#7C4DFF"
     },
     {
-      "name": "PulseSovereign",
-      "color": "#FF2E88"
+      "name": "NeonVision R-CNN",
+      "color": "#FF4081"
     },
     {
-      "name": "Atlas DriftNet",
-      "color": "#00FFB2"
+      "name": "Transformer Turbo7",
+      "color": "#00E676"
     },
     {
-      "name": "HyperNova Ensemble",
-      "color": "#FFD400"
+      "name": "GraphGlide RL",
+      "color": "#FFD740"
     },
     {
-      "name": "SpectraCortex",
-      "color": "#FF6A00"
+      "name": "Ensemble Apex",
+      "color": "#FF6D00"
     },
     {
-      "name": "ZeroGravity Learning",
-      "color": "#19A7FF"
+      "name": "SafetySentinel Guard",
+      "color": "#64B5F6"
     }
   ],
-  "instagram_caption": "🚀 THE NEON GALAXY RACE is live. Can your model survive a mid-run “planet swap”? 🌍➡️🪐 Accuracy vs. chaos. Watch the leaderboard evolve in real time. Who’s taking the crown? 👇",
-  "facebook_caption": "AI teams are racing through a neon galaxy—then the universe changes rules mid-lap. 🌌 Models must adapt instantly to new “planets” (new data domains, noise, and conditions). Can anyone hold the line? Drop your pick for who wins!",
-  "threads_caption": "Mid-race planet swap… who adapts faster: Quanta or the Chaos? 🌌🤖",
-  "twitter_caption": "Neon Galaxy Race: models forced to planet-swap mid-run. Accuracy under chaos = the real speed test. Who’s winning this season? 🪐⚡ #ai #ml",
-  "youtube_title": "NEON GALAXY RACE (AI Competition): Planet-Swapping Models in Real Time!",
-  "youtube_description": "Welcome to the Neon Galaxy Race—an ML competition visualization where teams must keep accuracy high while models face sudden “planet swaps” (domain shifts, sensor noise, and new environments) mid-race. Watch the leaderboard update live as each contestant adapts to the ever-changing universe. Who will stabilize first and cross the finish line with the highest score?\n\nTime: 2026-06-15",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #competition #visualization #futuristic #neuralnetworks #innovation"
+  "instagram_caption": "🚦NEURAL SPEEDWAY IS LIVE. Which team crosses the finish line first—accuracy, speed, or real-world robustness? Watch the models “warp-train” like it’s 2099. 🏁✨",
+  "facebook_caption": "The 2026 Neural Speedway is here! Seven ML teams race to optimize accuracy, latency, and reliability in a neon-futuristic showdown. Who do you think wins the Quantum-Boost Dash?",
+  "threads_caption": "ML teams are literally racing in neon speedway form—who’s your pick to win? 🏁⚡",
+  "twitter_caption": "Neural Speedway (2026) is live: Quantum-Boost ML Dash—accuracy vs latency vs robustness. Who takes the checkered flag? 🏁⚡",
+  "youtube_title": "Neural Speedway 2026: Quantum-Boost ML Race (Live Visualization)",
+  "youtube_description": "Welcome to Neural Speedway 2026—an epic, futuristic machine learning race visualization. Seven teams warp-train their models in real time, competing on accuracy, latency, and robustness. Watch the neon speedway track update as contenders accelerate, drift, and finally cross the line.\n\nChapters:\n00:00 Countdown\n01:15 Race Start: Warp-Train Phase\n03:40 Mid-Race Split: Accuracy vs Latency\n06:20 Final Lap: Robustness Check\n08:10 Winner Reveal & Breakdown\n\nWhich competitor are you backing? Drop your pick in the comments.",
+  "hashtags": "#ai #ml #tech #deeplearning #quantum #futuretech #dataviz #mldev #innovation"
 }
