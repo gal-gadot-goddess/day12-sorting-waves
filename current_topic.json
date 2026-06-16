@@ -1,37 +1,41 @@
 {
-  "topic": "NEON GRADIENT DERBY 2099: The Model Sprint to Zero-Latency AI",
-  "description": "Watch competing ML systems race on a live track of token speed, energy efficiency, and accuracy under extreme real-time constraints—first to reach “Zero-Latency” wins the futuristic league.",
+  "topic": "Quantum Crash-Course: The LLM Speedrun Grand Prix",
+  "description": "A futuristic race visualization where teams tune LLMs in real time—optimizing tokens/sec, accuracy, latency, and robustness as the track speed ramps up every round.",
   "competitors": [
     {
-      "name": "DeltaFastNet",
-      "color": "#00E5FF"
-    },
-    {
-      "name": "QuantRush",
+      "name": "NeonNova-Q",
       "color": "#7C4DFF"
     },
     {
-      "name": "SparseSpectre",
-      "color": "#00FF7F"
+      "name": "AtlasPrompt Forge",
+      "color": "#00E5FF"
     },
     {
-      "name": "PrunePilot",
+      "name": "HyperChain Runners",
       "color": "#FF2D55"
     },
     {
-      "name": "LatencyLynx",
-      "color": "#FFD400"
+      "name": "SparrowSpec Decode",
+      "color": "#00FFA3"
     },
     {
-      "name": "Ouroboros Optimizer",
-      "color": "#00B3FF"
+      "name": "VectorVortex Labs",
+      "color": "#FFB020"
+    },
+    {
+      "name": "PrismToken Sprint",
+      "color": "#4DFF6A"
+    },
+    {
+      "name": "KryptonContext",
+      "color": "#2E7DFF"
     }
   ],
-  "instagram_caption": "🚀 The year is 2099 and the models are racing… at *zero-latency* speed. ⚡ Who takes the neon checkered flag: DeltaFastNet, QuantRush, SparseSpectre, PrunePilot, LatencyLynx, or Ouroboros Optimizer? Drop your pick in the comments. #NeonGradientDerby #AI",
-  "facebook_caption": "🏁 Welcome to NEON GRADIENT DERBY 2099! Competing ML teams sprint through brutal real-time challenges—speed, accuracy, and energy efficiency all on the line. Can your favorite model reach Zero-Latency AI first? Vote now!",
-  "threads_caption": "Zero-latency AI is a race. Who wins? ⚡🏁",
-  "twitter_caption": "NEON GRADIENT DERBY 2099 is live: token speed vs accuracy vs energy—first to zero-latency wins. Who’s your pick? ⚡🏁",
-  "youtube_title": "NEON GRADIENT DERBY 2099 | The ML Race to Zero-Latency AI ⚡🏁",
-  "youtube_description": "In NEON GRADIENT DERBY 2099, six top ML competitors sprint across a futuristic track of performance metrics: token latency, accuracy under pressure, and energy efficiency. Watch the leaderboard change in real time as each model attempts the ultimate feat—Zero-Latency AI. \n\nWhich team are you betting on? Comment your pick and smash like if you want Part 2 with tougher track conditions.",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #futuretech #dataviz #competition"
+  "instagram_caption": "🚀 Who’s winning the Quantum Crash-Course? Watch LLMs sprint from “slow & shaky” to “laser-accurate” as every lap rewrites the rules. ⚡️ Tokens/sec up. Hallucinations down. Ready for the showdown? #LLMRace #MachineLearning",
+  "facebook_caption": "The Quantum Crash-Course is live! 🏁 Seven teams race their LLMs through escalating challenges—faster responses, higher accuracy, and tougher constraints each round. Which competitor do you think takes the crown?",
+  "threads_caption": "Speedrun the future: which LLM wins the Quantum Crash-Course? 🏁⚡️",
+  "twitter_caption": "🏎️💨 Quantum Crash-Course: the LLM Speedrun Grand Prix. Tokens/sec vs accuracy—every lap harder. Who’s taking 1st? #ai #ml",
+  "youtube_title": "Quantum Crash-Course: The LLM Speedrun Grand Prix (Real-Time ML Race Visualization)",
+  "youtube_description": "Enter the Quantum Crash-Course—an eye-candy ML “race” where competing teams push their LLMs to win across tokens/sec, accuracy, latency, and robustness. Each round increases difficulty, forcing smarter decoding, better prompts, and tighter constraints. Watch the leaderboard shift in real time and vote for your champion!",
+  "hashtags": "#ai #ml #tech #llm #machinelearning #dataviz #futuretech #genai"
 }
