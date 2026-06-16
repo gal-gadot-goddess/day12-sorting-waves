@@ -1,41 +1,41 @@
 {
-  "topic": "Quantum Crash-Course: The LLM Speedrun Grand Prix",
-  "description": "A futuristic race visualization where teams tune LLMs in real time—optimizing tokens/sec, accuracy, latency, and robustness as the track speed ramps up every round.",
+  "topic": "NEURAL HYPERDRIVE: The 2026 AI Sprint to Warp Speed",
+  "description": "A futuristic race visualization tracking AI teams sprinting across benchmarks in real time—latency, accuracy, robustness, and compute efficiency racing neck-and-neck as they “warp” through challenge gates.",
   "competitors": [
     {
-      "name": "NeonNova-Q",
-      "color": "#7C4DFF"
+      "name": "WarpWeaver Labs",
+      "color": "#7C3AED"
     },
     {
-      "name": "AtlasPrompt Forge",
-      "color": "#00E5FF"
+      "name": "Latency Lightning",
+      "color": "#22C55E"
     },
     {
-      "name": "HyperChain Runners",
-      "color": "#FF2D55"
+      "name": "Robustonix AI",
+      "color": "#06B6D4"
     },
     {
-      "name": "SparrowSpec Decode",
-      "color": "#00FFA3"
+      "name": "QuantumCortex Team",
+      "color": "#F97316"
     },
     {
-      "name": "VectorVortex Labs",
-      "color": "#FFB020"
+      "name": "PrismPredictors",
+      "color": "#3B82F6"
     },
     {
-      "name": "PrismToken Sprint",
-      "color": "#4DFF6A"
+      "name": "EcoCompute Crew",
+      "color": "#10B981"
     },
     {
-      "name": "KryptonContext",
-      "color": "#2E7DFF"
+      "name": "SynthSprint Syndicate",
+      "color": "#EC4899"
     }
   ],
-  "instagram_caption": "🚀 Who’s winning the Quantum Crash-Course? Watch LLMs sprint from “slow & shaky” to “laser-accurate” as every lap rewrites the rules. ⚡️ Tokens/sec up. Hallucinations down. Ready for the showdown? #LLMRace #MachineLearning",
-  "facebook_caption": "The Quantum Crash-Course is live! 🏁 Seven teams race their LLMs through escalating challenges—faster responses, higher accuracy, and tougher constraints each round. Which competitor do you think takes the crown?",
-  "threads_caption": "Speedrun the future: which LLM wins the Quantum Crash-Course? 🏁⚡️",
-  "twitter_caption": "🏎️💨 Quantum Crash-Course: the LLM Speedrun Grand Prix. Tokens/sec vs accuracy—every lap harder. Who’s taking 1st? #ai #ml",
-  "youtube_title": "Quantum Crash-Course: The LLM Speedrun Grand Prix (Real-Time ML Race Visualization)",
-  "youtube_description": "Enter the Quantum Crash-Course—an eye-candy ML “race” where competing teams push their LLMs to win across tokens/sec, accuracy, latency, and robustness. Each round increases difficulty, forcing smarter decoding, better prompts, and tighter constraints. Watch the leaderboard shift in real time and vote for your champion!",
-  "hashtags": "#ai #ml #tech #llm #machinelearning #dataviz #futuretech #genai"
+  "instagram_caption": "🚀 The AI race is ON. Who’s hitting WARP SPEED first—accuracy, latency, or brains-per-watt? Watch the checkpoints light up as teams sprint through 2026’s hardest model gauntlets. ⚡🤖",
+  "facebook_caption": "Neural Hyperdrive is back—and this year it’s a full-throttle AI sprint! Track teams as they blast through benchmark gates, balancing speed, accuracy, and compute efficiency. Can anyone out-pace the others in the final warp lane? Join the race!",
+  "threads_caption": "AI sprint + futuristic warp gates = who wins?! 👇🤖",
+  "twitter_caption": "NEURAL HYPERDRIVE is live. Latency vs accuracy vs efficiency—everyone’s racing to warp speed. Who takes 1st at the final checkpoint? 🚀🤖",
+  "youtube_title": "NEURAL HYPERDRIVE: The Futuristic AI Race (2026 Machine Learning Sprint Visualization)",
+  "youtube_description": "Watch a high-energy, futuristic AI “race” where teams compete across benchmarks in real time. This visualization tracks performance across key metrics—latency, accuracy, robustness, and compute efficiency—while models push through escalating warp-gate challenges. Comment your pick for the winner! \n\nTimestamp highlights:\n00:00 Start line: baseline models\n03:12 Gate 1: speed & reliability\n07:45 Gate 2: robustness chaos\n12:30 Final warp: efficiency showdown\n\n#ML #AI #MachineLearning #Visualization",
+  "hashtags": "#ai #ml #tech #deeplearning #innovation #datascience #competition #futuristic #robotics #benchmark"
 }
