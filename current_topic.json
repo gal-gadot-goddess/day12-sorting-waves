@@ -1,37 +1,41 @@
 {
-  "topic": "Neon Nebula Race: The Self-Healing Model Sprint",
-  "description": "Visualize a futuristic ML competition where models must repair their own “brain damage” in real time—adapting to data corruption, concept drift, and adversarial noise as they race through a shifting neon nebula.",
+  "topic": "NEURON SPEEDRUN: The 10-Millisecond Transformer Derby (2026)",
+  "description": "A neon race-track visualization where AI teams compete to shave latency and maximize accuracy in real-time transformer inference—measured every 10 ms tick.",
   "competitors": [
     {
-      "name": "PatchPilot",
-      "color": "#7CFFB2"
-    },
-    {
-      "name": "DriftHunter",
-      "color": "#57A6FF"
-    },
-    {
-      "name": "AstraShield",
-      "color": "#B388FF"
-    },
-    {
-      "name": "CorruptCleanse",
-      "color": "#FF4D7D"
-    },
-    {
-      "name": "QuantumPatchwork",
+      "name": "Latency Ninjas (LLM-Turbo)",
       "color": "#00E5FF"
     },
     {
-      "name": "EchoStitch",
-      "color": "#FFD84D"
+      "name": "Quantum Distillers",
+      "color": "#8A2BE2"
+    },
+    {
+      "name": "Pruning Predators",
+      "color": "#00FF88"
+    },
+    {
+      "name": "Token Thrust Labs",
+      "color": "#FF2E63"
+    },
+    {
+      "name": "Speculative Sprint AI",
+      "color": "#FFD400"
+    },
+    {
+      "name": "Edge Warp Collective",
+      "color": "#34A853"
+    },
+    {
+      "name": "GPU Ghost Protocol",
+      "color": "#FF6B00"
     }
   ],
-  "instagram_caption": "🚀 The models are RUNNING… but the universe is breaking them on purpose. Who survives the Neon Nebula? 💥 #MachineLearningRace #AI #Futuristic",
-  "facebook_caption": "Watch the Self-Healing Model Sprint like a sci‑fi race track—data glitches, drifting realities, and adversarial chaos included. Which model do you think wins? 👇",
-  "threads_caption": "AI models racing through a corrupting nebula… can they fix themselves before the finish line? ⚡️",
-  "twitter_caption": "Neon Nebula Race 🌌: models face corrupted data + concept drift + adversarial chaos—then must self-repair in real time. Who takes the lead? #AI #ML",
-  "youtube_title": "Neon Nebula Race (2026): The Self-Healing AI Model Sprint — Live ML Visualization",
-  "youtube_description": "In this futuristic ML competition visualization, six models sprint through a shifting Neon Nebula filled with data corruption, concept drift, and adversarial noise. Each competitor must self-diagnose, self-repair, and keep performance climbing as conditions change every tick. Watch who adapts fastest and locks in the winning trajectory.\n\nSubscribe for more race-style ML visualizations, leaderboards, and explainable “why they won” breakdowns.",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #futuristic #deeplearning #competition"
+  "instagram_caption": "⚡️10-MILLISECOND RACE DAY. Who wins the Neuron Speedrun—latency kings or accuracy champs? Watch the ticks, feel the heat, and place your bet. 🏁🤖",
+  "facebook_caption": "The year’s hottest ML showdown just dropped: 10ms transformer inference—round after round. Track the rivals, predict the winners, and watch who crosses the finish line first (and still stays accurate).",
+  "threads_caption": "10ms. One chance. Who’s taking the checkered flag? 🏁⚡️",
+  "twitter_caption": "NEURON SPEEDRUN 2026: Can your model answer in 10ms without crashing accuracy? 🏁 7 teams. Unlimited hype. #AI #ML",
+  "youtube_title": "NEURON SPEEDRUN: The 10-Millisecond Transformer Derby (AI Race Visualization)",
+  "youtube_description": "Welcome to NEURON SPEEDRUN (2026): a futuristic ML competition visualizing which teams can achieve the fastest transformer inference while maintaining top accuracy. Watch each 10ms tick, see the race dynamics, and vote for the winner!\n\nChapters:\n0:00 Countdown\n0:25 Race Start (10ms ticks)\n2:10 Mid-Round Chaos\n4:40 Final Sprint & Results\n\nWant more ML race visuals? Like, subscribe, and comment your pick!",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #transformers #datascience #competition #visualization"
 }
