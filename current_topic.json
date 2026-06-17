@@ -1,41 +1,41 @@
 {
-  "topic": "NEURON SPEEDRUN: The 10-Millisecond Transformer Derby (2026)",
-  "description": "A neon race-track visualization where AI teams compete to shave latency and maximize accuracy in real-time transformer inference—measured every 10 ms tick.",
+  "topic": "Neon Neural Grand Prix: The Speedrun of Self-Supervised Models",
+  "description": "Watch six AI teams race to maximize accuracy while minimizing compute—pure self-supervised learning, live-evolving architectures, and real-time leaderboard chaos.",
   "competitors": [
     {
-      "name": "Latency Ninjas (LLM-Turbo)",
-      "color": "#00E5FF"
+      "name": "VantaSim Self-Pretrain",
+      "color": "#7C3AED"
     },
     {
-      "name": "Quantum Distillers",
-      "color": "#8A2BE2"
+      "name": "QuantumCrop Vision Lab",
+      "color": "#22D3EE"
     },
     {
-      "name": "Pruning Predators",
-      "color": "#00FF88"
+      "name": "EchoDistil Compression Crew",
+      "color": "#34D399"
     },
     {
-      "name": "Token Thrust Labs",
-      "color": "#FF2E63"
+      "name": "FluxToken Transformer Sprint",
+      "color": "#F97316"
     },
     {
-      "name": "Speculative Sprint AI",
-      "color": "#FFD400"
+      "name": "AuroraAlign RL Co-Driver",
+      "color": "#60A5FA"
     },
     {
-      "name": "Edge Warp Collective",
-      "color": "#34A853"
+      "name": "Cobalt Contrastive Forge",
+      "color": "#F43F5E"
     },
     {
-      "name": "GPU Ghost Protocol",
-      "color": "#FF6B00"
+      "name": "NovaMask Synthetic Engine",
+      "color": "#A3E635"
     }
   ],
-  "instagram_caption": "⚡️10-MILLISECOND RACE DAY. Who wins the Neuron Speedrun—latency kings or accuracy champs? Watch the ticks, feel the heat, and place your bet. 🏁🤖",
-  "facebook_caption": "The year’s hottest ML showdown just dropped: 10ms transformer inference—round after round. Track the rivals, predict the winners, and watch who crosses the finish line first (and still stays accurate).",
-  "threads_caption": "10ms. One chance. Who’s taking the checkered flag? 🏁⚡️",
-  "twitter_caption": "NEURON SPEEDRUN 2026: Can your model answer in 10ms without crashing accuracy? 🏁 7 teams. Unlimited hype. #AI #ML",
-  "youtube_title": "NEURON SPEEDRUN: The 10-Millisecond Transformer Derby (AI Race Visualization)",
-  "youtube_description": "Welcome to NEURON SPEEDRUN (2026): a futuristic ML competition visualizing which teams can achieve the fastest transformer inference while maintaining top accuracy. Watch each 10ms tick, see the race dynamics, and vote for the winner!\n\nChapters:\n0:00 Countdown\n0:25 Race Start (10ms ticks)\n2:10 Mid-Round Chaos\n4:40 Final Sprint & Results\n\nWant more ML race visuals? Like, subscribe, and comment your pick!",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #transformers #datascience #competition #visualization"
+  "instagram_caption": "🚀 The Neon Neural Grand Prix is ON. Six self-supervised teams are speedrunning accuracy—who wins the compute-time duel? ⚡️ Watch the leaderboard melt in real time. #RaceToSOTA",
+  "facebook_caption": "Can you believe these models are training like it’s a high-speed race? 🏎️ From self-supervised pretraining to instant evaluation, the Neon Neural Grand Prix leaderboard is updating minute-by-minute. Who’s your pick to win?",
+  "threads_caption": "Self-supervised models racing at lightspeed. Who’s taking the checkered flag? 🏁",
+  "twitter_caption": "Neon Neural Grand Prix: Accuracy vs compute, self-supervised chaos. Who wins the speedrun leaderboard? ⚡️🏎️ #AI",
+  "youtube_title": "NEON NEURAL GRAND PRIX 🏎️: Self-Supervised AI Models Race for SOTA (Live-Style Visualization)",
+  "youtube_description": "Step into the Neon Neural Grand Prix—an electrifying ML competition where self-supervised teams sprint to maximum accuracy while minimizing compute cost. Watch architectures evolve, evaluate under consistent constraints, and track the live-style leaderboard as each model pushes harder.\n\nIn this visualization: speedrun tactics, contrastive learning strategies, distillation boosts, and RL alignment co-drives—stacked into a futuristic race format.\n\nWhich competitor are you backing to win the checkered flag?",
+  "hashtags": "#ai #ml #tech #deeplearning #selfsupervised #transformers #computervision #raceviz"
 }
