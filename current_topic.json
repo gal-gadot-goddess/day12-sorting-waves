@@ -1,41 +1,37 @@
 {
-  "topic": "NEURAL HYPERDRIVE: The 2026 AI Sprint to Warp Speed",
-  "description": "A futuristic race visualization tracking AI teams sprinting across benchmarks in real time—latency, accuracy, robustness, and compute efficiency racing neck-and-neck as they “warp” through challenge gates.",
+  "topic": "Neon Nebula Race: The Self-Healing Model Sprint",
+  "description": "Visualize a futuristic ML competition where models must repair their own “brain damage” in real time—adapting to data corruption, concept drift, and adversarial noise as they race through a shifting neon nebula.",
   "competitors": [
     {
-      "name": "WarpWeaver Labs",
-      "color": "#7C3AED"
+      "name": "PatchPilot",
+      "color": "#7CFFB2"
     },
     {
-      "name": "Latency Lightning",
-      "color": "#22C55E"
+      "name": "DriftHunter",
+      "color": "#57A6FF"
     },
     {
-      "name": "Robustonix AI",
-      "color": "#06B6D4"
+      "name": "AstraShield",
+      "color": "#B388FF"
     },
     {
-      "name": "QuantumCortex Team",
-      "color": "#F97316"
+      "name": "CorruptCleanse",
+      "color": "#FF4D7D"
     },
     {
-      "name": "PrismPredictors",
-      "color": "#3B82F6"
+      "name": "QuantumPatchwork",
+      "color": "#00E5FF"
     },
     {
-      "name": "EcoCompute Crew",
-      "color": "#10B981"
-    },
-    {
-      "name": "SynthSprint Syndicate",
-      "color": "#EC4899"
+      "name": "EchoStitch",
+      "color": "#FFD84D"
     }
   ],
-  "instagram_caption": "🚀 The AI race is ON. Who’s hitting WARP SPEED first—accuracy, latency, or brains-per-watt? Watch the checkpoints light up as teams sprint through 2026’s hardest model gauntlets. ⚡🤖",
-  "facebook_caption": "Neural Hyperdrive is back—and this year it’s a full-throttle AI sprint! Track teams as they blast through benchmark gates, balancing speed, accuracy, and compute efficiency. Can anyone out-pace the others in the final warp lane? Join the race!",
-  "threads_caption": "AI sprint + futuristic warp gates = who wins?! 👇🤖",
-  "twitter_caption": "NEURAL HYPERDRIVE is live. Latency vs accuracy vs efficiency—everyone’s racing to warp speed. Who takes 1st at the final checkpoint? 🚀🤖",
-  "youtube_title": "NEURAL HYPERDRIVE: The Futuristic AI Race (2026 Machine Learning Sprint Visualization)",
-  "youtube_description": "Watch a high-energy, futuristic AI “race” where teams compete across benchmarks in real time. This visualization tracks performance across key metrics—latency, accuracy, robustness, and compute efficiency—while models push through escalating warp-gate challenges. Comment your pick for the winner! \n\nTimestamp highlights:\n00:00 Start line: baseline models\n03:12 Gate 1: speed & reliability\n07:45 Gate 2: robustness chaos\n12:30 Final warp: efficiency showdown\n\n#ML #AI #MachineLearning #Visualization",
-  "hashtags": "#ai #ml #tech #deeplearning #innovation #datascience #competition #futuristic #robotics #benchmark"
+  "instagram_caption": "🚀 The models are RUNNING… but the universe is breaking them on purpose. Who survives the Neon Nebula? 💥 #MachineLearningRace #AI #Futuristic",
+  "facebook_caption": "Watch the Self-Healing Model Sprint like a sci‑fi race track—data glitches, drifting realities, and adversarial chaos included. Which model do you think wins? 👇",
+  "threads_caption": "AI models racing through a corrupting nebula… can they fix themselves before the finish line? ⚡️",
+  "twitter_caption": "Neon Nebula Race 🌌: models face corrupted data + concept drift + adversarial chaos—then must self-repair in real time. Who takes the lead? #AI #ML",
+  "youtube_title": "Neon Nebula Race (2026): The Self-Healing AI Model Sprint — Live ML Visualization",
+  "youtube_description": "In this futuristic ML competition visualization, six models sprint through a shifting Neon Nebula filled with data corruption, concept drift, and adversarial noise. Each competitor must self-diagnose, self-repair, and keep performance climbing as conditions change every tick. Watch who adapts fastest and locks in the winning trajectory.\n\nSubscribe for more race-style ML visualizations, leaderboards, and explainable “why they won” breakdowns.",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #futuristic #deeplearning #competition"
 }
