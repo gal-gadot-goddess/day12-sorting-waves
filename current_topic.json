@@ -1,37 +1,41 @@
 {
-  "topic": "Neon Warp League: The AI Sprint to the Event Horizon",
-  "description": "A futuristic ML race where teams compete to predict, adapt, and survive under extreme latency and shifting data—modeled as an AI “warp lane” approaching an event horizon.",
+  "topic": "Neon Drift: The 5D Model Relay Race",
+  "description": "A futuristic visualization of ML teams racing their models across shifting “dimensions” of data, latency, and accuracy—live, in holographic lanes—while adversaries inject chaos in real time.",
   "competitors": [
     {
-      "name": "Photon Forge",
-      "color": "#00E5FF"
+      "name": "HoloForge Labs",
+      "color": "#6DFFB4"
     },
     {
-      "name": "Quantum Sprint Labs",
-      "color": "#7C4DFF"
+      "name": "QuantumPulse AI",
+      "color": "#7C5CFF"
     },
     {
-      "name": "Nebula Neuralworks",
-      "color": "#FF2D55"
+      "name": "Neural Nomads",
+      "color": "#FF4FD8"
     },
     {
-      "name": "AstraRank AI",
-      "color": "#00FF9A"
+      "name": "Sapphire Vector Crew",
+      "color": "#00D9FF"
     },
     {
-      "name": "Ion Drift Research",
-      "color": "#FFD400"
+      "name": "GhostGrid Optimizers",
+      "color": "#FFB020"
     },
     {
-      "name": "Pulse Vector Systems",
-      "color": "#FF6B00"
+      "name": "Vector Vanguard",
+      "color": "#3BFFEA"
+    },
+    {
+      "name": "KairoByte Systems",
+      "color": "#B8FF2E"
     }
   ],
-  "instagram_caption": "🚀 The AI race is ON. Six teams. One warp lane. The closer they get to the event horizon, the harder the rules hit. Who’s taking the ⚡ trophy—Photon Forge or Quantum Sprint Labs? Comment your pick! 🔥",
-  "facebook_caption": "Witness the Neon Warp League: teams of ML models sprint toward the event horizon while data turbulence intensifies. Track accuracy, speed, and resilience in real time—then vote for the ultimate winner!",
-  "threads_caption": "Bet you can’t predict who survives the event horizon 👀",
-  "twitter_caption": "Neon Warp League starts now: ML models sprint through latency storms toward the event horizon. Who wins—accuracy, speed, or resilience? 👇",
-  "youtube_title": "Neon Warp League: The AI Sprint to the Event Horizon (Live ML Race Visualization)",
-  "youtube_description": "In this futuristic ML competition visualization, six AI teams race along a neon warp lane as the environment becomes increasingly hostile: shifting distributions, extreme latency, and survival-style scoring. Watch who adapts fastest, predicts best, and keeps their edge as the event horizon looms. \n\nSubscribe for more “machine learning races” and real-time visual breakdowns.",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #competition #futuristic #neuralnetworks #visualization"
+  "instagram_caption": "🚀 The models are racing in 5D—accuracy vs latency vs chaos. Who’s taking the neon checkered flag? 🔥 Watch the drift live →",
+  "facebook_caption": "Welcome to Neon Drift: the 5D Model Relay Race! 🏎️✨ Teams compete as the track shifts and adversaries inject turbulence. Can your favorite crew lock in accuracy at full speed?",
+  "threads_caption": "5D race. Real-time chaos. Pick your contender. 👀🏁",
+  "twitter_caption": "Neon Drift: 5D Model Relay Race is live. Track changes mid-lap, adversaries attack, models must adapt fast. Who wins? 🏁⚡",
+  "youtube_title": "Neon Drift: The 5D Model Relay Race (AI Competition Visualization)",
+  "youtube_description": "Watch teams compete in a futuristic ML race visualization across 5D challenges: shifting data regimes, strict latency budgets, adversarial turbulence, and generalization tests. See who survives the drift and who crashes under chaos. Comment your winner and follow for the next round!",
+  "hashtags": "#ai #ml #tech #deeplearning #machinelearning #datascience #AICOMP #innovation #futuretech"
 }
