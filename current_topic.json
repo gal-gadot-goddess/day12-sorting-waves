@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Drift: The 5D Model Relay Race",
-  "description": "A futuristic visualization of ML teams racing their models across shifting “dimensions” of data, latency, and accuracy—live, in holographic lanes—while adversaries inject chaos in real time.",
+  "topic": "Neon Drift: The Quantum-Speed Model Sprint (Live 2026)",
+  "description": "A high-energy ML race where competing models “drift” through streaming data, optimizing accuracy, latency, and robustness in real time—visualized as neon lanes, quantum shortcuts, and AI overtakes.",
   "competitors": [
     {
-      "name": "HoloForge Labs",
-      "color": "#6DFFB4"
+      "name": "Q-Lane QuantumNet",
+      "color": "#7C3AED"
     },
     {
-      "name": "QuantumPulse AI",
-      "color": "#7C5CFF"
+      "name": "Latency Lynx",
+      "color": "#22C55E"
     },
     {
-      "name": "Neural Nomads",
-      "color": "#FF4FD8"
+      "name": "Robust Raptor",
+      "color": "#F97316"
     },
     {
-      "name": "Sapphire Vector Crew",
-      "color": "#00D9FF"
+      "name": "Vision Vortex",
+      "color": "#06B6D4"
     },
     {
-      "name": "GhostGrid Optimizers",
-      "color": "#FFB020"
+      "name": "Graph Gladiator",
+      "color": "#EAB308"
     },
     {
-      "name": "Vector Vanguard",
-      "color": "#3BFFEA"
+      "name": "Diffusion Dragster",
+      "color": "#EC4899"
     },
     {
-      "name": "KairoByte Systems",
-      "color": "#B8FF2E"
+      "name": "Edge Eclipse",
+      "color": "#60A5FA"
     }
   ],
-  "instagram_caption": "🚀 The models are racing in 5D—accuracy vs latency vs chaos. Who’s taking the neon checkered flag? 🔥 Watch the drift live →",
-  "facebook_caption": "Welcome to Neon Drift: the 5D Model Relay Race! 🏎️✨ Teams compete as the track shifts and adversaries inject turbulence. Can your favorite crew lock in accuracy at full speed?",
-  "threads_caption": "5D race. Real-time chaos. Pick your contender. 👀🏁",
-  "twitter_caption": "Neon Drift: 5D Model Relay Race is live. Track changes mid-lap, adversaries attack, models must adapt fast. Who wins? 🏁⚡",
-  "youtube_title": "Neon Drift: The 5D Model Relay Race (AI Competition Visualization)",
-  "youtube_description": "Watch teams compete in a futuristic ML race visualization across 5D challenges: shifting data regimes, strict latency budgets, adversarial turbulence, and generalization tests. See who survives the drift and who crashes under chaos. Comment your winner and follow for the next round!",
-  "hashtags": "#ai #ml #tech #deeplearning #machinelearning #datascience #AICOMP #innovation #futuretech"
+  "instagram_caption": "The year is 2026 and the ML track is ON. ⚡️ Who’s taking the checkered flag—accuracy, speed, or pure chaos? Watch the Neon Drift race LIVE in your mind. 👀🏎️",
+  "facebook_caption": "Neon Drift is back: models sprinting through streaming data at quantum-inspired speed. Can anyone beat the clock without losing the plot? Drop your pick in the comments! 🏁🤖",
+  "threads_caption": "Models racing at neon-speed—accuracy vs latency vs chaos. Who wins?",
+  "twitter_caption": "Neon Drift: a live ML race for speed, accuracy & robustness. Which team are you placing your “AI bet” on? 🏁⚡️",
+  "youtube_title": "NEON DRIFT 2026: The Quantum-Speed ML Race (Live Visualization + Results)",
+  "youtube_description": "Welcome to Neon Drift: the futuristic ML competition visualization where models battle for the best mix of accuracy, latency, and robustness on streaming tasks. Watch each competitor’s run unfold as neon lanes, quantum shortcuts, and AI overtakes—then see who truly wins in 2026.\n\nTimestamp Highlights:\n- Start Grid + Baseline\n- Quantum Shortcut Rounds\n- Robustness Storm Test\n- Final Sprint + Winner Reveal\n\nLike, comment your predicted winner, and subscribe for the next race!",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #quantumai #datascience #futuristic #coding"
 }
