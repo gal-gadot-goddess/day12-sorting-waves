@@ -1,41 +1,37 @@
 {
-  "topic": "Neon Neural Grand Prix: The Speedrun of Self-Supervised Models",
-  "description": "Watch six AI teams race to maximize accuracy while minimizing compute—pure self-supervised learning, live-evolving architectures, and real-time leaderboard chaos.",
+  "topic": "Neon Warp League: The AI Sprint to the Event Horizon",
+  "description": "A futuristic ML race where teams compete to predict, adapt, and survive under extreme latency and shifting data—modeled as an AI “warp lane” approaching an event horizon.",
   "competitors": [
     {
-      "name": "VantaSim Self-Pretrain",
-      "color": "#7C3AED"
+      "name": "Photon Forge",
+      "color": "#00E5FF"
     },
     {
-      "name": "QuantumCrop Vision Lab",
-      "color": "#22D3EE"
+      "name": "Quantum Sprint Labs",
+      "color": "#7C4DFF"
     },
     {
-      "name": "EchoDistil Compression Crew",
-      "color": "#34D399"
+      "name": "Nebula Neuralworks",
+      "color": "#FF2D55"
     },
     {
-      "name": "FluxToken Transformer Sprint",
-      "color": "#F97316"
+      "name": "AstraRank AI",
+      "color": "#00FF9A"
     },
     {
-      "name": "AuroraAlign RL Co-Driver",
-      "color": "#60A5FA"
+      "name": "Ion Drift Research",
+      "color": "#FFD400"
     },
     {
-      "name": "Cobalt Contrastive Forge",
-      "color": "#F43F5E"
-    },
-    {
-      "name": "NovaMask Synthetic Engine",
-      "color": "#A3E635"
+      "name": "Pulse Vector Systems",
+      "color": "#FF6B00"
     }
   ],
-  "instagram_caption": "🚀 The Neon Neural Grand Prix is ON. Six self-supervised teams are speedrunning accuracy—who wins the compute-time duel? ⚡️ Watch the leaderboard melt in real time. #RaceToSOTA",
-  "facebook_caption": "Can you believe these models are training like it’s a high-speed race? 🏎️ From self-supervised pretraining to instant evaluation, the Neon Neural Grand Prix leaderboard is updating minute-by-minute. Who’s your pick to win?",
-  "threads_caption": "Self-supervised models racing at lightspeed. Who’s taking the checkered flag? 🏁",
-  "twitter_caption": "Neon Neural Grand Prix: Accuracy vs compute, self-supervised chaos. Who wins the speedrun leaderboard? ⚡️🏎️ #AI",
-  "youtube_title": "NEON NEURAL GRAND PRIX 🏎️: Self-Supervised AI Models Race for SOTA (Live-Style Visualization)",
-  "youtube_description": "Step into the Neon Neural Grand Prix—an electrifying ML competition where self-supervised teams sprint to maximum accuracy while minimizing compute cost. Watch architectures evolve, evaluate under consistent constraints, and track the live-style leaderboard as each model pushes harder.\n\nIn this visualization: speedrun tactics, contrastive learning strategies, distillation boosts, and RL alignment co-drives—stacked into a futuristic race format.\n\nWhich competitor are you backing to win the checkered flag?",
-  "hashtags": "#ai #ml #tech #deeplearning #selfsupervised #transformers #computervision #raceviz"
+  "instagram_caption": "🚀 The AI race is ON. Six teams. One warp lane. The closer they get to the event horizon, the harder the rules hit. Who’s taking the ⚡ trophy—Photon Forge or Quantum Sprint Labs? Comment your pick! 🔥",
+  "facebook_caption": "Witness the Neon Warp League: teams of ML models sprint toward the event horizon while data turbulence intensifies. Track accuracy, speed, and resilience in real time—then vote for the ultimate winner!",
+  "threads_caption": "Bet you can’t predict who survives the event horizon 👀",
+  "twitter_caption": "Neon Warp League starts now: ML models sprint through latency storms toward the event horizon. Who wins—accuracy, speed, or resilience? 👇",
+  "youtube_title": "Neon Warp League: The AI Sprint to the Event Horizon (Live ML Race Visualization)",
+  "youtube_description": "In this futuristic ML competition visualization, six AI teams race along a neon warp lane as the environment becomes increasingly hostile: shifting distributions, extreme latency, and survival-style scoring. Watch who adapts fastest, predicts best, and keeps their edge as the event horizon looms. \n\nSubscribe for more “machine learning races” and real-time visual breakdowns.",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #competition #futuristic #neuralnetworks #visualization"
 }
