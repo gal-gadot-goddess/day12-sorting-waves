@@ -1,41 +1,41 @@
 {
-  "topic": "Quantum Run: The AI Speedrace in an Anti-Gravity GPU Stadium",
-  "description": "Watch competing ML teams sprint through a zero-latency, quantum-optimized track—where leaderboard position is earned by accuracy, energy efficiency, and inference speed under chaotic interference.",
+  "topic": "Quantum Primes Sprint: ML Models vs. the Speed of Reality",
+  "description": "A futuristic race where competing ML agents learn to predict quantum-prime sequences, compress chaotic states, and survive adversarial “physics glitches” in real time—updating track positions every second.",
   "competitors": [
     {
-      "name": "HelixNet",
+      "name": "PRIME-9 QuantaNet",
       "color": "#7C3AED"
     },
     {
-      "name": "PhotonForge",
-      "color": "#22C55E"
+      "name": "Atlas Transform Runner",
+      "color": "#22D3EE"
     },
     {
-      "name": "NeuroQuake",
-      "color": "#06B6D4"
-    },
-    {
-      "name": "SpectraSprint",
+      "name": "NeuroFlux Adversary",
       "color": "#F97316"
     },
     {
-      "name": "AstraVector",
-      "color": "#3B82F6"
+      "name": "CIPHER-SCI CompressAI",
+      "color": "#10B981"
     },
     {
-      "name": "GravitonGuard",
+      "name": "HelixRL Momentum",
       "color": "#EF4444"
     },
     {
-      "name": "PrismPilot",
-      "color": "#EAB308"
+      "name": "LatticeSight Prediction Lab",
+      "color": "#60A5FA"
+    },
+    {
+      "name": "SpectraForge DistillOps",
+      "color": "#A3E635"
     }
   ],
-  "instagram_caption": "🚀🏁 The Anti-Gravity GPU Stadium is LIVE. Who’s fastest—accuracy-first, energy-smart, or chaos-resistant? Watch the ML race that bends reality. Comment your pick for the Quantum Run champion. 💥",
-  "facebook_caption": "The Quantum Run is underway! Seven AI teams race through an anti-gravity GPU stadium where speed, accuracy, and energy efficiency all matter. Can you predict the winner before the final checkpoint?",
-  "threads_caption": "AI speedrace in anti-gravity? Pick your champion. 🏁⚡",
-  "twitter_caption": "Quantum Run: AI vs anti-gravity GPUs. Accuracy + speed + energy = the finish line. Who takes 1st? 🏁⚡",
-  "youtube_title": "Quantum Run AI Speedrace (Anti-Gravity GPU Stadium) 🏁⚡ | ML Competition Visualization",
-  "youtube_description": "Enter the Anti-Gravity GPU Stadium for the Quantum Run—an ML competition where teams race to optimize accuracy, inference speed, and energy efficiency under chaotic interference. Watch competitors like HelixNet, PhotonForge, NeuroQuake, SpectraSprint, AstraVector, GravitonGuard, and PrismPilot battle for the top slot in a futuristic leaderboard.\n\nTimestamps (coming soon):\n0:00 Start Countdown\n1:15 First Checkpoint\n3:40 Chaos Phase\n6:20 Final Sprint\n\nLike, subscribe, and drop your winner prediction in the comments!",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #futuretech #neuralnetworks #computervision #deeplearning #innovation"
+  "instagram_caption": "🚀 The Quantum Primes Sprint is live: models racing to predict the un-predictable. Every second = a new checkpoint. Who’s winning your feed: speed, accuracy, or resistance to reality glitches? ⚡️",
+  "facebook_caption": "Can ML models truly outrun chaos? Watch the Quantum Primes Sprint—teams of AI agents racing to forecast quantum-prime sequences, compress chaotic states, and adapt under adversarial physics glitches. Drop your pick in the comments!",
+  "threads_caption": "Your AI vs quantum chaos—who do you bet on? ⏱️⚛️",
+  "twitter_caption": "Quantum Primes Sprint: ML models race to predict prime quantum sequences—position updates every second. Speed vs accuracy vs adversarial survival. Who wins? ⚛️🚀",
+  "youtube_title": "Quantum Primes Sprint: The Ultimate ML Race (Speed, Accuracy, & Adversarial Survival)",
+  "youtube_description": "Welcome to the Quantum Primes Sprint—an all-out futuristic competition where ML models race against time and chaos to predict quantum-prime sequences, compress turbulent states, and stay robust under adversarial “physics glitches.”\n\nIn this episode:\n• Live leaderboard visualization\n• Real-time checkpoint updates\n• Accuracy vs compression vs robustness tradeoffs\n• See which model truly wins under pressure\n\nSubscribe for more AI race visualizations and benchmarking battles!",
+  "hashtags": "#ai #ml #tech #machinelearning #quantum #deeplearning #racingai #datascience #futuretech"
 }
