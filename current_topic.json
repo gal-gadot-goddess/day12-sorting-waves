@@ -1,41 +1,41 @@
 {
-  "topic": "Quantum Primes Sprint: ML Models vs. the Speed of Reality",
-  "description": "A futuristic race where competing ML agents learn to predict quantum-prime sequences, compress chaotic states, and survive adversarial “physics glitches” in real time—updating track positions every second.",
+  "topic": "Neon Nebula ML Grand Prix: The Quantum-Spark Sprint",
+  "description": "A high-energy race visualization where ML teams accelerate through simulated cosmic checkpoints, battling latency, accuracy, and robustness in a futuristic nebula track.",
   "competitors": [
     {
-      "name": "PRIME-9 QuantaNet",
-      "color": "#7C3AED"
+      "name": "AstraBoost",
+      "color": "#7C4DFF"
     },
     {
-      "name": "Atlas Transform Runner",
-      "color": "#22D3EE"
+      "name": "IonForge",
+      "color": "#00E5FF"
     },
     {
-      "name": "NeuroFlux Adversary",
-      "color": "#F97316"
+      "name": "QuantaKite",
+      "color": "#00C853"
     },
     {
-      "name": "CIPHER-SCI CompressAI",
-      "color": "#10B981"
+      "name": "SpectraSprint",
+      "color": "#FF1744"
     },
     {
-      "name": "HelixRL Momentum",
-      "color": "#EF4444"
+      "name": "VortexVision",
+      "color": "#FFAB00"
     },
     {
-      "name": "LatticeSight Prediction Lab",
-      "color": "#60A5FA"
+      "name": "CryoKernel",
+      "color": "#90CAF9"
     },
     {
-      "name": "SpectraForge DistillOps",
-      "color": "#A3E635"
+      "name": "HyperHalo",
+      "color": "#D500F9"
     }
   ],
-  "instagram_caption": "🚀 The Quantum Primes Sprint is live: models racing to predict the un-predictable. Every second = a new checkpoint. Who’s winning your feed: speed, accuracy, or resistance to reality glitches? ⚡️",
-  "facebook_caption": "Can ML models truly outrun chaos? Watch the Quantum Primes Sprint—teams of AI agents racing to forecast quantum-prime sequences, compress chaotic states, and adapt under adversarial physics glitches. Drop your pick in the comments!",
-  "threads_caption": "Your AI vs quantum chaos—who do you bet on? ⏱️⚛️",
-  "twitter_caption": "Quantum Primes Sprint: ML models race to predict prime quantum sequences—position updates every second. Speed vs accuracy vs adversarial survival. Who wins? ⚛️🚀",
-  "youtube_title": "Quantum Primes Sprint: The Ultimate ML Race (Speed, Accuracy, & Adversarial Survival)",
-  "youtube_description": "Welcome to the Quantum Primes Sprint—an all-out futuristic competition where ML models race against time and chaos to predict quantum-prime sequences, compress turbulent states, and stay robust under adversarial “physics glitches.”\n\nIn this episode:\n• Live leaderboard visualization\n• Real-time checkpoint updates\n• Accuracy vs compression vs robustness tradeoffs\n• See which model truly wins under pressure\n\nSubscribe for more AI race visualizations and benchmarking battles!",
-  "hashtags": "#ai #ml #tech #machinelearning #quantum #deeplearning #racingai #datascience #futuretech"
+  "instagram_caption": "🚀 The #NeonNebula ML Grand Prix is LIVE! Who’s winning the Quantum-Spark Sprint—speed, accuracy, or sheer chaos? Track the models as they blaze through cosmic checkpoints. 🌌✨ Follow for the next lap.",
+  "facebook_caption": "Race day in the AI universe! 🏁 Watch teams compete in the Neon Nebula ML Grand Prix—pushing models to hit faster training, higher accuracy, and tougher real-world robustness. Drop your pick for the winner!",
+  "threads_caption": "Which team wins the Quantum-Spark Sprint: speed or accuracy? 👀🌌",
+  "twitter_caption": "Neon Nebula ML Grand Prix: models sprint through cosmic checkpoints—latency vs accuracy vs robustness. Who takes the Quantum-Spark crown? #ai #ml #tech",
+  "youtube_title": "Neon Nebula ML Grand Prix: The Quantum-Spark Sprint (Real-Time ML Race Visualization)",
+  "youtube_description": "Welcome to the Neon Nebula ML Grand Prix—an all-new futuristic ML race visualization. Watch competing teams push their models through simulated cosmic checkpoints, battling for wins in latency, accuracy, and robustness.\n\nIn this episode, you’ll see:\n• Live-style race progression across nebula sectors\n• Performance tradeoffs (speed vs precision)\n• Which contender stabilizes under pressure\n\nSubscribe for the next lap and comment your predicted winner!",
+  "hashtags": "#ai #ml #tech #deeplearning #datascience #innovation #futuretech #quantum #computervision #mlrace"
 }
