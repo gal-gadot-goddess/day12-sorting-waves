@@ -1,41 +1,41 @@
 {
-  "topic": "NEON NEUTRINO DASH: The Quantum-Grade Model Sprint",
-  "description": "Watch ML teams race to predict the next universe event in a live, holographic “neutrino” track—ranking by accuracy, speed, and calibration under shifting cosmic conditions.",
+  "topic": "Neural Nebula: The Quantum Drift Grand Prix",
+  "description": "A high-stakes ML “race” where teams compete to out-optimize models across a procedurally-generated cosmic track—measuring latency, accuracy, and stability in real time.",
   "competitors": [
     {
-      "name": "QuantaSprint-Q",
-      "color": "#7C3AED"
+      "name": "PhotonForge (Vision)",
+      "color": "#7C4DFF"
     },
     {
-      "name": "Hyperion KalmanAI",
-      "color": "#22C55E"
+      "name": "QuantaPulse (NLP)",
+      "color": "#00E5FF"
     },
     {
-      "name": "PhotonForge ML",
-      "color": "#06B6D4"
+      "name": "AtlasGradient (Robotics)",
+      "color": "#00C853"
     },
     {
-      "name": "Neural Nebula Labs",
-      "color": "#F97316"
+      "name": "SpectraSnap (Recommendation)",
+      "color": "#FF1744"
     },
     {
-      "name": "ZeroLag AdaptiveNet",
-      "color": "#EF4444"
+      "name": "IonKernel (Optimization)",
+      "color": "#FFC107"
     },
     {
-      "name": "PrismTrace Ensemble",
-      "color": "#3B82F6"
+      "name": "VoidVector (Time-Series)",
+      "color": "#2962FF"
     },
     {
-      "name": "VoidTuner Transformers",
-      "color": "#EAB308"
+      "name": "HelixRanger (Multi-Agent)",
+      "color": "#FF4D8D"
     }
   ],
-  "instagram_caption": "🚀 The race is ON. Who will cross the Neon finish line first—accuracy, speed, or calibration? 🌌⚡️ Watch the NEON NEUTRINO DASH live (in your head… but also in charts). Drop your pick ⬇️",
-  "facebook_caption": "Can your model predict the future when the rules keep changing? 🧠🌠 In NEON NEUTRINO DASH, teams sprint for top accuracy and real-time calibration on a quantum-grade track. Which competitor are you backing?",
-  "threads_caption": "Plot twist: the track mutates every second. Who wins—brains or brute force? 🤖⚡️",
-  "twitter_caption": "NEON NEUTRINO DASH 🏁🌌 Models sprint through shifting “cosmic” conditions. Accuracy + speed + calibration = the finish line. Who’s taking #1?",
-  "youtube_title": "NEON NEUTRINO DASH | The Quantum-Grade ML Race (Accuracy vs Speed vs Calibration)",
-  "youtube_description": "Welcome to NEON NEUTRINO DASH: a futuristic ML competition visualization where teams race their models across a live holographic neutrino track. Ranking is based on accuracy, real-time inference speed, and calibration under constantly shifting conditions.\n\nIn this video you’ll see:\n- Real-time leaderboard dynamics\n- Calibration vs raw accuracy tradeoffs\n- How ensemble methods behave under distribution drift\n\nComment your champion and watch the gap close as the track changes!",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #quantumai #dataviz #robotics #neuralnetworks"
+  "instagram_caption": "🚀 The Neural Nebula GP is live! Who will win the Quantum Drift: accuracy, speed, or stability? Watch the rivals streak through the cosmic track and see the moment models “click” under pressure. 🌌✨",
+  "facebook_caption": "Neural Nebula: The Quantum Drift Grand Prix is where ML teams race against the clock and the universe. Real-time boosts, chaotic turns, and one champion. Can your favorite competitor take the lead?",
+  "threads_caption": "ML teams are racing through a cosmic track—accuracy vs speed vs stability. Who’s your pick? 🌌🏁",
+  "twitter_caption": "Neural Nebula GP: models in a quantum-style drift race—who wins on latency + accuracy + stability? 🏎️🌌 #AI #ML",
+  "youtube_title": "Neural Nebula: The Quantum Drift Grand Prix (ML Race Visualization)",
+  "youtube_description": "Watch an epic ML competition visualization where teams race through a procedurally-generated “cosmic track.” Metrics include latency, accuracy, and stability, with real-time leaderboards and dramatic drift events. Who will claim the Neural Nebula crown?",
+  "hashtags": "#ai #ml #tech #machinelearning #visualization #competition #quantum #deeplearning"
 }
