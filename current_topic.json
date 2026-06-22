@@ -1,41 +1,41 @@
 {
-  "topic": "Neural Nebula: The Quantum Drift Grand Prix",
-  "description": "A high-stakes ML “race” where teams compete to out-optimize models across a procedurally-generated cosmic track—measuring latency, accuracy, and stability in real time.",
+  "topic": "Neon Blackout Cup: The Quantum-Sim Sprint",
+  "description": "A high-stakes ML race where teams train under simulated power outages and quantum-inspired data glitches—who still ships the most accurate model in real time?",
   "competitors": [
     {
-      "name": "PhotonForge (Vision)",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "QuantaPulse (NLP)",
+      "name": "Data Mirage Labs",
       "color": "#00E5FF"
     },
     {
-      "name": "AtlasGradient (Robotics)",
-      "color": "#00C853"
+      "name": "Circuit Sage AI",
+      "color": "#7C4DFF"
     },
     {
-      "name": "SpectraSnap (Recommendation)",
-      "color": "#FF1744"
+      "name": "Entropy Runners",
+      "color": "#00FFA8"
     },
     {
-      "name": "IonKernel (Optimization)",
-      "color": "#FFC107"
+      "name": "Latency Nemesis",
+      "color": "#FF2E63"
     },
     {
-      "name": "VoidVector (Time-Series)",
-      "color": "#2962FF"
+      "name": "EchoForge Models",
+      "color": "#FFB300"
     },
     {
-      "name": "HelixRanger (Multi-Agent)",
-      "color": "#FF4D8D"
+      "name": "Photon Drift Collective",
+      "color": "#1A73E8"
+    },
+    {
+      "name": "NullWave Systems",
+      "color": "#B388FF"
     }
   ],
-  "instagram_caption": "🚀 The Neural Nebula GP is live! Who will win the Quantum Drift: accuracy, speed, or stability? Watch the rivals streak through the cosmic track and see the moment models “click” under pressure. 🌌✨",
-  "facebook_caption": "Neural Nebula: The Quantum Drift Grand Prix is where ML teams race against the clock and the universe. Real-time boosts, chaotic turns, and one champion. Can your favorite competitor take the lead?",
-  "threads_caption": "ML teams are racing through a cosmic track—accuracy vs speed vs stability. Who’s your pick? 🌌🏁",
-  "twitter_caption": "Neural Nebula GP: models in a quantum-style drift race—who wins on latency + accuracy + stability? 🏎️🌌 #AI #ML",
-  "youtube_title": "Neural Nebula: The Quantum Drift Grand Prix (ML Race Visualization)",
-  "youtube_description": "Watch an epic ML competition visualization where teams race through a procedurally-generated “cosmic track.” Metrics include latency, accuracy, and stability, with real-time leaderboards and dramatic drift events. Who will claim the Neural Nebula crown?",
-  "hashtags": "#ai #ml #tech #machinelearning #visualization #competition #quantum #deeplearning"
+  "instagram_caption": "🚨 Neon Blackout Cup just lit up! Can your model keep its accuracy when the data starts glitching and the lights “go out”? Watch the ML sprint where speed and robustness race in real time. ⚡️🏁 #NeonBlackoutCup",
+  "facebook_caption": "What happens when the lights go out—yet the model still has to perform? 🔥 Join the Neon Blackout Cup: quantum-sim data glitches, power-outage training, and a real-time accuracy showdown. Who’s taking the crown? 👀",
+  "threads_caption": "Your model under blackout conditions: survive or crash? ⚡️🏁",
+  "twitter_caption": "Neon Blackout Cup is live: ML teams racing to stay accurate under quantum-inspired data glitches + simulated power outages. Who wins the sprint? ⚡️🏁 #ai #ml",
+  "youtube_title": "Neon Blackout Cup: The Quantum-Sim Sprint (ML Race Visualization)",
+  "youtube_description": "Welcome to the Neon Blackout Cup—an adrenaline-fueled machine learning competition where every team trains and adapts under simulated power outages and quantum-inspired data glitches. See who keeps accuracy, who cuts latency, and who ships in time as the arena gets darker. Subscribe for more futuristic ML race visualizations!",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #futuretech #quantumai #competition"
 }
