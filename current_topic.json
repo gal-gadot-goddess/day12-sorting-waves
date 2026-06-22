@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Swarm Sprint: The 10,000-Agent ML Race",
-  "description": "A high-velocity visualization where thousands of miniature models evolve in real time, competing to solve streaming tasks faster with fewer compute cycles—live on the grid.",
+  "topic": "NEON NEUTRINO DASH: The Quantum-Grade Model Sprint",
+  "description": "Watch ML teams race to predict the next universe event in a live, holographic “neutrino” track—ranking by accuracy, speed, and calibration under shifting cosmic conditions.",
   "competitors": [
     {
-      "name": "Quantum QuasarNet",
-      "color": "#7C4DFF"
+      "name": "QuantaSprint-Q",
+      "color": "#7C3AED"
     },
     {
-      "name": "Tensor ThunderBolt",
-      "color": "#00E5FF"
-    },
-    {
-      "name": "Neural Nomad Drift",
+      "name": "Hyperion KalmanAI",
       "color": "#22C55E"
     },
     {
-      "name": "Kernel Kraken",
-      "color": "#FF2D55"
+      "name": "PhotonForge ML",
+      "color": "#06B6D4"
     },
     {
-      "name": "Spectral Sparrow",
-      "color": "#FBBF24"
+      "name": "Neural Nebula Labs",
+      "color": "#F97316"
     },
     {
-      "name": "Autograd Atlas",
-      "color": "#60A5FA"
+      "name": "ZeroLag AdaptiveNet",
+      "color": "#EF4444"
     },
     {
-      "name": "Prune Pulse Phantom",
-      "color": "#A78BFA"
+      "name": "PrismTrace Ensemble",
+      "color": "#3B82F6"
+    },
+    {
+      "name": "VoidTuner Transformers",
+      "color": "#EAB308"
     }
   ],
-  "instagram_caption": "🚀 The Neon Swarm Sprint is live: 10,000 agents. One winner. Can your favorite model outpace the grid—without burning compute? ⚡️ Watch the sparks fly now.",
-  "facebook_caption": "Neon Swarm Sprint just turned ML into a cyber-race! 🏁 Thousands of models, real-time evolution, and a leaderboard that updates every second. Who takes the crown?",
-  "threads_caption": "10,000 models racing… who wins in your head? 👀",
-  "twitter_caption": "Neon Swarm Sprint: 10,000-agent ML race in real time. Speed vs compute vs accuracy—let the grid decide. ⚡️🏁 Who’s your pick?",
-  "youtube_title": "Neon Swarm Sprint | 10,000-Agent ML Race (Live Visualization)",
-  "youtube_description": "Welcome to the Neon Swarm Sprint—an intense futuristic ML competition where thousands of miniature agents evolve in real time to solve streaming tasks. Watch the leaderboard shift, the sparks accelerate, and compute budgets fight back. \n\nIn this race: speed, efficiency, accuracy, and continual learning—measured live. \n\nComment your favorite competitor and predict the winner!",
-  "hashtags": "#ai #ml #tech #deeplearning #machinelearning #futuretech #dataviz #innovation #computervision #transformers"
+  "instagram_caption": "🚀 The race is ON. Who will cross the Neon finish line first—accuracy, speed, or calibration? 🌌⚡️ Watch the NEON NEUTRINO DASH live (in your head… but also in charts). Drop your pick ⬇️",
+  "facebook_caption": "Can your model predict the future when the rules keep changing? 🧠🌠 In NEON NEUTRINO DASH, teams sprint for top accuracy and real-time calibration on a quantum-grade track. Which competitor are you backing?",
+  "threads_caption": "Plot twist: the track mutates every second. Who wins—brains or brute force? 🤖⚡️",
+  "twitter_caption": "NEON NEUTRINO DASH 🏁🌌 Models sprint through shifting “cosmic” conditions. Accuracy + speed + calibration = the finish line. Who’s taking #1?",
+  "youtube_title": "NEON NEUTRINO DASH | The Quantum-Grade ML Race (Accuracy vs Speed vs Calibration)",
+  "youtube_description": "Welcome to NEON NEUTRINO DASH: a futuristic ML competition visualization where teams race their models across a live holographic neutrino track. Ranking is based on accuracy, real-time inference speed, and calibration under constantly shifting conditions.\n\nIn this video you’ll see:\n- Real-time leaderboard dynamics\n- Calibration vs raw accuracy tradeoffs\n- How ensemble methods behave under distribution drift\n\nComment your champion and watch the gap close as the track changes!",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #quantumai #dataviz #robotics #neuralnetworks"
 }
