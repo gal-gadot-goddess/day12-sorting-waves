@@ -1,41 +1,41 @@
 {
-  "topic": "NEON GAUNTLET: The 10-Millisecond Model Sprint",
-  "description": "A futuristic visualization of ML teams racing to win the 10ms inference gauntlet—speed, accuracy, and energy efficiency fighting in real time.",
+  "topic": "Neon Nebula: The AI Warp Sprint (Race to Break the Unbreakable)",
+  "description": "A futuristic ML showdown where competing models race to predict, compress, and repair corrupted signals inside a simulated “neon nebula” under real-time constraints—fastest accuracy wins.",
   "competitors": [
     {
-      "name": "Atlas Cores",
-      "color": "#00E5FF"
-    },
-    {
-      "name": "Quantum Roam",
+      "name": "QuantumCometNet",
       "color": "#7C4DFF"
     },
     {
-      "name": "VantaForge",
-      "color": "#00FFB2"
+      "name": "PhotonForge-XL",
+      "color": "#00E5FF"
     },
     {
-      "name": "SpectraPulse",
-      "color": "#FF2D55"
+      "name": "AuroraVector",
+      "color": "#00FF7F"
     },
     {
-      "name": "Helix Drift",
+      "name": "NullPatch Systems",
+      "color": "#FF2E88"
+    },
+    {
+      "name": "SpectraCircuit",
       "color": "#FFD400"
     },
     {
-      "name": "NovaLattice",
-      "color": "#FF7A18"
+      "name": "LatticeRunner",
+      "color": "#2E7DFF"
     },
     {
-      "name": "IronBloom AI",
-      "color": "#39FF14"
+      "name": "ChronoDistill",
+      "color": "#FF6D00"
     }
   ],
-  "instagram_caption": "10ms. One chance. Who wins the NEON GAUNTLET? ⚡️🏎️ Watch the model race where speed, accuracy, and energy all matter—live in the visualization. 🔥",
-  "facebook_caption": "Can your model think faster than a blink? Join the NEON GAUNTLET—an epic 10-millisecond ML sprint where teams battle for top accuracy, lowest latency, and best energy efficiency. Who’s your pick?",
-  "threads_caption": "10ms race: speed + accuracy + efficiency = the ultimate ML flex. Who takes the crown? 🚀",
-  "twitter_caption": "NEON GAUNTLET is on ⚡️🏎️ Teams sprint for 10ms inference—accuracy vs latency vs energy. Drop your pick: Atlas / Quantum / Vanta / Spectra / Helix / Nova / IronBloom.",
-  "youtube_title": "NEON GAUNTLET: The 10-Millisecond AI Model Sprint (ML Race Visualization)",
-  "youtube_description": "Welcome to NEON GAUNTLET—an AI machine learning race where teams compete in a real-time 10-millisecond inference gauntlet. Watch as models battle for top accuracy, lowest latency, and best energy efficiency in a futuristic arena.\n\nIn this video:\n- Speed vs accuracy showdown\n- Energy-aware optimization in the spotlight\n- Who wins the 10ms crown?\n\nSubscribe for more ML race visualizations, tournaments, and futuristic benchmarks!",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #competition #latency #inference #futuretech"
+  "instagram_caption": "🚀 The AI Warp Sprint just went LIVE. Who’s fastest in the Neon Nebula—accuracy, compression, and repair in real time. Watch the race. 👇✨",
+  "facebook_caption": "Who will win the Neon Nebula AI Warp Sprint? Models are fighting through corrupted signals with speed + precision. Drop your pick in the comments—Team Comet, Forge, Aurora, or one of the others?",
+  "threads_caption": "Real-time AI race inside a simulated neon nebula. Who takes the warp crown?",
+  "twitter_caption": "Neon Nebula AI Warp Sprint: speed + accuracy + signal repair. 7 models. 1 finish line. Who wins? 🚦🤖",
+  "youtube_title": "Neon Nebula AI Warp Sprint: Can These Models Predict the Unpredictable?",
+  "youtube_description": "Welcome to the Neon Nebula: an end-to-end ML “race” visualization where competing models must predict, compress, and repair corrupted signals under real-time pressure. Watch every competitor’s trajectory, latency, and score evolve as the nebula gets harsher. \n\nTime: 2026-06-23\nRules: fastest combined accuracy + compression + repair wins.\n\nSubscribe for more futuristic ML race simulations and leaderboard drops.",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #neuralnetworks #robotics #innovation"
 }
