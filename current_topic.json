@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Nebula: The AI Warp Sprint (Race to Break the Unbreakable)",
-  "description": "A futuristic ML showdown where competing models race to predict, compress, and repair corrupted signals inside a simulated “neon nebula” under real-time constraints—fastest accuracy wins.",
+  "topic": "Neon Nebula Dash: The Galactic Model Sprint (2026)",
+  "description": "A futuristic race visualization where ML models “dock” into a shifting nebula to win by accuracy, speed, and real-time robustness as the environment evolves every round.",
   "competitors": [
     {
-      "name": "QuantumCometNet",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "PhotonForge-XL",
+      "name": "Quantum Lattice Q-Runner",
       "color": "#00E5FF"
     },
     {
-      "name": "AuroraVector",
-      "color": "#00FF7F"
+      "name": "Photon Forge CNN",
+      "color": "#7CFF6B"
     },
     {
-      "name": "NullPatch Systems",
-      "color": "#FF2E88"
+      "name": "Drift Atlas Transformer",
+      "color": "#B388FF"
     },
     {
-      "name": "SpectraCircuit",
-      "color": "#FFD400"
+      "name": "Aurora Ensemble Vault",
+      "color": "#FFD166"
     },
     {
-      "name": "LatticeRunner",
-      "color": "#2E7DFF"
+      "name": "Graviton Ridge XGB",
+      "color": "#FF4D6D"
     },
     {
-      "name": "ChronoDistill",
-      "color": "#FF6D00"
+      "name": "Spectral Kernel Nova",
+      "color": "#00FFB3"
+    },
+    {
+      "name": "Vector Tempest SVM",
+      "color": "#4DA3FF"
     }
   ],
-  "instagram_caption": "🚀 The AI Warp Sprint just went LIVE. Who’s fastest in the Neon Nebula—accuracy, compression, and repair in real time. Watch the race. 👇✨",
-  "facebook_caption": "Who will win the Neon Nebula AI Warp Sprint? Models are fighting through corrupted signals with speed + precision. Drop your pick in the comments—Team Comet, Forge, Aurora, or one of the others?",
-  "threads_caption": "Real-time AI race inside a simulated neon nebula. Who takes the warp crown?",
-  "twitter_caption": "Neon Nebula AI Warp Sprint: speed + accuracy + signal repair. 7 models. 1 finish line. Who wins? 🚦🤖",
-  "youtube_title": "Neon Nebula AI Warp Sprint: Can These Models Predict the Unpredictable?",
-  "youtube_description": "Welcome to the Neon Nebula: an end-to-end ML “race” visualization where competing models must predict, compress, and repair corrupted signals under real-time pressure. Watch every competitor’s trajectory, latency, and score evolve as the nebula gets harsher. \n\nTime: 2026-06-23\nRules: fastest combined accuracy + compression + repair wins.\n\nSubscribe for more futuristic ML race simulations and leaderboard drops.",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #neuralnetworks #robotics #innovation"
+  "instagram_caption": "🚀 The models are racing through a shifting NEON NEBULA… and only the smartest survive the turbulence. Who’s taking the finish line—Transformer, CNN, or the surprise dark horse? 👀🏁 #NeonNebulaDash",
+  "facebook_caption": "The year is 2026 and the ML models have entered the Galactic Sprint! Watch accuracy and latency collide as the nebula changes every round. Drop your pick in the comments—who will win the Neon Nebula Dash?",
+  "threads_caption": "ML models racing through a living nebula—accuracy vs speed vs chaos. Who wins? 👇",
+  "twitter_caption": "Neon Nebula Dash: models sprint through a shifting galactic obstacle course. Accuracy + latency + robustness = instant glory. Who’s your pick? 🚀🏁",
+  "youtube_title": "Neon Nebula Dash (2026): The Galactic ML Model Race Explained",
+  "youtube_description": "Welcome to Neon Nebula Dash: The Galactic Model Sprint! In this futuristic competition visualization, ML models race through a shifting nebula environment. Each round changes the “space weather,” forcing models to balance accuracy, real-time speed, and robustness. Watch which architecture docks first—and why.\n\n🔔 Subscribe for more AI race simulations and interactive ML visualizations.\n\nTimestamps:\n00:00 Trailer\n00:30 The Rules (Accuracy • Latency • Robustness)\n02:10 Round 1–3 (Nebula Shift)\n05:40 Final Sprint & Winner",
+  "hashtags": "#ai #ml #tech #deeplearning #datascience #competition #visualization #transformers #neuralnetworks"
 }
