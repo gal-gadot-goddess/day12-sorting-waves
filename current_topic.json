@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Blackout Cup: The Quantum-Sim Sprint",
-  "description": "A high-stakes ML race where teams train under simulated power outages and quantum-inspired data glitches—who still ships the most accurate model in real time?",
+  "topic": "NEON GAUNTLET: The 10-Millisecond Model Sprint",
+  "description": "A futuristic visualization of ML teams racing to win the 10ms inference gauntlet—speed, accuracy, and energy efficiency fighting in real time.",
   "competitors": [
     {
-      "name": "Data Mirage Labs",
+      "name": "Atlas Cores",
       "color": "#00E5FF"
     },
     {
-      "name": "Circuit Sage AI",
+      "name": "Quantum Roam",
       "color": "#7C4DFF"
     },
     {
-      "name": "Entropy Runners",
-      "color": "#00FFA8"
+      "name": "VantaForge",
+      "color": "#00FFB2"
     },
     {
-      "name": "Latency Nemesis",
-      "color": "#FF2E63"
+      "name": "SpectraPulse",
+      "color": "#FF2D55"
     },
     {
-      "name": "EchoForge Models",
-      "color": "#FFB300"
+      "name": "Helix Drift",
+      "color": "#FFD400"
     },
     {
-      "name": "Photon Drift Collective",
-      "color": "#1A73E8"
+      "name": "NovaLattice",
+      "color": "#FF7A18"
     },
     {
-      "name": "NullWave Systems",
-      "color": "#B388FF"
+      "name": "IronBloom AI",
+      "color": "#39FF14"
     }
   ],
-  "instagram_caption": "🚨 Neon Blackout Cup just lit up! Can your model keep its accuracy when the data starts glitching and the lights “go out”? Watch the ML sprint where speed and robustness race in real time. ⚡️🏁 #NeonBlackoutCup",
-  "facebook_caption": "What happens when the lights go out—yet the model still has to perform? 🔥 Join the Neon Blackout Cup: quantum-sim data glitches, power-outage training, and a real-time accuracy showdown. Who’s taking the crown? 👀",
-  "threads_caption": "Your model under blackout conditions: survive or crash? ⚡️🏁",
-  "twitter_caption": "Neon Blackout Cup is live: ML teams racing to stay accurate under quantum-inspired data glitches + simulated power outages. Who wins the sprint? ⚡️🏁 #ai #ml",
-  "youtube_title": "Neon Blackout Cup: The Quantum-Sim Sprint (ML Race Visualization)",
-  "youtube_description": "Welcome to the Neon Blackout Cup—an adrenaline-fueled machine learning competition where every team trains and adapts under simulated power outages and quantum-inspired data glitches. See who keeps accuracy, who cuts latency, and who ships in time as the arena gets darker. Subscribe for more futuristic ML race visualizations!",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #futuretech #quantumai #competition"
+  "instagram_caption": "10ms. One chance. Who wins the NEON GAUNTLET? ⚡️🏎️ Watch the model race where speed, accuracy, and energy all matter—live in the visualization. 🔥",
+  "facebook_caption": "Can your model think faster than a blink? Join the NEON GAUNTLET—an epic 10-millisecond ML sprint where teams battle for top accuracy, lowest latency, and best energy efficiency. Who’s your pick?",
+  "threads_caption": "10ms race: speed + accuracy + efficiency = the ultimate ML flex. Who takes the crown? 🚀",
+  "twitter_caption": "NEON GAUNTLET is on ⚡️🏎️ Teams sprint for 10ms inference—accuracy vs latency vs energy. Drop your pick: Atlas / Quantum / Vanta / Spectra / Helix / Nova / IronBloom.",
+  "youtube_title": "NEON GAUNTLET: The 10-Millisecond AI Model Sprint (ML Race Visualization)",
+  "youtube_description": "Welcome to NEON GAUNTLET—an AI machine learning race where teams compete in a real-time 10-millisecond inference gauntlet. Watch as models battle for top accuracy, lowest latency, and best energy efficiency in a futuristic arena.\n\nIn this video:\n- Speed vs accuracy showdown\n- Energy-aware optimization in the spotlight\n- Who wins the 10ms crown?\n\nSubscribe for more ML race visualizations, tournaments, and futuristic benchmarks!",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #competition #latency #inference #futuretech"
 }
