@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Nebula Dash: The Galactic Model Sprint (2026)",
-  "description": "A futuristic race visualization where ML models “dock” into a shifting nebula to win by accuracy, speed, and real-time robustness as the environment evolves every round.",
+  "topic": "Neural Nebula Grand Prix: The AI Galaxy of Faster Learning",
+  "description": "Teams of AI models race through a procedurally generated “nebula track,” where each checkpoint demands real-time adaptation, robustness, and energy-efficient reasoning under shifting cosmic conditions.",
   "competitors": [
     {
-      "name": "Quantum Lattice Q-Runner",
+      "name": "QuasarQuest",
+      "color": "#7C4DFF"
+    },
+    {
+      "name": "PhotonForge",
       "color": "#00E5FF"
     },
     {
-      "name": "Photon Forge CNN",
-      "color": "#7CFF6B"
+      "name": "AstraSprint",
+      "color": "#00C853"
     },
     {
-      "name": "Drift Atlas Transformer",
-      "color": "#B388FF"
+      "name": "NovaNavigator",
+      "color": "#FF1744"
     },
     {
-      "name": "Aurora Ensemble Vault",
-      "color": "#FFD166"
+      "name": "CometCompute",
+      "color": "#FFC400"
     },
     {
-      "name": "Graviton Ridge XGB",
-      "color": "#FF4D6D"
+      "name": "IonInferno",
+      "color": "#FF3DFF"
     },
     {
-      "name": "Spectral Kernel Nova",
-      "color": "#00FFB3"
-    },
-    {
-      "name": "Vector Tempest SVM",
-      "color": "#4DA3FF"
+      "name": "OrbitOracle",
+      "color": "#1E88E5"
     }
   ],
-  "instagram_caption": "🚀 The models are racing through a shifting NEON NEBULA… and only the smartest survive the turbulence. Who’s taking the finish line—Transformer, CNN, or the surprise dark horse? 👀🏁 #NeonNebulaDash",
-  "facebook_caption": "The year is 2026 and the ML models have entered the Galactic Sprint! Watch accuracy and latency collide as the nebula changes every round. Drop your pick in the comments—who will win the Neon Nebula Dash?",
-  "threads_caption": "ML models racing through a living nebula—accuracy vs speed vs chaos. Who wins? 👇",
-  "twitter_caption": "Neon Nebula Dash: models sprint through a shifting galactic obstacle course. Accuracy + latency + robustness = instant glory. Who’s your pick? 🚀🏁",
-  "youtube_title": "Neon Nebula Dash (2026): The Galactic ML Model Race Explained",
-  "youtube_description": "Welcome to Neon Nebula Dash: The Galactic Model Sprint! In this futuristic competition visualization, ML models race through a shifting nebula environment. Each round changes the “space weather,” forcing models to balance accuracy, real-time speed, and robustness. Watch which architecture docks first—and why.\n\n🔔 Subscribe for more AI race simulations and interactive ML visualizations.\n\nTimestamps:\n00:00 Trailer\n00:30 The Rules (Accuracy • Latency • Robustness)\n02:10 Round 1–3 (Nebula Shift)\n05:40 Final Sprint & Winner",
-  "hashtags": "#ai #ml #tech #deeplearning #datascience #competition #visualization #transformers #neuralnetworks"
+  "instagram_caption": "🚀 The Neural Nebula Grand Prix is live. Watch which model survives the cosmic curveballs—faster learning, smarter decisions, and instant adaptation. Who wins the galaxy? 🌌🏎️ #NeuralNebula #MachineLearningRace #AI",
+  "facebook_caption": "AI teams are racing through a shifting galaxy of challenges—accuracy under pressure, adaptation in real time, and efficiency like never before. Drop your pick: which competitor will cross the nebula finish line first? 👇",
+  "threads_caption": "Who would you bet on in the Neural Nebula Grand Prix? 🌌🏎️",
+  "twitter_caption": "Neural Nebula Grand Prix: AI models racing through cosmic challenges—real-time adaptation + efficiency wins. Who takes the checkered nebula? 🚀🌌",
+  "youtube_title": "Neural Nebula Grand Prix: The AI Galaxy Race (Models That Learn FAST)",
+  "youtube_description": "Welcome to the Neural Nebula Grand Prix—an ML race visualization where competitors sprint through a procedurally changing “cosmic track.” Each checkpoint tests real-time adaptation, robustness, and energy-efficient reasoning as the nebula environment shifts on the fly. \n\nWhich AI team do you think will win: QuasarQuest, PhotonForge, AstraSprint, NovaNavigator, CometCompute, IonInferno, or OrbitOracle?\n\nLike, subscribe, and comment your pick!",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #dataviz #aicompetition #futuristic"
 }
