@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Model Grand Prix: The 1,000-Layer Sprint",
-  "description": "Watch AI architectures race through a simulated track where each lap rewards speed, accuracy, and robustness under real-time data drift.",
+  "topic": "NEON NOISE: The Quantum Drift Race (ML Edition)",
+  "description": "A futuristic race where teams tune models to outsmart shifting “neon noise” in real time—watch accuracy, latency, and robustness sprint across a holographic track.",
   "competitors": [
     {
-      "name": "Quantum Q-Runner",
+      "name": "HoloNet V1",
       "color": "#00E5FF"
     },
     {
-      "name": "PrismNet ResNet-Forge",
+      "name": "QuantumPulse Q",
       "color": "#7C4DFF"
     },
     {
-      "name": "Atlas Transformers",
+      "name": "RoboForge Distill",
       "color": "#00C853"
     },
     {
-      "name": "Rogue Diffusion Sprinter",
+      "name": "EdgeBlade Latency",
       "color": "#FF1744"
     },
     {
-      "name": "Cortex-GAN Turbo",
-      "color": "#FF9100"
+      "name": "SpectraGuard Robust",
+      "color": "#FFD600"
     },
     {
-      "name": "Sparse Sentinel Mixture-of-Experts",
-      "color": "#2962FF"
+      "name": "Neural Nomad RL",
+      "color": "#1DE9B6"
     },
     {
-      "name": "EdgePulse TinyML Racer",
-      "color": "#00E676"
+      "name": "OptiStorm Tuner",
+      "color": "#FF6D00"
     }
   ],
-  "instagram_caption": "THE NEON GRAND PRIX is live. 🏎️⚡ Who wins the 1,000-layer sprint: speed, accuracy, or resilience to data drift? Watch the race and drop your pick. 👇",
-  "facebook_caption": "AI racers are tearing through the Neon Grand Prix track—each lap tests real-world chaos: data drift, noise, and surprise challenges. Which competitor takes the checkered flag?",
-  "threads_caption": "If ML were a race… which model are you betting on? 🏁",
-  "twitter_caption": "Neon Model Grand Prix is ON. 1,000-layer sprint: speed vs accuracy vs robustness. Who’s your winner? 🏎️🤖",
-  "youtube_title": "Neon Model Grand Prix: The 1,000-Layer Sprint (AI Race Visualization)",
-  "youtube_description": "Welcome to the Neon Model Grand Prix! In this futuristic ML competition visualization, seven cutting-edge architectures race through a simulated track that includes real-time data drift, noise spikes, and robustness checkpoints. Each lap rewards performance, stability, and generalization—so the fastest model isn’t always the winner.\n\nWhich competitor will cross the finish line first? Comment your pick and watch the full race updates.\n\nTimestamps:\n00:00 Countdown to the start\n00:15 Lap 1: Drift detected\n02:05 Lap 2: Noise storm\n04:30 Lap 3: Robustness checkpoint\n07:10 Final showdown",
-  "hashtags": "#ai #ml #tech #deeplearning #computervision #transformers #generativeai #datascience #innovation #machinelearningrace"
+  "instagram_caption": "🚦NEON NOISE IS LIVE. Who wins the Quantum Drift Race? ⚡️ Watch the ML teams battle shifting chaos—accuracy up, latency down, and robustness survives the blast. Comment your pick! 👇",
+  "facebook_caption": "The track just changed mid-lap. In the NEON NOISE: Quantum Drift Race, ML teams have to adapt to shifting data instantly. Can your favorite model keep its lead when the “noise” goes full neon? Drop a reaction for your champion!",
+  "threads_caption": "AI race update: the data is mutating. Can your model adapt before it crashes? 👀🏁",
+  "twitter_caption": "NEON NOISE: Quantum Drift Race is ON. Models are getting tested in real time as the signal mutates. Accuracy vs latency vs robustness—who takes the crown? 🏁⚡️",
+  "youtube_title": "NEON NOISE: The Quantum Drift Race (ML Visualization) 🏁⚡️",
+  "youtube_description": "Welcome to NEON NOISE—an overclocked ML race where competitors tune models against shifting “neon noise” conditions. Watch accuracy, latency, and robustness change lap-by-lap in a futuristic holographic visualization. Who will survive the drift? Tell us in the comments.\n\nTimeline:\n00:00 Start\n00:15 Lap 1: Signal Shifts\n00:40 Lap 2: Robustness Test\n01:05 Final Sprint: Latency Showdown\n\nSubscribe for more ML race visualizations!",
+  "hashtags": "#ai #ml #tech #deeplearning #quantum #datavisualization #neonnoise #mlevolution"
 }
