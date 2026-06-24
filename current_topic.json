@@ -1,41 +1,41 @@
 {
-  "topic": "Neural Nebula Grand Prix: The AI Galaxy of Faster Learning",
-  "description": "Teams of AI models race through a procedurally generated “nebula track,” where each checkpoint demands real-time adaptation, robustness, and energy-efficient reasoning under shifting cosmic conditions.",
+  "topic": "Neon Model Grand Prix: The 1,000-Layer Sprint",
+  "description": "Watch AI architectures race through a simulated track where each lap rewards speed, accuracy, and robustness under real-time data drift.",
   "competitors": [
     {
-      "name": "QuasarQuest",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "PhotonForge",
+      "name": "Quantum Q-Runner",
       "color": "#00E5FF"
     },
     {
-      "name": "AstraSprint",
+      "name": "PrismNet ResNet-Forge",
+      "color": "#7C4DFF"
+    },
+    {
+      "name": "Atlas Transformers",
       "color": "#00C853"
     },
     {
-      "name": "NovaNavigator",
+      "name": "Rogue Diffusion Sprinter",
       "color": "#FF1744"
     },
     {
-      "name": "CometCompute",
-      "color": "#FFC400"
+      "name": "Cortex-GAN Turbo",
+      "color": "#FF9100"
     },
     {
-      "name": "IonInferno",
-      "color": "#FF3DFF"
+      "name": "Sparse Sentinel Mixture-of-Experts",
+      "color": "#2962FF"
     },
     {
-      "name": "OrbitOracle",
-      "color": "#1E88E5"
+      "name": "EdgePulse TinyML Racer",
+      "color": "#00E676"
     }
   ],
-  "instagram_caption": "🚀 The Neural Nebula Grand Prix is live. Watch which model survives the cosmic curveballs—faster learning, smarter decisions, and instant adaptation. Who wins the galaxy? 🌌🏎️ #NeuralNebula #MachineLearningRace #AI",
-  "facebook_caption": "AI teams are racing through a shifting galaxy of challenges—accuracy under pressure, adaptation in real time, and efficiency like never before. Drop your pick: which competitor will cross the nebula finish line first? 👇",
-  "threads_caption": "Who would you bet on in the Neural Nebula Grand Prix? 🌌🏎️",
-  "twitter_caption": "Neural Nebula Grand Prix: AI models racing through cosmic challenges—real-time adaptation + efficiency wins. Who takes the checkered nebula? 🚀🌌",
-  "youtube_title": "Neural Nebula Grand Prix: The AI Galaxy Race (Models That Learn FAST)",
-  "youtube_description": "Welcome to the Neural Nebula Grand Prix—an ML race visualization where competitors sprint through a procedurally changing “cosmic track.” Each checkpoint tests real-time adaptation, robustness, and energy-efficient reasoning as the nebula environment shifts on the fly. \n\nWhich AI team do you think will win: QuasarQuest, PhotonForge, AstraSprint, NovaNavigator, CometCompute, IonInferno, or OrbitOracle?\n\nLike, subscribe, and comment your pick!",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #dataviz #aicompetition #futuristic"
+  "instagram_caption": "THE NEON GRAND PRIX is live. 🏎️⚡ Who wins the 1,000-layer sprint: speed, accuracy, or resilience to data drift? Watch the race and drop your pick. 👇",
+  "facebook_caption": "AI racers are tearing through the Neon Grand Prix track—each lap tests real-world chaos: data drift, noise, and surprise challenges. Which competitor takes the checkered flag?",
+  "threads_caption": "If ML were a race… which model are you betting on? 🏁",
+  "twitter_caption": "Neon Model Grand Prix is ON. 1,000-layer sprint: speed vs accuracy vs robustness. Who’s your winner? 🏎️🤖",
+  "youtube_title": "Neon Model Grand Prix: The 1,000-Layer Sprint (AI Race Visualization)",
+  "youtube_description": "Welcome to the Neon Model Grand Prix! In this futuristic ML competition visualization, seven cutting-edge architectures race through a simulated track that includes real-time data drift, noise spikes, and robustness checkpoints. Each lap rewards performance, stability, and generalization—so the fastest model isn’t always the winner.\n\nWhich competitor will cross the finish line first? Comment your pick and watch the full race updates.\n\nTimestamps:\n00:00 Countdown to the start\n00:15 Lap 1: Drift detected\n02:05 Lap 2: Noise storm\n04:30 Lap 3: Robustness checkpoint\n07:10 Final showdown",
+  "hashtags": "#ai #ml #tech #deeplearning #computervision #transformers #generativeai #datascience #innovation #machinelearningrace"
 }
