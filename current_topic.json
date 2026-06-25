@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Drift: The Mars Rovers ML Grand Prix (Real-Time Model Racing)",
-  "description": "Watch competing ML models race against clockwork Mars terrain, evolving in real time to predict safe paths, avoid dust storms, and optimize energy—like a futuristic F1, but for rover intelligence.",
+  "topic": "Neural Autobahn: The 2026 AI Speedrun Race",
+  "description": "A futuristic visualization of ML models competing to accelerate inference, minimize latency, and maximize accuracy on live, simulated traffic—like cars on a glowing neural highway.",
   "competitors": [
     {
-      "name": "DustStormNet",
-      "color": "#FF2E88"
-    },
-    {
-      "name": "PathFinderX",
+      "name": "Latency Lynx",
       "color": "#00E5FF"
     },
     {
-      "name": "EnergyPulseRL",
+      "name": "Accuracy Atlas",
       "color": "#7CFF6B"
     },
     {
-      "name": "TerrainSenseGPT",
-      "color": "#B388FF"
+      "name": "Throughput Titan",
+      "color": "#FF4DFF"
     },
     {
-      "name": "LidarNova",
-      "color": "#FFD400"
+      "name": "Edge Comet",
+      "color": "#FFD84D"
     },
     {
-      "name": "RoverGuard Ensemble",
-      "color": "#00FFA3"
+      "name": "Quant Quantum",
+      "color": "#8A7DFF"
     },
     {
-      "name": "CraterSprint Transformer",
-      "color": "#FF6B00"
+      "name": "Robust Raptor",
+      "color": "#FF6B6B"
+    },
+    {
+      "name": "Fusion Falcon",
+      "color": "#00FFB2"
     }
   ],
-  "instagram_caption": "🚀🧠 NEON DRIFT is LIVE! Which model will win the Mars Rovers ML Grand Prix—DustStormNet, PathFinderX, EnergyPulseRL… or the dark horse CraterSprint? Watch the race where “accuracy” = survival. ⚡️👀",
-  "facebook_caption": "The future of rover intelligence is a competition—fast. 🛰️🔥 Six metrics. One mission. Models are racing to navigate craters, predict hazards, and conserve power in real time. Who’s your pick to take the checkered flag?",
-  "threads_caption": "Mars rovers racing for survival—choose your champion. 🛰️🏁 Who wins?",
-  "twitter_caption": "NEON DRIFT: ML models racing across Mars terrain in real time. Prediction + safety + energy = victory. Who’s taking the lead? 🚀🏁 #AI #ML",
-  "youtube_title": "Neon Drift: The Mars Rovers ML Grand Prix (Real-Time AI Model Race)",
-  "youtube_description": "Welcome to Neon Drift—where competing ML systems race to control next-gen Mars rovers. Each model must rapidly predict safe routes, avoid hazards, handle dust-storm uncertainty, and optimize rover energy in real time.\n\nIn this episode you’ll see: \n• Live “model telemetry” as the race unfolds\n• How each competitor handles terrain + visibility changes\n• The metrics that decide the winner (safety, path efficiency, energy cost)\n\nCast your vote in the comments and follow for the next race.",
-  "hashtags": "#ai #ml #tech #machinelearning #aivideos #datascience #robotics #mars #reinforcementlearning"
+  "instagram_caption": "🚦⚡ The Neural Autobahn is ON. Who wins the 2026 AI Speedrun Race—lowest latency, highest accuracy, or max throughput? Watch the glowing models battle it out across the traffic lanes of data. 🧠💥",
+  "facebook_caption": "The year is 2026 and the AI race track is glowing. 🏎️✨ “Neural Autobahn” pits top ML contenders against each other to see who can process fastest, stay accurate under chaos, and conquer live traffic-style workloads. Can you pick the winner?",
+  "threads_caption": "AI models racing on a neural highway—who’s taking the checkered flag? 🚦⚡",
+  "twitter_caption": "Neural Autobahn: live ML speedrun race—latency vs accuracy vs throughput. Who do you think wins? 🚀⚡ #AI #ML",
+  "youtube_title": "Neural Autobahn 2026: The AI Speedrun Race (Latency vs Accuracy vs Throughput)",
+  "youtube_description": "Welcome to the Neural Autobahn—an ultra-futuristic ML competition where models race across simulated traffic data. Each competitor battles for the fastest inference (lowest latency), the best predictions (accuracy), and the highest throughput—while conditions change in real time. \n\nIn this video you’ll see:\n- Real-time “neural highway” race visuals\n- Performance trade-offs explained in seconds\n- Who climbs the leaderboard when the traffic gets chaotic\n\nDrop your prediction in the comments: Which competitor will win the 2026 AI Speedrun Race?",
+  "hashtags": "#ai #ml #tech #deeplearning #computervision #reinforcementlearning #latency #benchmark"
 }
