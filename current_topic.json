@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Algorithm Derby: The 10,000-Model Sprint for Real-World Accuracy",
-  "description": "A futuristic race where AI teams compete to maximize on-device accuracy, robustness, and speed under real-time energy and latency constraints—live on a leaderboard that updates every second.",
+  "topic": "Neon Drift: The Mars Rovers ML Grand Prix (Real-Time Model Racing)",
+  "description": "Watch competing ML models race against clockwork Mars terrain, evolving in real time to predict safe paths, avoid dust storms, and optimize energy—like a futuristic F1, but for rover intelligence.",
   "competitors": [
     {
-      "name": "Quantum SprintNet",
-      "color": "#7C3AED"
+      "name": "DustStormNet",
+      "color": "#FF2E88"
     },
     {
-      "name": "EdgeForge Vision",
-      "color": "#22C55E"
+      "name": "PathFinderX",
+      "color": "#00E5FF"
     },
     {
-      "name": "Aurora DistillCo",
-      "color": "#06B6D4"
+      "name": "EnergyPulseRL",
+      "color": "#7CFF6B"
     },
     {
-      "name": "Entropy Raiders",
-      "color": "#F97316"
+      "name": "TerrainSenseGPT",
+      "color": "#B388FF"
     },
     {
-      "name": "Neural Drift Rangers",
-      "color": "#E11D48"
+      "name": "LidarNova",
+      "color": "#FFD400"
     },
     {
-      "name": "Triton Optimus",
-      "color": "#F59E0B"
+      "name": "RoverGuard Ensemble",
+      "color": "#00FFA3"
     },
     {
-      "name": "Spectral Proofers",
-      "color": "#60A5FA"
+      "name": "CraterSprint Transformer",
+      "color": "#FF6B00"
     }
   ],
-  "instagram_caption": "🏁⚡ The Neon Algorithm Derby is LIVE! 10,000 AI contenders sprint for REAL-world accuracy—under the harshest constraints: speed, energy, and robustness. Who’s winning your imagination? Drop a #Team in the comments. 🔥",
-  "facebook_caption": "Watch the Neon Algorithm Derby unfold in real time—AI models racing for on-device accuracy, resilience, and efficiency. The leaderboard updates every second. Which competitor are you betting on? 🏎️🤖",
-  "threads_caption": "AI models racing for real-world accuracy. Time to pick a team 🏁🤖",
-  "twitter_caption": "Neon Algorithm Derby: 10,000 models sprinting for real-world accuracy under latency + energy limits. Live leaderboard every second. Who wins? 🏎️⚡",
-  "youtube_title": "Neon Algorithm Derby: Can Any AI Win the 10,000-Model Accuracy Sprint?",
-  "youtube_description": "Welcome to the Neon Algorithm Derby—where machine learning teams compete in a futuristic sprint for real-world accuracy. Watch competitors optimize for speed, robustness, and energy efficiency as the leaderboard updates every second.\n\nIn this race you’ll see:\n- Real-time ranking vs. constraints\n- Robustness vs. noise and edge cases\n- Efficiency tradeoffs (latency + compute)\n\nWhich model are you backing? Comment your #Team below!",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #competition #futurism #robustai"
+  "instagram_caption": "🚀🧠 NEON DRIFT is LIVE! Which model will win the Mars Rovers ML Grand Prix—DustStormNet, PathFinderX, EnergyPulseRL… or the dark horse CraterSprint? Watch the race where “accuracy” = survival. ⚡️👀",
+  "facebook_caption": "The future of rover intelligence is a competition—fast. 🛰️🔥 Six metrics. One mission. Models are racing to navigate craters, predict hazards, and conserve power in real time. Who’s your pick to take the checkered flag?",
+  "threads_caption": "Mars rovers racing for survival—choose your champion. 🛰️🏁 Who wins?",
+  "twitter_caption": "NEON DRIFT: ML models racing across Mars terrain in real time. Prediction + safety + energy = victory. Who’s taking the lead? 🚀🏁 #AI #ML",
+  "youtube_title": "Neon Drift: The Mars Rovers ML Grand Prix (Real-Time AI Model Race)",
+  "youtube_description": "Welcome to Neon Drift—where competing ML systems race to control next-gen Mars rovers. Each model must rapidly predict safe routes, avoid hazards, handle dust-storm uncertainty, and optimize rover energy in real time.\n\nIn this episode you’ll see: \n• Live “model telemetry” as the race unfolds\n• How each competitor handles terrain + visibility changes\n• The metrics that decide the winner (safety, path efficiency, energy cost)\n\nCast your vote in the comments and follow for the next race.",
+  "hashtags": "#ai #ml #tech #machinelearning #aivideos #datascience #robotics #mars #reinforcementlearning"
 }
