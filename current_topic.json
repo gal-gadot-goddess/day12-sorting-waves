@@ -1,41 +1,41 @@
 {
-  "topic": "NEON NOISE: The Quantum Drift Race (ML Edition)",
-  "description": "A futuristic race where teams tune models to outsmart shifting “neon noise” in real time—watch accuracy, latency, and robustness sprint across a holographic track.",
+  "topic": "Neon Algorithm Derby: The 10,000-Model Sprint for Real-World Accuracy",
+  "description": "A futuristic race where AI teams compete to maximize on-device accuracy, robustness, and speed under real-time energy and latency constraints—live on a leaderboard that updates every second.",
   "competitors": [
     {
-      "name": "HoloNet V1",
-      "color": "#00E5FF"
+      "name": "Quantum SprintNet",
+      "color": "#7C3AED"
     },
     {
-      "name": "QuantumPulse Q",
-      "color": "#7C4DFF"
+      "name": "EdgeForge Vision",
+      "color": "#22C55E"
     },
     {
-      "name": "RoboForge Distill",
-      "color": "#00C853"
+      "name": "Aurora DistillCo",
+      "color": "#06B6D4"
     },
     {
-      "name": "EdgeBlade Latency",
-      "color": "#FF1744"
+      "name": "Entropy Raiders",
+      "color": "#F97316"
     },
     {
-      "name": "SpectraGuard Robust",
-      "color": "#FFD600"
+      "name": "Neural Drift Rangers",
+      "color": "#E11D48"
     },
     {
-      "name": "Neural Nomad RL",
-      "color": "#1DE9B6"
+      "name": "Triton Optimus",
+      "color": "#F59E0B"
     },
     {
-      "name": "OptiStorm Tuner",
-      "color": "#FF6D00"
+      "name": "Spectral Proofers",
+      "color": "#60A5FA"
     }
   ],
-  "instagram_caption": "🚦NEON NOISE IS LIVE. Who wins the Quantum Drift Race? ⚡️ Watch the ML teams battle shifting chaos—accuracy up, latency down, and robustness survives the blast. Comment your pick! 👇",
-  "facebook_caption": "The track just changed mid-lap. In the NEON NOISE: Quantum Drift Race, ML teams have to adapt to shifting data instantly. Can your favorite model keep its lead when the “noise” goes full neon? Drop a reaction for your champion!",
-  "threads_caption": "AI race update: the data is mutating. Can your model adapt before it crashes? 👀🏁",
-  "twitter_caption": "NEON NOISE: Quantum Drift Race is ON. Models are getting tested in real time as the signal mutates. Accuracy vs latency vs robustness—who takes the crown? 🏁⚡️",
-  "youtube_title": "NEON NOISE: The Quantum Drift Race (ML Visualization) 🏁⚡️",
-  "youtube_description": "Welcome to NEON NOISE—an overclocked ML race where competitors tune models against shifting “neon noise” conditions. Watch accuracy, latency, and robustness change lap-by-lap in a futuristic holographic visualization. Who will survive the drift? Tell us in the comments.\n\nTimeline:\n00:00 Start\n00:15 Lap 1: Signal Shifts\n00:40 Lap 2: Robustness Test\n01:05 Final Sprint: Latency Showdown\n\nSubscribe for more ML race visualizations!",
-  "hashtags": "#ai #ml #tech #deeplearning #quantum #datavisualization #neonnoise #mlevolution"
+  "instagram_caption": "🏁⚡ The Neon Algorithm Derby is LIVE! 10,000 AI contenders sprint for REAL-world accuracy—under the harshest constraints: speed, energy, and robustness. Who’s winning your imagination? Drop a #Team in the comments. 🔥",
+  "facebook_caption": "Watch the Neon Algorithm Derby unfold in real time—AI models racing for on-device accuracy, resilience, and efficiency. The leaderboard updates every second. Which competitor are you betting on? 🏎️🤖",
+  "threads_caption": "AI models racing for real-world accuracy. Time to pick a team 🏁🤖",
+  "twitter_caption": "Neon Algorithm Derby: 10,000 models sprinting for real-world accuracy under latency + energy limits. Live leaderboard every second. Who wins? 🏎️⚡",
+  "youtube_title": "Neon Algorithm Derby: Can Any AI Win the 10,000-Model Accuracy Sprint?",
+  "youtube_description": "Welcome to the Neon Algorithm Derby—where machine learning teams compete in a futuristic sprint for real-world accuracy. Watch competitors optimize for speed, robustness, and energy efficiency as the leaderboard updates every second.\n\nIn this race you’ll see:\n- Real-time ranking vs. constraints\n- Robustness vs. noise and edge cases\n- Efficiency tradeoffs (latency + compute)\n\nWhich model are you backing? Comment your #Team below!",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #competition #futurism #robustai"
 }
