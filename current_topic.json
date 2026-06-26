@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Nebula: The AI Galaxy Sprint (2026 Frontier Race)",
-  "description": "Watch competing ML agents blast through a procedurally generated “nebula” of drifting tasks, scoring on speed, accuracy, and robustness under zero-warning model shifts.",
+  "topic": "Neon Data Derby: The Transformer Sprint (100K Token Dash)",
+  "description": "Watch rival models race across a live track of streaming data, scoring in real time on speed, accuracy, and reasoning under shifting rules—like a futuristic Grand Prix for ML.",
   "competitors": [
     {
-      "name": "QuasarQL",
+      "name": "AstraRank Transformer",
       "color": "#7C3AED"
     },
     {
-      "name": "IonForge",
+      "name": "QuantaPulse LLM",
       "color": "#22C55E"
     },
     {
-      "name": "SpectraSprint",
+      "name": "SpectraBeam Reasoner",
       "color": "#06B6D4"
     },
     {
-      "name": "NovaNavi",
+      "name": "VectorViper Distiller",
       "color": "#F97316"
     },
     {
-      "name": "VantaVision",
-      "color": "#A855F7"
+      "name": "NovaGrid Vision-Text",
+      "color": "#E11D48"
     },
     {
-      "name": "HyperAtlas",
+      "name": "EchoCircuit Retrieval",
+      "color": "#A3E635"
+    },
+    {
+      "name": "PhotonForge MoE",
       "color": "#60A5FA"
-    },
-    {
-      "name": "PrismPulse",
-      "color": "#F43F5E"
     }
   ],
-  "instagram_caption": "🚀 The AI Galaxy Sprint just ignited! Which model will survive the NEBULA chaos and cross the finish line first—speed or sanity? 👀✨ Track the race in real time. #NeonNebula",
-  "facebook_caption": "AI agents are racing through a shifting, zero-warning “nebula” of tasks—no training wheels, only raw performance. Who do you think wins: QuasarQL, IonForge, SpectraSprint, or the wild card? Drop your pick!",
-  "threads_caption": "Zero-warning nebula chaos. Only the fastest (and smartest) survive. Who’s your champion? 🧠🚀",
-  "twitter_caption": "Neon Nebula AI race just started: accuracy + speed + robustness under shifting reality. Which agent takes the crown? 👀 #ai #ml #tech",
-  "youtube_title": "NEON NEBULA AI RACE 2026: Models Sprint Through a Shifting Galaxy (Live Visualization)",
-  "youtube_description": "In this futuristic ML competition, multiple AI agents compete in a procedurally generated “Neon Nebula” where tasks drift without warning. Watch who adapts fastest, stays accurate, and keeps performance stable as conditions change.\n\nWhat you’ll see:\n- Real-time race visualization across multiple agents\n- Scoring for speed, accuracy, and robustness\n- Dramatic failovers when models can’t generalize\n\nWho wins the Galaxy Sprint? Comment your prediction!",
-  "hashtags": "#ai #ml #tech #machinelearning #aiviz #robotics #futurism #deeplearning #competition"
+  "instagram_caption": "🏎️💨 The Neon Data Derby is LIVE! Who wins the 100K Token Dash—speed, accuracy, or pure reasoning? Drop your pick and watch the models burn through the track in real time. ⚡ #MLRace #AIComputation #Transformers",
+  "facebook_caption": "The Transformer Sprint just kicked off! Track seven top models as they race through shifting data conditions—scored on latency, correctness, and reasoning. Cast your vote for the fastest (or smartest) contender! 🚀",
+  "threads_caption": "AI models racing like F1 cars across a token highway—who’s taking the checkered flag? 🏁",
+  "twitter_caption": "Neon Data Derby: a 100K-token sprint where models are scored live on speed + accuracy + reasoning. Vote your champion: AstraRank, QuantaPulse, or PhotonForge? 🏎️🤖",
+  "youtube_title": "NEON DATA DERBY 🏎️🤖 Transformer Sprint (100K Token Dash) — Live ML Race Visualization",
+  "youtube_description": "Welcome to the Neon Data Derby—an electrifying machine learning competition where transformer-based rivals race through streaming, shifting data conditions. In this visualization, each competitor is judged in real time on:\n- Latency (tokens/sec)\n- Accuracy under changing rules\n- Reasoning consistency across challenges\n\nComment your pick and watch who hits the finish line first—and who delivers the most correct answers when the track changes mid-race.\n\n#NeonDataDerby #MLRace #TransformerSprint",
+  "hashtags": "#ai #ml #tech #deeplearning #transformers #opensource #datascience #futuretech"
 }
