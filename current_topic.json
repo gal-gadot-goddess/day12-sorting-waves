@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Data Derby: The Transformer Sprint (100K Token Dash)",
-  "description": "Watch rival models race across a live track of streaming data, scoring in real time on speed, accuracy, and reasoning under shifting rules—like a futuristic Grand Prix for ML.",
+  "topic": "Neural Drift Grand Prix: Speedruns in the Infinite Hyperplane",
+  "description": "A futuristic ML race where models compete to minimize loss while dynamically adapting to shifting data terrains—visualized as lanes on an infinite hyperplane track.",
   "competitors": [
     {
-      "name": "AstraRank Transformer",
-      "color": "#7C3AED"
+      "name": "Gradient Razor",
+      "color": "#00E5FF"
     },
     {
-      "name": "QuantaPulse LLM",
-      "color": "#22C55E"
+      "name": "Quantum Steamroller",
+      "color": "#7C4DFF"
     },
     {
-      "name": "SpectraBeam Reasoner",
-      "color": "#06B6D4"
+      "name": "Curriculum Comet",
+      "color": "#00FFA3"
     },
     {
-      "name": "VectorViper Distiller",
-      "color": "#F97316"
+      "name": "Transformer Nova",
+      "color": "#FF2D55"
     },
     {
-      "name": "NovaGrid Vision-Text",
-      "color": "#E11D48"
+      "name": "Federated Flash",
+      "color": "#FFD300"
     },
     {
-      "name": "EchoCircuit Retrieval",
-      "color": "#A3E635"
+      "name": "Graph Vanguard",
+      "color": "#35A7FF"
     },
     {
-      "name": "PhotonForge MoE",
-      "color": "#60A5FA"
+      "name": "Ensemble Eclipse",
+      "color": "#FF7A00"
     }
   ],
-  "instagram_caption": "🏎️💨 The Neon Data Derby is LIVE! Who wins the 100K Token Dash—speed, accuracy, or pure reasoning? Drop your pick and watch the models burn through the track in real time. ⚡ #MLRace #AIComputation #Transformers",
-  "facebook_caption": "The Transformer Sprint just kicked off! Track seven top models as they race through shifting data conditions—scored on latency, correctness, and reasoning. Cast your vote for the fastest (or smartest) contender! 🚀",
-  "threads_caption": "AI models racing like F1 cars across a token highway—who’s taking the checkered flag? 🏁",
-  "twitter_caption": "Neon Data Derby: a 100K-token sprint where models are scored live on speed + accuracy + reasoning. Vote your champion: AstraRank, QuantaPulse, or PhotonForge? 🏎️🤖",
-  "youtube_title": "NEON DATA DERBY 🏎️🤖 Transformer Sprint (100K Token Dash) — Live ML Race Visualization",
-  "youtube_description": "Welcome to the Neon Data Derby—an electrifying machine learning competition where transformer-based rivals race through streaming, shifting data conditions. In this visualization, each competitor is judged in real time on:\n- Latency (tokens/sec)\n- Accuracy under changing rules\n- Reasoning consistency across challenges\n\nComment your pick and watch who hits the finish line first—and who delivers the most correct answers when the track changes mid-race.\n\n#NeonDataDerby #MLRace #TransformerSprint",
-  "hashtags": "#ai #ml #tech #deeplearning #transformers #opensource #datascience #futuretech"
+  "instagram_caption": "🏁 The Neural Drift Grand Prix is live! Watch AI models speedrun shifting data worlds—until the track itself changes mid-lap. Who takes the checkered flag? 🚀",
+  "facebook_caption": "Think of this as a race for machine learning: models sprint to lower loss while the environment keeps mutating. Which contender wins when the track turns unpredictable? Drop your pick!",
+  "threads_caption": "AI models racing while the data keeps changing… who wins the drift? 🏎️⚡",
+  "twitter_caption": "Neural Drift Grand Prix: models speedrun an infinite hyperplane while the track morphs. Loss down, chaos up. Who’s winning your bracket? 🏁🤖",
+  "youtube_title": "Neural Drift Grand Prix (ML Race): Models Speedrun a Changing Universe",
+  "youtube_description": "Welcome to the Neural Drift Grand Prix—an epic visualization of machine learning competition. Watch Gradient Razor, Transformer Nova, Curriculum Comet, and more battle across an infinite hyperplane track where the data terrain shifts mid-race.\n\nIn this episode we visualize: \n• live loss convergence\n• adaptation under distribution drift\n• robustness vs speed tradeoffs\n• ensemble and graph advantages\n\nWhich model do you think will win the final lap? Comment your pick!\n\n#NeuralDriftGrandPrix #MachineLearning #AI",
+  "hashtags": "#ai #ml #tech #deeplearning #datascience #transformers #graphml #federatedlearning"
 }
