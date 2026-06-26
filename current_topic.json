@@ -1,41 +1,41 @@
 {
-  "topic": "Neural Autobahn: The 2026 AI Speedrun Race",
-  "description": "A futuristic visualization of ML models competing to accelerate inference, minimize latency, and maximize accuracy on live, simulated traffic—like cars on a glowing neural highway.",
+  "topic": "Neon Nebula: The AI Galaxy Sprint (2026 Frontier Race)",
+  "description": "Watch competing ML agents blast through a procedurally generated “nebula” of drifting tasks, scoring on speed, accuracy, and robustness under zero-warning model shifts.",
   "competitors": [
     {
-      "name": "Latency Lynx",
-      "color": "#00E5FF"
+      "name": "QuasarQL",
+      "color": "#7C3AED"
     },
     {
-      "name": "Accuracy Atlas",
-      "color": "#7CFF6B"
+      "name": "IonForge",
+      "color": "#22C55E"
     },
     {
-      "name": "Throughput Titan",
-      "color": "#FF4DFF"
+      "name": "SpectraSprint",
+      "color": "#06B6D4"
     },
     {
-      "name": "Edge Comet",
-      "color": "#FFD84D"
+      "name": "NovaNavi",
+      "color": "#F97316"
     },
     {
-      "name": "Quant Quantum",
-      "color": "#8A7DFF"
+      "name": "VantaVision",
+      "color": "#A855F7"
     },
     {
-      "name": "Robust Raptor",
-      "color": "#FF6B6B"
+      "name": "HyperAtlas",
+      "color": "#60A5FA"
     },
     {
-      "name": "Fusion Falcon",
-      "color": "#00FFB2"
+      "name": "PrismPulse",
+      "color": "#F43F5E"
     }
   ],
-  "instagram_caption": "🚦⚡ The Neural Autobahn is ON. Who wins the 2026 AI Speedrun Race—lowest latency, highest accuracy, or max throughput? Watch the glowing models battle it out across the traffic lanes of data. 🧠💥",
-  "facebook_caption": "The year is 2026 and the AI race track is glowing. 🏎️✨ “Neural Autobahn” pits top ML contenders against each other to see who can process fastest, stay accurate under chaos, and conquer live traffic-style workloads. Can you pick the winner?",
-  "threads_caption": "AI models racing on a neural highway—who’s taking the checkered flag? 🚦⚡",
-  "twitter_caption": "Neural Autobahn: live ML speedrun race—latency vs accuracy vs throughput. Who do you think wins? 🚀⚡ #AI #ML",
-  "youtube_title": "Neural Autobahn 2026: The AI Speedrun Race (Latency vs Accuracy vs Throughput)",
-  "youtube_description": "Welcome to the Neural Autobahn—an ultra-futuristic ML competition where models race across simulated traffic data. Each competitor battles for the fastest inference (lowest latency), the best predictions (accuracy), and the highest throughput—while conditions change in real time. \n\nIn this video you’ll see:\n- Real-time “neural highway” race visuals\n- Performance trade-offs explained in seconds\n- Who climbs the leaderboard when the traffic gets chaotic\n\nDrop your prediction in the comments: Which competitor will win the 2026 AI Speedrun Race?",
-  "hashtags": "#ai #ml #tech #deeplearning #computervision #reinforcementlearning #latency #benchmark"
+  "instagram_caption": "🚀 The AI Galaxy Sprint just ignited! Which model will survive the NEBULA chaos and cross the finish line first—speed or sanity? 👀✨ Track the race in real time. #NeonNebula",
+  "facebook_caption": "AI agents are racing through a shifting, zero-warning “nebula” of tasks—no training wheels, only raw performance. Who do you think wins: QuasarQL, IonForge, SpectraSprint, or the wild card? Drop your pick!",
+  "threads_caption": "Zero-warning nebula chaos. Only the fastest (and smartest) survive. Who’s your champion? 🧠🚀",
+  "twitter_caption": "Neon Nebula AI race just started: accuracy + speed + robustness under shifting reality. Which agent takes the crown? 👀 #ai #ml #tech",
+  "youtube_title": "NEON NEBULA AI RACE 2026: Models Sprint Through a Shifting Galaxy (Live Visualization)",
+  "youtube_description": "In this futuristic ML competition, multiple AI agents compete in a procedurally generated “Neon Nebula” where tasks drift without warning. Watch who adapts fastest, stays accurate, and keeps performance stable as conditions change.\n\nWhat you’ll see:\n- Real-time race visualization across multiple agents\n- Scoring for speed, accuracy, and robustness\n- Dramatic failovers when models can’t generalize\n\nWho wins the Galaxy Sprint? Comment your prediction!",
+  "hashtags": "#ai #ml #tech #machinelearning #aiviz #robotics #futurism #deeplearning #competition"
 }
