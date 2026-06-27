@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Nova Siege: The AI Relay Race to the Edge of Intelligence",
-  "description": "A futuristic ML competition where agents sprint from dataset to deployment under extreme latency, shifting tasks, and live adversarial attacks—watch the “neon” models swap lanes in real time.",
+  "topic": "Quantum Neon Sprint: The ML Race Through Time-Shifted Markets",
+  "description": "A futuristic visualization of competing ML teams predicting the next market tick while their models are forced to survive shifting time windows, quantum-noise simulations, and sudden regime changes.",
   "competitors": [
     {
-      "name": "PhotonRunner",
-      "color": "#7CFFCB"
+      "name": "ChronoForge Q-LSTM",
+      "color": "#7C3AED"
     },
     {
-      "name": "QuantumSprint",
-      "color": "#7A5CFF"
-    },
-    {
-      "name": "TensorFalcon",
-      "color": "#FF4FD8"
-    },
-    {
-      "name": "LogicComet",
-      "color": "#38BDF8"
-    },
-    {
-      "name": "AdaptiveVortex",
-      "color": "#F97316"
-    },
-    {
-      "name": "ZeroLag Titan",
+      "name": "RegimeRider Transformer",
       "color": "#22C55E"
     },
     {
-      "name": "NOVA-Warden",
+      "name": "NoiseNavigator Bayesian Net",
+      "color": "#06B6D4"
+    },
+    {
+      "name": "CausalityComet Graph-RNN",
+      "color": "#F97316"
+    },
+    {
+      "name": "TemporalTactician Diffusion Predictor",
+      "color": "#F43F5E"
+    },
+    {
+      "name": "PulsePilot Reinforcement Learner",
       "color": "#EAB308"
+    },
+    {
+      "name": "VaultVortex Ensemble Hub",
+      "color": "#60A5FA"
     }
   ],
-  "instagram_caption": "🏁⚡ The AI Relay Race is LIVE: models are sprinting from “data” to “deployment” before the neon clock runs out. Can your favorite team survive the adversarial waves? 👀🔮 #NeonNovaSiege",
-  "facebook_caption": "Watch the next generation of AI compete in the Neon Nova Siege—high-speed learning, shifting missions, and live attacks. Which competitor deserves the final flag? Comment your pick! 🚀",
-  "threads_caption": "Your AI team has ONE lap: adapt, defend, deploy. Who wins Neon Nova Siege? 🔥",
-  "twitter_caption": "Neon Nova Siege is a futuristic ML race: latency limits + adversarial waves + live task swaps. Pick your AI champion. 🏁🔮 #ai",
-  "youtube_title": "Neon Nova Siege: The Futuristic AI Relay Race (Live ML Competition Visualization)",
-  "youtube_description": "Welcome to Neon Nova Siege—an over-the-top, futuristic visualization of an ML “race” where competitors sprint from training data to real-time deployment. Watch teams adapt under shifting tasks, harsh latency budgets, and live adversarial attacks. Vote in the comments for your AI champion and see who crosses the finish line first.\n\nTimestamps:\n00:00 Intro\n00:20 Track Setup\n01:10 First Heat (Latency Storm)\n02:25 Adversarial Wave Round\n03:40 Final Sprint to Deployment\n\n#ai #ml #tech",
-  "hashtags": "#ai #ml #tech #deepLearning #MachineLearning #AIMetrics #FutureTech"
+  "instagram_caption": "🏎️⚡ The Quantum Neon Sprint is ON! Watch 7 ML teams chase the next market tick as time keeps warping. Who crosses the finish line when the rules change mid-run? 🔥📉 #MachineLearningRace",
+  "facebook_caption": "Can your model survive time-shifts, quantum noise, and sudden market regime swaps? 🚀 Watch the Quantum Neon Sprint competition—7 rival ML teams battle through warped future timelines. Drop your prediction in the comments!",
+  "threads_caption": "Time is bending. Models are racing. Who wins the Quantum Neon Sprint? ⚡🏁",
+  "twitter_caption": "Quantum Neon Sprint: 7 ML competitors predict the next tick while time windows keep warping. Regime shift mid-lap? GAME ON. ⚡🏎️ #ai #ml #quantum",
+  "youtube_title": "Quantum Neon Sprint: The Futuristic ML Race Through Time-Shifted Markets (Who Wins?)",
+  "youtube_description": "In this futuristic machine learning race, seven rival teams compete to predict the next market tick while facing time-shifted windows, quantum-noise simulations, and sudden regime changes. Watch the leaderboard evolve in real time as causality, uncertainty, and temporal reasoning get tested under pressure. Which competitor will hold the edge when the timeline bends?\n\n(Visuals are competition-style and designed for high-energy engagement.)",
+  "hashtags": "#ai #ml #tech #machinelearning #quantum #datascience #reinforcementlearning #transformers #futurism"
 }
