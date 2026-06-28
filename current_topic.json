@@ -1,41 +1,41 @@
 {
-  "topic": "Neural Drift Derby 2090: The Race of Learning Algorithms",
-  "description": "Watch rival ML agents sprint through shifting environments—every lap changes the rules, and only the fastest learners keep traction.",
+  "topic": "Neon Dataset Dash: The 10K-Lane Transformer Sprint",
+  "description": "A futuristic ML “race” where Transformers compete across 10,000 parallel dataset lanes, trading off speed, accuracy, and energy in real time.",
   "competitors": [
     {
-      "name": "Quantum Q-Learner",
+      "name": "HyperLoRA Falcon",
       "color": "#7C4DFF"
     },
     {
-      "name": "Transformer Turbo",
+      "name": "QuantumToken Sprinter",
       "color": "#00E5FF"
     },
     {
-      "name": "Graph Gauntlet",
+      "name": "PrismGPT vNext",
       "color": "#00C853"
     },
     {
-      "name": "Evolutionary Forge",
-      "color": "#FFB300"
-    },
-    {
-      "name": "Bayesian Tide",
+      "name": "EdgeDistil Runner",
       "color": "#FF1744"
     },
     {
-      "name": "Reinforcement Raptor",
-      "color": "#2979FF"
+      "name": "MoE WarpGate",
+      "color": "#FFD600"
     },
     {
-      "name": "Neural Oort Runner",
-      "color": "#FF5CF2"
+      "name": "SparseSignal Titan",
+      "color": "#FF6D00"
+    },
+    {
+      "name": "Vision-Language Comet",
+      "color": "#2962FF"
     }
   ],
-  "instagram_caption": "🏎️💫 The track changes every second—new obstacles, new physics, new rules. Who wins the Neural Drift Derby 2090? 👀 Drop a 🔥 for your champion AI.",
-  "facebook_caption": "The race is on! 🚀 Seven ML titans are training in real-time as the environment morphs mid-lap. Can your favorite model adapt faster than the next twist? Comment your pick and share!",
-  "threads_caption": "Every lap, the world resets. Which ML model survives the Drift Derby? 🧠🏁",
-  "twitter_caption": "Neural Drift Derby 2090: algorithms racing through shifting rules in real time. Adapt faster, win louder. Who’s your pick? 🏎️⚡",
-  "youtube_title": "NEURAL DRIFT DERBY 2090 | ML Algorithms Racing Through Changing Reality (Live Visualization)",
-  "youtube_description": "Welcome to Neural Drift Derby 2090—where top machine learning approaches race against dynamic environments that rewrite the rules each lap. Watch which model adapts fastest across tasks like sequence prediction, graph reasoning, uncertainty under pressure, and reinforcement learning.\n\nIn this video:\n• Competing learning styles go head-to-head\n• Real-time “track changes” test adaptability\n• Scores update as conditions shift\n\nWhich competitor will win the final lap? Comment your pick!",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #reinforcementlearning #transformers #datascience"
+  "instagram_caption": "🏁🚀 Who’s winning the NEON DATASET DASH? Transformers are sprinting through 10,000 lanes—faster, sharper, and greener. Watch the virtual race unfold in real time. Comment your pick: Falcon 🦅, MoE WarpGate ⚡, or Comet ☄️?",
+  "facebook_caption": "The future of ML is a race—and the clock is ticking. In the Neon Dataset Dash, Transformers compete across 10,000 dataset lanes, balancing accuracy, latency, and compute cost. Who should take the checkered flag? Drop your prediction!",
+  "threads_caption": "10,000 lanes. 1 winner. Which model takes the neon checkered flag? 🏁⚡",
+  "twitter_caption": "🏁 Neon Dataset Dash: 10K-lane Transformer Sprint. Speed vs accuracy vs energy—who wins? Pick your contender: Falcon 🦅 / WarpGate ⚡ / Comet ☄️",
+  "youtube_title": "Neon Dataset Dash (2026): The 10K-Lane Transformer Sprint — Live ML Race Visualization",
+  "youtube_description": "Welcome to Neon Dataset Dash: the futuristic ML race where Transformers compete across 10,000 parallel dataset lanes. Watch models trade off speed, accuracy, and energy in a real-time visualization designed for maximum “race day” hype. \n\nIn this episode you’ll see:\n- How accuracy vs latency plays out across 10K lanes\n- Compute/energy efficiency as the tiebreaker\n- Who actually scales the fastest under pressure\n\nWhich competitor do you think wins the checkered flag? Comment your pick!",
+  "hashtags": "#ai #ml #tech #deeplearning #transformers #dataviz #machinelearning #futurism #opensource #raceanalysis"
 }
