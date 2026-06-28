@@ -1,37 +1,41 @@
 {
-  "topic": "Neural Warp Derby 2040: The Speedrun Race for Model Zero-Latency",
-  "description": "Models sprint across a simulated cosmos track, battling for the lowest latency and highest accuracy under hostile, real-time data streams.",
+  "topic": "Neural Drift Derby 2090: The Race of Learning Algorithms",
+  "description": "Watch rival ML agents sprint through shifting environments—every lap changes the rules, and only the fastest learners keep traction.",
   "competitors": [
     {
-      "name": "PhotonForgeNet",
-      "color": "#00E5FF"
-    },
-    {
-      "name": "QuantumSprintLM",
+      "name": "Quantum Q-Learner",
       "color": "#7C4DFF"
     },
     {
-      "name": "TensorBlitz Nova",
-      "color": "#FF2E63"
+      "name": "Transformer Turbo",
+      "color": "#00E5FF"
     },
     {
-      "name": "AetherEdge Transformer",
-      "color": "#00FF9A"
+      "name": "Graph Gauntlet",
+      "color": "#00C853"
     },
     {
-      "name": "LatencyLynx ReAct",
-      "color": "#FFD400"
+      "name": "Evolutionary Forge",
+      "color": "#FFB300"
     },
     {
-      "name": "HyperPulse Distill",
-      "color": "#2BFF59"
+      "name": "Bayesian Tide",
+      "color": "#FF1744"
+    },
+    {
+      "name": "Reinforcement Raptor",
+      "color": "#2979FF"
+    },
+    {
+      "name": "Neural Oort Runner",
+      "color": "#FF5CF2"
     }
   ],
-  "instagram_caption": "🚀 THE FUTURE LOOKS LIKE A RACE TRACK. Who wins: accuracy… or instant answers? Watch the Neural Warp Derby 2040 live—models launch, spikes hit, and latency gets absolutely hunted. ⚡️💥",
-  "facebook_caption": "Can your model survive the cosmic chaos and still answer at zero-latency speed? Join the Neural Warp Derby 2040 visualization—six top contenders sprint through hostile real-time data. Drop your pick in the comments! 🏁🤖",
-  "threads_caption": "Hot take: the next AI leaderboard won’t be about “bigger”—it’ll be about “faster.” Who’s taking the warp crown? ⚡️",
-  "twitter_caption": "Neural Warp Derby 2040: latency is the trophy, accuracy is the shield. Who wins the next model speedrun? 🏁⚡️",
-  "youtube_title": "Neural Warp Derby 2040 | The Real-Time AI Latency Race (Accuracy vs Speed)",
-  "youtube_description": "Welcome to the Neural Warp Derby 2040—a futuristic ML competition where models sprint through simulated space, facing hostile, streaming data and brutal latency constraints. Watch each contender fire off predictions, tank under pressure, and scramble back to accuracy.\n\nIn this race visualization:\n- Live latency vs. accuracy showdown\n- Distillation and efficiency techniques under fire\n- “Warp gates” that punish slow inference\n\nWhich competitor will you crown as the fastest brain in the galaxy? Comment your pick!",
-  "hashtags": "#ai #ml #tech #deeplearning #machinelearning #visualization #innovation #robotics #futuretech"
+  "instagram_caption": "🏎️💫 The track changes every second—new obstacles, new physics, new rules. Who wins the Neural Drift Derby 2090? 👀 Drop a 🔥 for your champion AI.",
+  "facebook_caption": "The race is on! 🚀 Seven ML titans are training in real-time as the environment morphs mid-lap. Can your favorite model adapt faster than the next twist? Comment your pick and share!",
+  "threads_caption": "Every lap, the world resets. Which ML model survives the Drift Derby? 🧠🏁",
+  "twitter_caption": "Neural Drift Derby 2090: algorithms racing through shifting rules in real time. Adapt faster, win louder. Who’s your pick? 🏎️⚡",
+  "youtube_title": "NEURAL DRIFT DERBY 2090 | ML Algorithms Racing Through Changing Reality (Live Visualization)",
+  "youtube_description": "Welcome to Neural Drift Derby 2090—where top machine learning approaches race against dynamic environments that rewrite the rules each lap. Watch which model adapts fastest across tasks like sequence prediction, graph reasoning, uncertainty under pressure, and reinforcement learning.\n\nIn this video:\n• Competing learning styles go head-to-head\n• Real-time “track changes” test adaptability\n• Scores update as conditions shift\n\nWhich competitor will win the final lap? Comment your pick!",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #reinforcementlearning #transformers #datascience"
 }
