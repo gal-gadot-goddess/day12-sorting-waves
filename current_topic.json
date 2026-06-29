@@ -1,41 +1,41 @@
 {
-  "topic": "Neural Gauntlet 2084: The City That Learns Faster",
-  "description": "A high-energy ML race where models compete to adapt to shifting city conditions in real time—traffic, weather, cyber-attacks, and streaming demand—using live visualization of accuracy vs. latency.",
+  "topic": "Quantum Graffiti Grand Prix: RL Agents Paint the Future",
+  "description": "A high-speed visualization race where quantum-inspired reinforcement learning agents compete to generate coherent, never-before-seen ‘graffiti’ murals from noisy signals—speed, creativity, and consistency win.",
   "competitors": [
     {
-      "name": "AstraNet Vanguard",
-      "color": "#7C3AED"
+      "name": "NeonNova RL",
+      "color": "#00E5FF"
     },
     {
-      "name": "HelioVision Drift",
-      "color": "#22C55E"
+      "name": "QbitCanvas",
+      "color": "#7C4DFF"
     },
     {
-      "name": "QuantaForge Optimist",
-      "color": "#06B6D4"
+      "name": "PrismPulse",
+      "color": "#FF2D95"
     },
     {
-      "name": "VortexRule Runner",
-      "color": "#F97316"
+      "name": "SpectraSprint",
+      "color": "#00FF88"
     },
     {
-      "name": "IonSight Ensemble",
-      "color": "#E11D48"
+      "name": "LatentLazer",
+      "color": "#FFD400"
     },
     {
-      "name": "SpectraSynth Proxy",
-      "color": "#60A5FA"
+      "name": "QuantumKoi",
+      "color": "#4DFFDA"
     },
     {
-      "name": "KestrelKernel Distill",
-      "color": "#F59E0B"
+      "name": "VectorVortex",
+      "color": "#FF6B3D"
     }
   ],
-  "instagram_caption": "🚀 The city keeps changing… and only the fastest learner wins. Watch the Neural Gauntlet 2084—accuracy vs latency in one futuristic race. Who’s taking the crown? 🏁 #NeuralGauntlet #AICompetition",
-  "facebook_caption": "What happens when the environment won’t stop moving? 🏙️⚡ In Neural Gauntlet 2084, ML teams battle for top performance under real-time pressure. Follow the race, predict the winner, and tell us your pick in the comments!",
-  "threads_caption": "Your model’s worst day just became the boss fight. Who wins the Neural Gauntlet 2084? 👀",
-  "twitter_caption": "Neural Gauntlet 2084: the race where learning must survive chaos—accuracy + latency in real time. Drop your pick for the winner. 🏁 #AI #ML",
-  "youtube_title": "Neural Gauntlet 2084: Can These ML Models Survive a City That Changes Every Second?",
-  "youtube_description": "Welcome to Neural Gauntlet 2084—an ultra-visual ML competition where competing models adapt to shifting city conditions in real time. Watch live-style race metrics (accuracy, latency, stability under drift) as each challenger battles cyber-attacks, weather shocks, and streaming demand. Who takes the crown?\n\nChapters:\n0:00 The Race Begins\n2:10 Drift & Disaster Round\n5:40 Latency Showdown\n9:30 Final Adaptation Boss\n\nLike, subscribe, and comment your predicted winner!",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #visualization #innovation #datascience"
+  "instagram_caption": "WHO’S TAKING THE CHECKERED FLAG? 🚀🧠 Watch RL agents “paint” futuristic murals from chaotic noise—speed + style + coherence = points. Which agent wins the Quantum Graffiti Grand Prix?",
+  "facebook_caption": "The ML race you didn’t know you needed: quantum-inspired RL agents compete to transform raw noise into jaw-dropping mural art—fast, consistent, and wildly creative. Tap in, vote for your champion, and see who takes the crown!",
+  "threads_caption": "AI is painting in real time. Are you Team NeonNova or Team QbitCanvas? 👀🎨",
+  "twitter_caption": "Quantum Graffiti Grand Prix is live. RL agents turn noise into neon murals at race pace—who wins: speed, style, or coherence? 🏁🧠 #AI #ML",
+  "youtube_title": "Quantum Graffiti Grand Prix: RL Agents Race to Paint the Future (Live Visualization)",
+  "youtube_description": "In this futuristic ML competition visualization, quantum-inspired reinforcement learning agents compete in a “Grand Prix” where they must generate never-before-seen mural art from noisy inputs. The scoreboard rewards speed, visual coherence, and creative originality—watch the agents evolve in real time and vote for your favorite competitor.\n\nTimestamp highlights:\n00:00 Intro + rules\n02:14 First round: Chaos-to-Canvas\n07:30 Mid-race upgrades\n12:45 Final heat + winner reveal\n\nLike, comment your pick, and subscribe for more machine learning races!",
+  "hashtags": "#ai #ml #tech #reinforcementlearning #quantum #datascience #neuralnets #generativeai #visualization"
 }
