@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Dataset Dash: The 10K-Lane Transformer Sprint",
-  "description": "A futuristic ML “race” where Transformers compete across 10,000 parallel dataset lanes, trading off speed, accuracy, and energy in real time.",
+  "topic": "Quantum Relay: The Neural Sprint Across the Event Horizon",
+  "description": "A futuristic ML race where models compete to predict, compress, and adapt under “quantum-latency” and shifting data—visualized as a relay spanning wormhole gates.",
   "competitors": [
     {
-      "name": "HyperLoRA Falcon",
-      "color": "#7C4DFF"
+      "name": "WarpNet-7",
+      "color": "#7C3AED"
     },
     {
-      "name": "QuantumToken Sprinter",
-      "color": "#00E5FF"
+      "name": "PhotonTree",
+      "color": "#22D3EE"
     },
     {
-      "name": "PrismGPT vNext",
-      "color": "#00C853"
+      "name": "QuantaLSTM",
+      "color": "#F97316"
     },
     {
-      "name": "EdgeDistil Runner",
-      "color": "#FF1744"
+      "name": "SagnacTransformer",
+      "color": "#10B981"
     },
     {
-      "name": "MoE WarpGate",
-      "color": "#FFD600"
+      "name": "DarkMatterDistil",
+      "color": "#A78BFA"
     },
     {
-      "name": "SparseSignal Titan",
-      "color": "#FF6D00"
+      "name": "EntropyRunner",
+      "color": "#F43F5E"
     },
     {
-      "name": "Vision-Language Comet",
-      "color": "#2962FF"
+      "name": "ZeroLag Kernel",
+      "color": "#60A5FA"
     }
   ],
-  "instagram_caption": "🏁🚀 Who’s winning the NEON DATASET DASH? Transformers are sprinting through 10,000 lanes—faster, sharper, and greener. Watch the virtual race unfold in real time. Comment your pick: Falcon 🦅, MoE WarpGate ⚡, or Comet ☄️?",
-  "facebook_caption": "The future of ML is a race—and the clock is ticking. In the Neon Dataset Dash, Transformers compete across 10,000 dataset lanes, balancing accuracy, latency, and compute cost. Who should take the checkered flag? Drop your prediction!",
-  "threads_caption": "10,000 lanes. 1 winner. Which model takes the neon checkered flag? 🏁⚡",
-  "twitter_caption": "🏁 Neon Dataset Dash: 10K-lane Transformer Sprint. Speed vs accuracy vs energy—who wins? Pick your contender: Falcon 🦅 / WarpGate ⚡ / Comet ☄️",
-  "youtube_title": "Neon Dataset Dash (2026): The 10K-Lane Transformer Sprint — Live ML Race Visualization",
-  "youtube_description": "Welcome to Neon Dataset Dash: the futuristic ML race where Transformers compete across 10,000 parallel dataset lanes. Watch models trade off speed, accuracy, and energy in a real-time visualization designed for maximum “race day” hype. \n\nIn this episode you’ll see:\n- How accuracy vs latency plays out across 10K lanes\n- Compute/energy efficiency as the tiebreaker\n- Who actually scales the fastest under pressure\n\nWhich competitor do you think wins the checkered flag? Comment your pick!",
-  "hashtags": "#ai #ml #tech #deeplearning #transformers #dataviz #machinelearning #futurism #opensource #raceanalysis"
+  "instagram_caption": "🚀 The Event Horizon just unlocked… and your model is racing for control. Who wins the Quantum Relay? Watch the scores warp in real time as the data bends, latency spikes, and accuracy fights for its life. ⚡️🤖",
+  "facebook_caption": "A brand-new ML competition is live: Quantum Relay! Models must adapt fast as conditions “warp” near the Event Horizon—predicting under shifting data and quantum-like delays. Who do you think takes the relay trophy?",
+  "threads_caption": "Neural models vs quantum latency. Who’s crossing the horizon first? ⚡️",
+  "twitter_caption": "Quantum Relay just started: predict through warped data + latency spikes. Which model are you betting on? 🧠⚡️ #AI #ML",
+  "youtube_title": "Quantum Relay ML Race: Can Neural Networks Survive the Event Horizon?",
+  "youtube_description": "Welcome to the Quantum Relay—an ML competition visualization where competitors sprint across event-horizon zones with shifting data, quantum-latency delays, and real-time score warping. Watch models attempt prediction, compression, and adaptation as the arena changes every moment.\n\nDrop your pick in the comments: Which competitor wins the relay and escapes the horizon?",
+  "hashtags": "#ai #ml #tech #machinelearning #quantum #datascience #deepLearning #competition"
 }
