@@ -1,41 +1,41 @@
 {
-  "topic": "Quantum Graffiti Grand Prix: RL Agents Paint the Future",
-  "description": "A high-speed visualization race where quantum-inspired reinforcement learning agents compete to generate coherent, never-before-seen ‘graffiti’ murals from noisy signals—speed, creativity, and consistency win.",
+  "topic": "Neural Drift Derby: The 2026 Model Hyperrace",
+  "description": "A futuristic ML “race” where models compete to survive concept drift, adapt in real time, and keep accuracy stable as the data world shifts every second.",
   "competitors": [
     {
-      "name": "NeonNova RL",
+      "name": "DriftDynamo GPT",
       "color": "#00E5FF"
     },
     {
-      "name": "QbitCanvas",
-      "color": "#7C4DFF"
+      "name": "Adaptive Atlas",
+      "color": "#7CFF6B"
     },
     {
-      "name": "PrismPulse",
-      "color": "#FF2D95"
+      "name": "ShiftSentinel",
+      "color": "#FF2D55"
     },
     {
-      "name": "SpectraSprint",
-      "color": "#00FF88"
+      "name": "Quantum SlopeRunner",
+      "color": "#9B7BFF"
     },
     {
-      "name": "LatentLazer",
+      "name": "RegretZeroNet",
       "color": "#FFD400"
     },
     {
-      "name": "QuantumKoi",
-      "color": "#4DFFDA"
+      "name": "Ensemble Mirage",
+      "color": "#00FFA8"
     },
     {
-      "name": "VectorVortex",
-      "color": "#FF6B3D"
+      "name": "Latency Lynx",
+      "color": "#FF7A00"
     }
   ],
-  "instagram_caption": "WHO’S TAKING THE CHECKERED FLAG? 🚀🧠 Watch RL agents “paint” futuristic murals from chaotic noise—speed + style + coherence = points. Which agent wins the Quantum Graffiti Grand Prix?",
-  "facebook_caption": "The ML race you didn’t know you needed: quantum-inspired RL agents compete to transform raw noise into jaw-dropping mural art—fast, consistent, and wildly creative. Tap in, vote for your champion, and see who takes the crown!",
-  "threads_caption": "AI is painting in real time. Are you Team NeonNova or Team QbitCanvas? 👀🎨",
-  "twitter_caption": "Quantum Graffiti Grand Prix is live. RL agents turn noise into neon murals at race pace—who wins: speed, style, or coherence? 🏁🧠 #AI #ML",
-  "youtube_title": "Quantum Graffiti Grand Prix: RL Agents Race to Paint the Future (Live Visualization)",
-  "youtube_description": "In this futuristic ML competition visualization, quantum-inspired reinforcement learning agents compete in a “Grand Prix” where they must generate never-before-seen mural art from noisy inputs. The scoreboard rewards speed, visual coherence, and creative originality—watch the agents evolve in real time and vote for your favorite competitor.\n\nTimestamp highlights:\n00:00 Intro + rules\n02:14 First round: Chaos-to-Canvas\n07:30 Mid-race upgrades\n12:45 Final heat + winner reveal\n\nLike, comment your pick, and subscribe for more machine learning races!",
-  "hashtags": "#ai #ml #tech #reinforcementlearning #quantum #datascience #neuralnets #generativeai #visualization"
+  "instagram_caption": "🚀 AI MODELS ARE RACING THROUGH CHAOS. Will your favorite survive the next data shift? Watch the Neural Drift Derby unfold live—accuracy vs. reality in real time. 🧠🏁",
+  "facebook_caption": "Neural Drift Derby is here! 🤖💥 Models sprint, the environment changes every moment, and only the most adaptive AI stays on track. Who’s winning in your timeline—speed, stability, or genius? Vote in the comments!",
+  "threads_caption": "Models don’t just learn—they must survive the data shifting mid-race. 🏁 Who takes the crown?",
+  "twitter_caption": "Neural Drift Derby: concept drift hits every second. Which model stays accurate when the world changes? 🏁🧠 #AI #ML",
+  "youtube_title": "Neural Drift Derby (2026): The Futuristic ML Hyperrace That Fights Data Shift Every Second",
+  "youtube_description": "Welcome to the Neural Drift Derby—an interactive, futuristic machine learning competition where models race to maintain accuracy while the data distribution shifts again and again. Watch as contenders test real-time adaptation, robustness under drift, and latency tradeoffs. \n\nIn this race visualization:\n- Every “lap” triggers a new concept drift pattern\n- Performance tracks stability + recovery speed\n- Models compete on accuracy under changing reality\n\nSubscribe for more ML race simulations, ranking battles, and visualization experiments!",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #datadrift #robustai #futuretech #coding"
 }
