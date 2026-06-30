@@ -1,41 +1,37 @@
 {
-  "topic": "Neural Drift Derby: The 2026 Model Hyperrace",
-  "description": "A futuristic ML “race” where models compete to survive concept drift, adapt in real time, and keep accuracy stable as the data world shifts every second.",
+  "topic": "Quantum Neon Grand Prix: The AI Model Pit Stop Race",
+  "description": "Watch machine learning models sprint through quantum-styled track segments—data ingestion, fusion, pruning, and deployment—then pit-stop in real time based on latency, accuracy, and compute efficiency.",
   "competitors": [
     {
-      "name": "DriftDynamo GPT",
+      "name": "QuantumSprintNet",
+      "color": "#7C4DFF"
+    },
+    {
+      "name": "LatencyLaserRL",
       "color": "#00E5FF"
     },
     {
-      "name": "Adaptive Atlas",
-      "color": "#7CFF6B"
+      "name": "PruneForge GPT",
+      "color": "#00C853"
     },
     {
-      "name": "ShiftSentinel",
-      "color": "#FF2D55"
+      "name": "FusionDrift Transformer",
+      "color": "#FF1744"
     },
     {
-      "name": "Quantum SlopeRunner",
-      "color": "#9B7BFF"
+      "name": "GraphOrbit GNN",
+      "color": "#FFD600"
     },
     {
-      "name": "RegretZeroNet",
-      "color": "#FFD400"
-    },
-    {
-      "name": "Ensemble Mirage",
-      "color": "#00FFA8"
-    },
-    {
-      "name": "Latency Lynx",
-      "color": "#FF7A00"
+      "name": "EdgePhantom Distiller",
+      "color": "#2979FF"
     }
   ],
-  "instagram_caption": "🚀 AI MODELS ARE RACING THROUGH CHAOS. Will your favorite survive the next data shift? Watch the Neural Drift Derby unfold live—accuracy vs. reality in real time. 🧠🏁",
-  "facebook_caption": "Neural Drift Derby is here! 🤖💥 Models sprint, the environment changes every moment, and only the most adaptive AI stays on track. Who’s winning in your timeline—speed, stability, or genius? Vote in the comments!",
-  "threads_caption": "Models don’t just learn—they must survive the data shifting mid-race. 🏁 Who takes the crown?",
-  "twitter_caption": "Neural Drift Derby: concept drift hits every second. Which model stays accurate when the world changes? 🏁🧠 #AI #ML",
-  "youtube_title": "Neural Drift Derby (2026): The Futuristic ML Hyperrace That Fights Data Shift Every Second",
-  "youtube_description": "Welcome to the Neural Drift Derby—an interactive, futuristic machine learning competition where models race to maintain accuracy while the data distribution shifts again and again. Watch as contenders test real-time adaptation, robustness under drift, and latency tradeoffs. \n\nIn this race visualization:\n- Every “lap” triggers a new concept drift pattern\n- Performance tracks stability + recovery speed\n- Models compete on accuracy under changing reality\n\nSubscribe for more ML race simulations, ranking battles, and visualization experiments!",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #datadrift #robustai #futuretech #coding"
+  "instagram_caption": "🚦THE ML RACE IS LIVE. Models are pit-stopping in real time—can your favorite AI win the Quantum Neon Grand Prix? ⚡️🏎️ Comment your pick! #mlrace #futuristicai",
+  "facebook_caption": "Welcome to the Quantum Neon Grand Prix—where AI models compete on accuracy, latency, and compute efficiency. Which competitor wins the next lap? Drop your prediction in the comments!",
+  "threads_caption": "AI models on a neon quantum track… who takes 1st? 👀🏁",
+  "twitter_caption": "Neon quantum ML race is on. Accuracy vs latency vs compute—who’s winning the pit stop round? 🏎️⚡️ #AI #ML",
+  "youtube_title": "Quantum Neon Grand Prix: The AI Model Pit Stop Race (Live-Style ML Visualization)",
+  "youtube_description": "Enter the Quantum Neon Grand Prix—an electrifying, futuristic competition visualization where machine learning models battle across track segments (ingestion, fusion, pruning, and deployment). Each competitor’s strategy is scored on accuracy, latency, and compute efficiency as they make real-time pit stops.\n\nWhich model will win this season? Subscribe for more ML races, leaderboards, and visualization drops!",
+  "hashtags": "#ai #ml #tech #deeplearning #quantumai #visualization #datascience"
 }
