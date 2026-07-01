@@ -1,41 +1,41 @@
 {
-  "topic": "NEON GAUNTLET: The 2026 Quantum-AI Speedrun Race",
-  "description": "A futuristic leaderboard visualization where ML teams race hybrid quantum/classical models to optimize cost, latency, and accuracy across escalating “time-warp” benchmarks in real time.",
+  "topic": "NEURAL DRIFT: The Autonomous Model Grand Prix (2026 Season)",
+  "description": "Watch competing ML agents “drift” through a constantly shifting arena—online learning, adversarial noise, and latency pressure—measured in real time as they race to maximize score under changing rules.",
   "competitors": [
     {
-      "name": "QubitSprint RL",
-      "color": "#00E5FF"
+      "name": "QuantumSprint-Q",
+      "color": "#7C3AED"
     },
     {
-      "name": "TensorNova Optimizers",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "PhotonForge Vision",
-      "color": "#FF2D95"
-    },
-    {
-      "name": "Spacetime GraphNet",
-      "color": "#00FF9A"
-    },
-    {
-      "name": "Neural Rift Distillation",
-      "color": "#FFB300"
-    },
-    {
-      "name": "Kinetic Token Transformers",
-      "color": "#3B82F6"
-    },
-    {
-      "name": "ZeroLatency Federated",
+      "name": "EdgeFalcon",
       "color": "#22C55E"
+    },
+    {
+      "name": "NeonTide",
+      "color": "#06B6D4"
+    },
+    {
+      "name": "SableForge",
+      "color": "#F97316"
+    },
+    {
+      "name": "AtlasRaven",
+      "color": "#EAB308"
+    },
+    {
+      "name": "VantaRidge",
+      "color": "#60A5FA"
+    },
+    {
+      "name": "SpectraNova",
+      "color": "#F43F5E"
     }
   ],
-  "instagram_caption": "🏎️⚡ The NEON GAUNTLET is ON. Who wins the 2026 Quantum-AI Speedrun—accuracy, latency, or cost? Watch the race update live as benchmarks escalate in real time. Drop your prediction 👇",
-  "facebook_caption": "The future of machine learning looks like a race track. 🔥 In the NEON GAUNTLET, teams push hybrid quantum/classical models to beat the clock on faster, harder benchmarks. Who’s taking the crown this round?",
-  "threads_caption": "Quantum-AI sprint league just dropped. Predict the winner 👇⚡",
-  "twitter_caption": "NEON GAUNTLET 2026: hybrid quantum/classical ML teams are racing on escalating time-warp benchmarks. Latency vs accuracy vs cost—who takes it? 🚀 #ai #ml",
-  "youtube_title": "NEON GAUNTLET 2026: Quantum-AI Speedrun Race (Live ML Leaderboard Visualization)",
-  "youtube_description": "Welcome to NEON GAUNTLET: the 2026 Quantum-AI Speedrun Race! Watch seven top ML teams compete with hybrid quantum/classical approaches as benchmarks escalate in real time. This visualization tracks performance across accuracy, latency, and cost—so you can see who truly optimizes under pressure.\n\nSubscribe for more futuristic ML race visualizations, leaderboard breakdowns, and next-round spec reveals.",
-  "hashtags": "#ai #ml #tech #quantumai #machinelearning #datascience #innovation #futuretech"
+  "instagram_caption": "THE RACE IS ALIVE. 🚦🤖 “NEURAL DRIFT” pits 7 agents against a world that keeps changing—noise, new rules, and real-time scoring. Who’s winning YOUR bracket? 👇 #NeuralDrift #MachineLearningRace",
+  "facebook_caption": "Neural models don’t just compete—they adapt, crash, recover, and evolve in real time. Watch the “NEURAL DRIFT” Grand Prix: latency, robustness, and accuracy are all on the track. Drop a comment: which agent will take the chequered flag?",
+  "threads_caption": "If the rules change mid-lap… which model still wins? 👀🏎️",
+  "twitter_caption": "ML RACE MODE: “NEURAL DRIFT” — models that adapt under chaos. Real-time scoring. Latency penalties. Adversarial turns. Who takes #1? 🚦🤖",
+  "youtube_title": "NEURAL DRIFT (2026): The Autonomous Model Grand Prix in 8 Minutes",
+  "youtube_description": "Welcome to NEURAL DRIFT: the Autonomous Model Grand Prix (2026 Season). Seven ML competitors race through a constantly shifting track—online learning, adversarial noise, and strict latency pressure. Watch who adapts fastest, stays stable under chaos, and finishes with the highest score.\n\nTimestamps:\n00:00 Start/Grid Load\n01:10 First Drift (Rule Flip)\n03:20 Adversarial Turn\n05:40 Latency Pressure Run\n07:10 Final Results\n\nLike, subscribe, and comment your pick for the chequered flag!",
+  "hashtags": "#ai #ml #tech #deepLearning #dataviz #robotics #neuralnetworks #race #competition #futuretech"
 }
