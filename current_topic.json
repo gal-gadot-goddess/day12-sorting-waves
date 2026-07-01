@@ -1,41 +1,41 @@
 {
-  "topic": "NEURAL DRIFT: The Autonomous Model Grand Prix (2026 Season)",
-  "description": "Watch competing ML agents “drift” through a constantly shifting arena—online learning, adversarial noise, and latency pressure—measured in real time as they race to maximize score under changing rules.",
+  "topic": "Neon Gradient Grand Prix: The AI Race to Build Tomorrow’s Reality",
+  "description": "A high-speed ML visualization where teams evolve models in real time, competing across accuracy, efficiency, and robustness to generate ever-sharper synthetic worlds—before the next checkpoint hits.",
   "competitors": [
     {
-      "name": "QuantumSprint-Q",
-      "color": "#7C3AED"
+      "name": "QuantumQuarry-Q",
+      "color": "#6D28D9"
     },
     {
-      "name": "EdgeFalcon",
+      "name": "VectorVortex V2",
+      "color": "#00D4FF"
+    },
+    {
+      "name": "SpatioSprint S",
       "color": "#22C55E"
     },
     {
-      "name": "NeonTide",
-      "color": "#06B6D4"
-    },
-    {
-      "name": "SableForge",
+      "name": "GradientGolem",
       "color": "#F97316"
     },
     {
-      "name": "AtlasRaven",
-      "color": "#EAB308"
-    },
-    {
-      "name": "VantaRidge",
-      "color": "#60A5FA"
-    },
-    {
-      "name": "SpectraNova",
+      "name": "NeuralNomad N",
       "color": "#F43F5E"
+    },
+    {
+      "name": "Adaptive Atlas A",
+      "color": "#A3E635"
+    },
+    {
+      "name": "SpectralSwerve Sx",
+      "color": "#38BDF8"
     }
   ],
-  "instagram_caption": "THE RACE IS ALIVE. 🚦🤖 “NEURAL DRIFT” pits 7 agents against a world that keeps changing—noise, new rules, and real-time scoring. Who’s winning YOUR bracket? 👇 #NeuralDrift #MachineLearningRace",
-  "facebook_caption": "Neural models don’t just compete—they adapt, crash, recover, and evolve in real time. Watch the “NEURAL DRIFT” Grand Prix: latency, robustness, and accuracy are all on the track. Drop a comment: which agent will take the chequered flag?",
-  "threads_caption": "If the rules change mid-lap… which model still wins? 👀🏎️",
-  "twitter_caption": "ML RACE MODE: “NEURAL DRIFT” — models that adapt under chaos. Real-time scoring. Latency penalties. Adversarial turns. Who takes #1? 🚦🤖",
-  "youtube_title": "NEURAL DRIFT (2026): The Autonomous Model Grand Prix in 8 Minutes",
-  "youtube_description": "Welcome to NEURAL DRIFT: the Autonomous Model Grand Prix (2026 Season). Seven ML competitors race through a constantly shifting track—online learning, adversarial noise, and strict latency pressure. Watch who adapts fastest, stays stable under chaos, and finishes with the highest score.\n\nTimestamps:\n00:00 Start/Grid Load\n01:10 First Drift (Rule Flip)\n03:20 Adversarial Turn\n05:40 Latency Pressure Run\n07:10 Final Results\n\nLike, subscribe, and comment your pick for the chequered flag!",
-  "hashtags": "#ai #ml #tech #deepLearning #dataviz #robotics #neuralnetworks #race #competition #futuretech"
+  "instagram_caption": "🏎️⚡ The Neon Gradient Grand Prix is live. Watch ML models “race” to render reality faster, smarter, and tougher to fool—every checkpoint upgrades the universe. Who wins the final lap? Drop your pick 👇",
+  "facebook_caption": "The AI Grand Prix just turned up the heat! 🎮✨ Teams compete in a futuristic ML race to maximize accuracy, speed, and robustness—while the environment gets harder every round. Watch the leaderboard climb and vote for your contender!",
+  "threads_caption": "AI race, but make it neon. Who’s taking the last lap? 👇",
+  "twitter_caption": "Neon Gradient Grand Prix is ON: ML teams racing for accuracy + efficiency + robustness. Who’s winning your timeline? 🏁⚡",
+  "youtube_title": "Neon Gradient Grand Prix: The Futuristic AI Machine Learning Race (Live Visualization)",
+  "youtube_description": "Welcome to the Neon Gradient Grand Prix—an ultra-futuristic ML competition where models evolve in real time. Watch competitors sprint through checkpoints, boosting accuracy, efficiency, and robustness as the synthetic world becomes more chaotic. \n\nIn this video: \n- Real-time “race” visualization of model performance\n- Checkpoint-by-checkpoint leaderboard shifts\n- Who adapts fastest when the rules get harder\n\nComment your winner and turn on notifications for the next heat!",
+  "hashtags": "#ai #ml #tech #machinelearning #datavisualization #futurism #neuralnetworks #developer #competition"
 }
