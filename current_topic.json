@@ -1,41 +1,41 @@
 {
-  "topic": "Neural Warp Derby: The 10,000-Model Sprint",
-  "description": "A futuristic ML race where competing model teams accelerate through real-time accuracy, latency, and energy-efficiency checkpoints on a simulated galactic track.",
+  "topic": "NEON QUANTUM DERBY: The Race to Break the Diffusion Barrier",
+  "description": "Watch rival AI teams sprint through a holographic track, evolving faster-than-light prompts and chasing record-breaking diffusion-model accuracy under adversarial “quantum” noise.",
   "competitors": [
     {
-      "name": "Quantum QuenchNet",
-      "color": "#00E5FF"
+      "name": "PrismPulse",
+      "color": "#7C3AED"
     },
     {
-      "name": "HyperNova Distil Crew",
-      "color": "#7CFF6B"
+      "name": "QuantumSwerve",
+      "color": "#22D3EE"
     },
     {
-      "name": "Sapphire Circuit Learners",
-      "color": "#4D7CFF"
+      "name": "VectorVortex",
+      "color": "#F97316"
     },
     {
-      "name": "AstraForge Vision Titans",
-      "color": "#B388FF"
+      "name": "SpectraForge",
+      "color": "#10B981"
     },
     {
-      "name": "Vector Vortex RL Racers",
-      "color": "#FF4D8D"
+      "name": "AtlasAnomaly",
+      "color": "#EF4444"
     },
     {
-      "name": "PrismGrid Forecast Fleet",
-      "color": "#FFD84D"
+      "name": "NovaNoir",
+      "color": "#A3E635"
     },
     {
-      "name": "CarbonLock Efficiency Knights",
-      "color": "#00FFA8"
+      "name": "LuminaLoop",
+      "color": "#60A5FA"
     }
   ],
-  "instagram_caption": "🚀 The Neural Warp Derby just dropped—can your favorite model team outrun the clock, beat the benchmarks, and stay energy-sober? Track the race live in the viz. 🔥 #NeuralWarpDerby",
-  "facebook_caption": "Who’s winning the Neural Warp Derby? Watch seven futuristic ML teams sprint through accuracy, latency, and efficiency gates—every second matters. Comment your pick!",
-  "threads_caption": "Pick the team that’ll win the Warp Derby: speed, accuracy, or efficiency? ⚡️🏁",
-  "twitter_caption": "Neural Warp Derby is on. 10,000 models. One finish line. Who’s taking the win: accuracy, latency, or energy efficiency? 🏁🧠",
-  "youtube_title": "Neural Warp Derby: The 10,000-Model Sprint (ML Race Visualization)",
-  "youtube_description": "Step into a futuristic ML competition where model teams race through real-time checkpoints for accuracy, latency, and energy efficiency. Watch the neural “warps” unfold as competitors surge, stall, and overtake in a simulated galactic track.\n\nIn this video:\n- How the race visualization works\n- What each checkpoint rewards\n- Who wins the final Warp Gate\n\nSubscribe for more AI race visualizations and benchmark battles!",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #deeplearning #innovation #benchmarking"
+  "instagram_caption": "🚀🏎️ Who’s taking the #DiffusionBarrier this season? In NEON QUANTUM DERBY, 7 AI teams compete in real-time—battling quantum noise, optimizing prompts, and racing for the cleanest, most accurate generations. Track the hologram laps and vote for the winner in the comments! 👇✨",
+  "facebook_caption": "The NEON QUANTUM DERBY is live! 🏎️⚡ Seven AI competitors are racing through a futuristic holographic course to beat the diffusion barrier—faster training, smarter guidance, tougher adversarial noise. Which team do you think will cross the finish line first? Drop your pick!",
+  "threads_caption": "AI race update: diffusion models vs quantum noise… who wins? 👀🏎️",
+  "twitter_caption": "NEON QUANTUM DERBY starts now: 7 AI teams sprint to break the diffusion barrier. Hologram laps, adversarial noise, record outputs. Who’s your pick? 🏎️⚡",
+  "youtube_title": "NEON QUANTUM DERBY: The AI Race to Break the Diffusion Barrier (Live-Style Visualization)",
+  "youtube_description": "Step into a futuristic ML competition where diffusion-model teams compete in a neon holographic race. Watch how each competitor adapts to adversarial “quantum” noise, optimizes generation quality, and fights for top accuracy and speed. Who will break the diffusion barrier first?\n\nChapters:\n0:00 Hype + Track Reveal\n1:10 Lap 1 — Prompt Evolution\n2:25 Lap 2 — Adversarial Noise Storm\n3:40 Final Run — Accuracy vs Speed\n\nComment your winner + subscribe for more ML race visualizations!",
+  "hashtags": "#ai #ml #tech #deeplearning #diffusionmodels #quantumai #datascience #innovation"
 }
