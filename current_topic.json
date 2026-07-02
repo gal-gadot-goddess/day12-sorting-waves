@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Gradient Grand Prix: The AI Race to Build Tomorrow’s Reality",
-  "description": "A high-speed ML visualization where teams evolve models in real time, competing across accuracy, efficiency, and robustness to generate ever-sharper synthetic worlds—before the next checkpoint hits.",
+  "topic": "Neural Warp Derby: The 10,000-Model Sprint",
+  "description": "A futuristic ML race where competing model teams accelerate through real-time accuracy, latency, and energy-efficiency checkpoints on a simulated galactic track.",
   "competitors": [
     {
-      "name": "QuantumQuarry-Q",
-      "color": "#6D28D9"
+      "name": "Quantum QuenchNet",
+      "color": "#00E5FF"
     },
     {
-      "name": "VectorVortex V2",
-      "color": "#00D4FF"
+      "name": "HyperNova Distil Crew",
+      "color": "#7CFF6B"
     },
     {
-      "name": "SpatioSprint S",
-      "color": "#22C55E"
+      "name": "Sapphire Circuit Learners",
+      "color": "#4D7CFF"
     },
     {
-      "name": "GradientGolem",
-      "color": "#F97316"
+      "name": "AstraForge Vision Titans",
+      "color": "#B388FF"
     },
     {
-      "name": "NeuralNomad N",
-      "color": "#F43F5E"
+      "name": "Vector Vortex RL Racers",
+      "color": "#FF4D8D"
     },
     {
-      "name": "Adaptive Atlas A",
-      "color": "#A3E635"
+      "name": "PrismGrid Forecast Fleet",
+      "color": "#FFD84D"
     },
     {
-      "name": "SpectralSwerve Sx",
-      "color": "#38BDF8"
+      "name": "CarbonLock Efficiency Knights",
+      "color": "#00FFA8"
     }
   ],
-  "instagram_caption": "🏎️⚡ The Neon Gradient Grand Prix is live. Watch ML models “race” to render reality faster, smarter, and tougher to fool—every checkpoint upgrades the universe. Who wins the final lap? Drop your pick 👇",
-  "facebook_caption": "The AI Grand Prix just turned up the heat! 🎮✨ Teams compete in a futuristic ML race to maximize accuracy, speed, and robustness—while the environment gets harder every round. Watch the leaderboard climb and vote for your contender!",
-  "threads_caption": "AI race, but make it neon. Who’s taking the last lap? 👇",
-  "twitter_caption": "Neon Gradient Grand Prix is ON: ML teams racing for accuracy + efficiency + robustness. Who’s winning your timeline? 🏁⚡",
-  "youtube_title": "Neon Gradient Grand Prix: The Futuristic AI Machine Learning Race (Live Visualization)",
-  "youtube_description": "Welcome to the Neon Gradient Grand Prix—an ultra-futuristic ML competition where models evolve in real time. Watch competitors sprint through checkpoints, boosting accuracy, efficiency, and robustness as the synthetic world becomes more chaotic. \n\nIn this video: \n- Real-time “race” visualization of model performance\n- Checkpoint-by-checkpoint leaderboard shifts\n- Who adapts fastest when the rules get harder\n\nComment your winner and turn on notifications for the next heat!",
-  "hashtags": "#ai #ml #tech #machinelearning #datavisualization #futurism #neuralnetworks #developer #competition"
+  "instagram_caption": "🚀 The Neural Warp Derby just dropped—can your favorite model team outrun the clock, beat the benchmarks, and stay energy-sober? Track the race live in the viz. 🔥 #NeuralWarpDerby",
+  "facebook_caption": "Who’s winning the Neural Warp Derby? Watch seven futuristic ML teams sprint through accuracy, latency, and efficiency gates—every second matters. Comment your pick!",
+  "threads_caption": "Pick the team that’ll win the Warp Derby: speed, accuracy, or efficiency? ⚡️🏁",
+  "twitter_caption": "Neural Warp Derby is on. 10,000 models. One finish line. Who’s taking the win: accuracy, latency, or energy efficiency? 🏁🧠",
+  "youtube_title": "Neural Warp Derby: The 10,000-Model Sprint (ML Race Visualization)",
+  "youtube_description": "Step into a futuristic ML competition where model teams race through real-time checkpoints for accuracy, latency, and energy efficiency. Watch the neural “warps” unfold as competitors surge, stall, and overtake in a simulated galactic track.\n\nIn this video:\n- How the race visualization works\n- What each checkpoint rewards\n- Who wins the final Warp Gate\n\nSubscribe for more AI race visualizations and benchmark battles!",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #deeplearning #innovation #benchmarking"
 }
