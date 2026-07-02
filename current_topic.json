@@ -1,41 +1,41 @@
 {
-  "topic": "NEON QUANTUM DERBY: The Race to Break the Diffusion Barrier",
-  "description": "Watch rival AI teams sprint through a holographic track, evolving faster-than-light prompts and chasing record-breaking diffusion-model accuracy under adversarial “quantum” noise.",
+  "topic": "Quantum Gauntlet: AI Models Racing Through Wormholes",
+  "description": "A futuristic ML showdown where competitors try to cross simulated quantum wormholes—measuring accuracy, speed, energy cost, and robustness under shifting physics.",
   "competitors": [
     {
-      "name": "PrismPulse",
+      "name": "HyperNova Transformer",
       "color": "#7C3AED"
     },
     {
-      "name": "QuantumSwerve",
+      "name": "PhotonFlow CNN",
       "color": "#22D3EE"
     },
     {
-      "name": "VectorVortex",
+      "name": "Entropy Slicer RL",
       "color": "#F97316"
     },
     {
-      "name": "SpectraForge",
+      "name": "GravLens Visioner",
       "color": "#10B981"
     },
     {
-      "name": "AtlasAnomaly",
-      "color": "#EF4444"
-    },
-    {
-      "name": "NovaNoir",
-      "color": "#A3E635"
-    },
-    {
-      "name": "LuminaLoop",
+      "name": "QuantumPatch Diffusion",
       "color": "#60A5FA"
+    },
+    {
+      "name": "StellarRank GNN",
+      "color": "#F43F5E"
+    },
+    {
+      "name": "RogueByte Optimizer",
+      "color": "#EAB308"
     }
   ],
-  "instagram_caption": "🚀🏎️ Who’s taking the #DiffusionBarrier this season? In NEON QUANTUM DERBY, 7 AI teams compete in real-time—battling quantum noise, optimizing prompts, and racing for the cleanest, most accurate generations. Track the hologram laps and vote for the winner in the comments! 👇✨",
-  "facebook_caption": "The NEON QUANTUM DERBY is live! 🏎️⚡ Seven AI competitors are racing through a futuristic holographic course to beat the diffusion barrier—faster training, smarter guidance, tougher adversarial noise. Which team do you think will cross the finish line first? Drop your pick!",
-  "threads_caption": "AI race update: diffusion models vs quantum noise… who wins? 👀🏎️",
-  "twitter_caption": "NEON QUANTUM DERBY starts now: 7 AI teams sprint to break the diffusion barrier. Hologram laps, adversarial noise, record outputs. Who’s your pick? 🏎️⚡",
-  "youtube_title": "NEON QUANTUM DERBY: The AI Race to Break the Diffusion Barrier (Live-Style Visualization)",
-  "youtube_description": "Step into a futuristic ML competition where diffusion-model teams compete in a neon holographic race. Watch how each competitor adapts to adversarial “quantum” noise, optimizes generation quality, and fights for top accuracy and speed. Who will break the diffusion barrier first?\n\nChapters:\n0:00 Hype + Track Reveal\n1:10 Lap 1 — Prompt Evolution\n2:25 Lap 2 — Adversarial Noise Storm\n3:40 Final Run — Accuracy vs Speed\n\nComment your winner + subscribe for more ML race visualizations!",
-  "hashtags": "#ai #ml #tech #deeplearning #diffusionmodels #quantumai #datascience #innovation"
+  "instagram_caption": "🚀 The Quantum Gauntlet is live. Who breaks through the wormhole fastest—accurate AND efficient? Watch the ML race as models bend “physics” in real time. ⚛️🏁",
+  "facebook_caption": "What happens when AI models compete like space pilots—only the track is simulated quantum physics? Join the Quantum Gauntlet: speed vs accuracy vs energy. You decide the winner! ⚛️",
+  "threads_caption": "AI vs physics… who survives the wormhole? 👀⚛️",
+  "twitter_caption": "Quantum Gauntlet: 7 models. Infinite chaos. Can your favorite AI out-run the wormhole? ⚛️🏁 #AI #ML",
+  "youtube_title": "Quantum Gauntlet ML Race: AI Models Sprint Through Wormholes ⚛️🏁",
+  "youtube_description": "Welcome to the Quantum Gauntlet—an adrenaline-fueled machine learning competition where AI models race through simulated wormholes. Each contender is scored on accuracy, latency, robustness under shifting “physics,” and energy efficiency. Comment your pick for the winner and watch the trajectory map light up in real time.\n\nCompeting models:\n- HyperNova Transformer\n- PhotonFlow CNN\n- Entropy Slicer RL\n- GravLens Visioner\n- QuantumPatch Diffusion\n- StellarRank GNN\n- RogueByte Optimizer\n\nStay tuned for the next leg of the race!",
+  "hashtags": "#ai #ml #tech #quantum #deeplearning #competition #futuretech"
 }
