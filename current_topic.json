@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Nebula: The AI Warp-Speed Race",
-  "description": "Watch teams “train their engines” and sprint through a synthetic nebula—each checkpoint measures speed, accuracy, robustness, and real-time inference under shifting cosmic conditions.",
+  "topic": "Neon Neural Grand Prix: The Quantum-Boosted Model Dash",
+  "description": "A real-time visualization race where competing models accelerate through tasks using quantum-inspired optimization, ranking by accuracy, latency, and energy efficiency.",
   "competitors": [
     {
-      "name": "QuasarQuant",
-      "color": "#7C3AED"
+      "name": "Q-Boost Raptor",
+      "color": "#7C4DFF"
     },
     {
-      "name": "NovaNets",
-      "color": "#22D3EE"
+      "name": "Latency Lynx",
+      "color": "#00E5FF"
     },
     {
-      "name": "EchoForge",
-      "color": "#34D399"
+      "name": "EcoGrad Wraith",
+      "color": "#00C853"
     },
     {
-      "name": "IonIndex",
-      "color": "#F97316"
+      "name": "Vision Vortex",
+      "color": "#FF1744"
     },
     {
-      "name": "PrismPilot",
-      "color": "#60A5FA"
+      "name": "Synth Signal Kraken",
+      "color": "#FFB300"
     },
     {
-      "name": "VantaVision",
-      "color": "#F43F5E"
+      "name": "Graph Granite",
+      "color": "#304FFE"
     },
     {
-      "name": "SpectraSprint",
-      "color": "#A3E635"
+      "name": "RAG Rocket Sparrow",
+      "color": "#AA00FF"
     }
   ],
-  "instagram_caption": "🚀 The AI race you can almost hear—engines ignite, checkpoints warp, and accuracy hits hyperspace. Who’s winning the Neon Nebula? 👀✨ #NeonNebula #AIWorldCup",
-  "facebook_caption": "The Neon Nebula AI Warp-Speed Race is live! Seven teams push their models through shifting cosmic test zones—fast training, sharp accuracy, and survival under chaos. Drop your prediction in the comments!",
-  "threads_caption": "AI models sprinting through a synthetic nebula… who takes the warp crown? 👀⚡",
-  "twitter_caption": "Neon Nebula AI Race: accuracy vs speed vs chaos. Track the teams as they warp through checkpoints in real time. Who’s your pick? 🚀🌌",
-  "youtube_title": "Neon Nebula: Watch the AI Warp-Speed Race (Speed + Accuracy + Chaos Tests!)",
-  "youtube_description": "In this futuristic ML competition visualization, teams train and deploy their models while the environment changes mid-race. Each checkpoint scores speed, accuracy, robustness, and inference stability under shifting “cosmic” conditions. Comment your winner—can anyone survive the Nebula chaos?",
-  "hashtags": "#ai #ml #tech #machinelearning #futuretech #datascience #competition #innovation"
+  "instagram_caption": "🏁⚡ The future is racing. Who’s winning the Neon Neural Grand Prix—accuracy, speed, or energy? Watch the models boost, burn, and break records in real time. Drop your pick: #1 for brains, #2 for speed, #3 for efficiency!",
+  "facebook_caption": "The Neon Neural Grand Prix is live! 🚀 Models are competing in a futuristic track where every second and every watt matters. Will the speed demon take it, or will the accuracy king cross first? Comment your prediction and share!",
+  "threads_caption": "If your AI had to sprint—who wins: speed, accuracy, or efficiency? 🏁⚡",
+  "twitter_caption": "Neon Neural Grand Prix is GO! 🏎️💨 Quantum-inspired optimization + real-time race scoring (accuracy/latency/energy). Who’s taking the checkered flag? #AI #ML",
+  "youtube_title": "Neon Neural Grand Prix: Can These Models Beat Quantum-Boosted Speed Limits? 🏁⚡",
+  "youtube_description": "Welcome to the Neon Neural Grand Prix—an adrenaline-fueled ML race visualization where competing models accelerate through tasks with quantum-inspired optimization. The scoreboard tracks accuracy, latency, and energy efficiency in real time. Which competitor will dominate the track?\n\n👉 Subscribe for more futuristic ML race simulations, leaderboards, and interactive benchmarking.",
+  "hashtags": "#ai #ml #tech #machinelearning #quantum #neuralnetworks #dataviz #benchmarking #futuretech"
 }
