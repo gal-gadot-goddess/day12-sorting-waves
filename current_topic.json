@@ -1,41 +1,41 @@
 {
-  "topic": "NEON SYNAPSE GRAND PRIX: The 2026 Model Mayhem Race",
-  "description": "Watch rival ML agents sprint through real-time benchmarks—data leaks, adversarial bots, and energy limits included—inside a neon, futuristic “grand prix” visualization.",
+  "topic": "Neon Nebula: The AI Warp-Speed Race",
+  "description": "Watch teams “train their engines” and sprint through a synthetic nebula—each checkpoint measures speed, accuracy, robustness, and real-time inference under shifting cosmic conditions.",
   "competitors": [
     {
-      "name": "VoltVision (Vision Coach)",
-      "color": "#00E5FF"
+      "name": "QuasarQuant",
+      "color": "#7C3AED"
     },
     {
-      "name": "QuantumQuill (Language Duelist)",
-      "color": "#7C4DFF"
+      "name": "NovaNets",
+      "color": "#22D3EE"
     },
     {
-      "name": "InfernoForge (Edge Optimizer)",
-      "color": "#FF2D55"
+      "name": "EchoForge",
+      "color": "#34D399"
     },
     {
-      "name": "SaffronSynapse (Continual Learner)",
-      "color": "#FFB300"
+      "name": "IonIndex",
+      "color": "#F97316"
     },
     {
-      "name": "PolarPulse (Robustness Sentinel)",
-      "color": "#00E676"
+      "name": "PrismPilot",
+      "color": "#60A5FA"
     },
     {
-      "name": "AstraVector (Retrieval Sprinter)",
-      "color": "#2979FF"
+      "name": "VantaVision",
+      "color": "#F43F5E"
     },
     {
-      "name": "GravitasNeuron (Safety Steward)",
-      "color": "#9C27B0"
+      "name": "SpectraSprint",
+      "color": "#A3E635"
     }
   ],
-  "instagram_caption": "🚀💥 The year’s biggest ML RACE is live: NEON SYNAPSE GRAND PRIX! Who wins under pressure—data storms, adversarial bots, and energy caps? 🏎️⚡ Watch the leaderboard bend in real time. #linkinbio",
-  "facebook_caption": "🏁 Welcome to the NEON SYNAPSE GRAND PRIX—an all-star machine learning competition where models race through live benchmarks, adversarial challenges, and strict energy limits. Which team do you think takes the checkered flag?",
-  "threads_caption": "If your model had to survive an AI “pit stop” every 10 seconds… can it still win? 🏎️⚡",
-  "twitter_caption": "NEON SYNAPSE GRAND PRIX is ON. Models racing through real-time benchmarks, adversarial hazards, and energy caps. 🏁 Who’s taking first place? #ai #ml #tech",
-  "youtube_title": "NEON SYNAPSE GRAND PRIX 🏎️ The 2026 ML Race (Real-Time Benchmarks vs Adversaries)",
-  "youtube_description": "In this futuristic ML visualization, seven model competitors sprint through live benchmarks with adversarial bots, data shifts, and strict energy constraints. Watch accuracy, robustness, and speed evolve lap-by-lap—then vote for the winner.\n\nTimestamps:\n00:00 Start\n01:12 Lap 1: Data Storm\n03:40 Lap 2: Adversarial Gauntlet\n06:05 Lap 3: Energy-Limited Sprint\n08:30 Final Standings\n\nDrop a comment: Which competitor takes the checkered flag?",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #competition #futuristic #neuralnetworks"
+  "instagram_caption": "🚀 The AI race you can almost hear—engines ignite, checkpoints warp, and accuracy hits hyperspace. Who’s winning the Neon Nebula? 👀✨ #NeonNebula #AIWorldCup",
+  "facebook_caption": "The Neon Nebula AI Warp-Speed Race is live! Seven teams push their models through shifting cosmic test zones—fast training, sharp accuracy, and survival under chaos. Drop your prediction in the comments!",
+  "threads_caption": "AI models sprinting through a synthetic nebula… who takes the warp crown? 👀⚡",
+  "twitter_caption": "Neon Nebula AI Race: accuracy vs speed vs chaos. Track the teams as they warp through checkpoints in real time. Who’s your pick? 🚀🌌",
+  "youtube_title": "Neon Nebula: Watch the AI Warp-Speed Race (Speed + Accuracy + Chaos Tests!)",
+  "youtube_description": "In this futuristic ML competition visualization, teams train and deploy their models while the environment changes mid-race. Each checkpoint scores speed, accuracy, robustness, and inference stability under shifting “cosmic” conditions. Comment your winner—can anyone survive the Nebula chaos?",
+  "hashtags": "#ai #ml #tech #machinelearning #futuretech #datascience #competition #innovation"
 }
