@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Neural Grand Prix: The Quantum-Boosted Model Dash",
-  "description": "A real-time visualization race where competing models accelerate through tasks using quantum-inspired optimization, ranking by accuracy, latency, and energy efficiency.",
+  "topic": "Neon Gradient Gauntlet: The Nightly AI Sprint to the Event Horizon",
+  "description": "Watch 7 rival ML teams race in a real-time visualization—each run compresses the same data into sharper predictions under a strict latency budget, where the “event horizon” is the instant the model stops improving.",
   "competitors": [
     {
-      "name": "Q-Boost Raptor",
+      "name": "QuasarQ-Labs",
       "color": "#7C4DFF"
     },
     {
-      "name": "Latency Lynx",
+      "name": "VectorVortex AI",
       "color": "#00E5FF"
     },
     {
-      "name": "EcoGrad Wraith",
+      "name": "LumenLock Networks",
       "color": "#00C853"
     },
     {
-      "name": "Vision Vortex",
+      "name": "PhotonForge ML",
+      "color": "#FFD600"
+    },
+    {
+      "name": "GravitonGrit Systems",
       "color": "#FF1744"
     },
     {
-      "name": "Synth Signal Kraken",
-      "color": "#FFB300"
+      "name": "NovaNerve Analytics",
+      "color": "#FF6D00"
     },
     {
-      "name": "Graph Granite",
-      "color": "#304FFE"
-    },
-    {
-      "name": "RAG Rocket Sparrow",
-      "color": "#AA00FF"
+      "name": "AstraAdaptive Compute",
+      "color": "#1E88E5"
     }
   ],
-  "instagram_caption": "🏁⚡ The future is racing. Who’s winning the Neon Neural Grand Prix—accuracy, speed, or energy? Watch the models boost, burn, and break records in real time. Drop your pick: #1 for brains, #2 for speed, #3 for efficiency!",
-  "facebook_caption": "The Neon Neural Grand Prix is live! 🚀 Models are competing in a futuristic track where every second and every watt matters. Will the speed demon take it, or will the accuracy king cross first? Comment your prediction and share!",
-  "threads_caption": "If your AI had to sprint—who wins: speed, accuracy, or efficiency? 🏁⚡",
-  "twitter_caption": "Neon Neural Grand Prix is GO! 🏎️💨 Quantum-inspired optimization + real-time race scoring (accuracy/latency/energy). Who’s taking the checkered flag? #AI #ML",
-  "youtube_title": "Neon Neural Grand Prix: Can These Models Beat Quantum-Boosted Speed Limits? 🏁⚡",
-  "youtube_description": "Welcome to the Neon Neural Grand Prix—an adrenaline-fueled ML race visualization where competing models accelerate through tasks with quantum-inspired optimization. The scoreboard tracks accuracy, latency, and energy efficiency in real time. Which competitor will dominate the track?\n\n👉 Subscribe for more futuristic ML race simulations, leaderboards, and interactive benchmarking.",
-  "hashtags": "#ai #ml #tech #machinelearning #quantum #neuralnetworks #dataviz #benchmarking #futuretech"
+  "instagram_caption": "🚀 The Neon Gradient Gauntlet just dropped. 7 AI teams sprint through the same data—until they hit the Event Horizon (where improvement dies). Who’s winning your feed: speed, accuracy, or both? 👀⚡",
+  "facebook_caption": "Who will break through first? In the Neon Gradient Gauntlet, 7 ML crews race the clock—turning identical inputs into smarter predictions as the “event horizon” approaches. Comment your pick and why!",
+  "threads_caption": "AI teams racing to an Event Horizon—speed vs accuracy vs chaos. Who you backing?",
+  "twitter_caption": "Neon Gradient Gauntlet: 7 ML rivals. Same data. Strict latency. Real-time “event horizon” scoring. ⚡ Who wins—accuracy hunters or speed demons?",
+  "youtube_title": "Neon Gradient Gauntlet | 7 AI Models Race to the Event Horizon (Live ML Competition Viz)",
+  "youtube_description": "Welcome to the Neon Gradient Gauntlet—an epic, futuristic ML race visualization where 7 competitors optimize the same task under a tight latency budget. As the run progresses, models approach the Event Horizon: the point where improvements flatten and the gap between winners and losers becomes visible.\n\nIn this video you’ll see:\n- Real-time standings and gradient “neon trails”\n- Accuracy vs latency tradeoffs\n- The moment each team hits the Event Horizon\n\nDrop your predictions in the comments—who do you think takes first?",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #neuralnetworks #aicompetition #futuretech #innovation #deeplearning"
 }
