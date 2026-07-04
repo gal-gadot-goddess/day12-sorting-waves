@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Gradient Gauntlet: The Nightly AI Sprint to the Event Horizon",
-  "description": "Watch 7 rival ML teams race in a real-time visualization—each run compresses the same data into sharper predictions under a strict latency budget, where the “event horizon” is the instant the model stops improving.",
+  "topic": "Neon Spacetime ML Grand Prix: The Yearly Quantum-Grade Model Race",
+  "description": "A high-energy visualization where ML models sprint through shifting 'spacetime' conditions—latency storms, data drift fields, and energy limits—to win the season’s quantum-grade leaderboard.",
   "competitors": [
     {
-      "name": "QuasarQ-Labs",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "VectorVortex AI",
+      "name": "Quantum DriftNet",
       "color": "#00E5FF"
     },
     {
-      "name": "LumenLock Networks",
-      "color": "#00C853"
+      "name": "PlasmaBoost Regressor",
+      "color": "#7C4DFF"
     },
     {
-      "name": "PhotonForge ML",
-      "color": "#FFD600"
+      "name": "Nebula Tokenizer",
+      "color": "#FF2E88"
     },
     {
-      "name": "GravitonGrit Systems",
-      "color": "#FF1744"
+      "name": "IonForge Transformers",
+      "color": "#00FF7F"
     },
     {
-      "name": "NovaNerve Analytics",
+      "name": "GravitonDistill CNN",
+      "color": "#FFD400"
+    },
+    {
+      "name": "LatticeLight GAN",
       "color": "#FF6D00"
     },
     {
-      "name": "AstraAdaptive Compute",
+      "name": "AstraEdge Scheduler",
       "color": "#1E88E5"
     }
   ],
-  "instagram_caption": "🚀 The Neon Gradient Gauntlet just dropped. 7 AI teams sprint through the same data—until they hit the Event Horizon (where improvement dies). Who’s winning your feed: speed, accuracy, or both? 👀⚡",
-  "facebook_caption": "Who will break through first? In the Neon Gradient Gauntlet, 7 ML crews race the clock—turning identical inputs into smarter predictions as the “event horizon” approaches. Comment your pick and why!",
-  "threads_caption": "AI teams racing to an Event Horizon—speed vs accuracy vs chaos. Who you backing?",
-  "twitter_caption": "Neon Gradient Gauntlet: 7 ML rivals. Same data. Strict latency. Real-time “event horizon” scoring. ⚡ Who wins—accuracy hunters or speed demons?",
-  "youtube_title": "Neon Gradient Gauntlet | 7 AI Models Race to the Event Horizon (Live ML Competition Viz)",
-  "youtube_description": "Welcome to the Neon Gradient Gauntlet—an epic, futuristic ML race visualization where 7 competitors optimize the same task under a tight latency budget. As the run progresses, models approach the Event Horizon: the point where improvements flatten and the gap between winners and losers becomes visible.\n\nIn this video you’ll see:\n- Real-time standings and gradient “neon trails”\n- Accuracy vs latency tradeoffs\n- The moment each team hits the Event Horizon\n\nDrop your predictions in the comments—who do you think takes first?",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #neuralnetworks #aicompetition #futuretech #innovation #deeplearning"
+  "instagram_caption": "🚀 The models are racing THROUGH TIME. ⏳⚡ Who wins the Neon Spacetime ML Grand Prix—accuracy, speed, or survival in the drift storm? Watch the scoreboard go WILD. #MLRace #AI",
+  "facebook_caption": "Can your model keep up when the universe changes? 🌌⚡ Join the Neon Spacetime ML Grand Prix—an epic visualization of accuracy vs latency vs drift survival. Drop your pick for the winner!",
+  "threads_caption": "Models vs spacetime. Who’s taking the checkered flag? 🏁⚡",
+  "twitter_caption": "Neon Spacetime ML Grand Prix is live: accuracy vs latency vs data-drift survival. Models are racing like it’s 2099. Who’s winning? 🏎️🧠",
+  "youtube_title": "Neon Spacetime ML Grand Prix: Watch AI Models Race Through Time (Live Visualization)",
+  "youtube_description": "Welcome to the Neon Spacetime ML Grand Prix—where competing models sprint through shifting spacetime conditions like latency storms, data drift fields, and strict energy budgets. The visualization shows who stays accurate, who adapts fastest, and who survives the chaos. \n\nWhich competitor wins in your timeline? Comment your pick and turn on notifications for the next leg of the race!",
+  "hashtags": "#ai #ml #tech #deeplearning #datascience #mlvisualization #quantumai #aichallenge"
 }
