@@ -1,41 +1,37 @@
 {
-  "topic": "Neon Spacetime ML Grand Prix: The Yearly Quantum-Grade Model Race",
-  "description": "A high-energy visualization where ML models sprint through shifting 'spacetime' conditions—latency storms, data drift fields, and energy limits—to win the season’s quantum-grade leaderboard.",
+  "topic": "Neon Data Dash: The Transformer Grand Prix (2026 Edition)",
+  "description": "A high-stakes race visualization where each AI contender evolves in real time across latency, accuracy, and energy cost—watch the transformers sprint through shifting data lanes.",
   "competitors": [
     {
-      "name": "Quantum DriftNet",
-      "color": "#00E5FF"
-    },
-    {
-      "name": "PlasmaBoost Regressor",
+      "name": "FlashGPT Falcon",
       "color": "#7C4DFF"
     },
     {
-      "name": "Nebula Tokenizer",
-      "color": "#FF2E88"
+      "name": "AtlasVision V2",
+      "color": "#00E5FF"
     },
     {
-      "name": "IonForge Transformers",
-      "color": "#00FF7F"
+      "name": "QuantumToken Q-Runner",
+      "color": "#00C853"
     },
     {
-      "name": "GravitonDistill CNN",
+      "name": "SparrowRank Distill",
+      "color": "#FF2D55"
+    },
+    {
+      "name": "AeroSynth LLM",
       "color": "#FFD400"
     },
     {
-      "name": "LatticeLight GAN",
+      "name": "NovaContext RiftNet",
       "color": "#FF6D00"
-    },
-    {
-      "name": "AstraEdge Scheduler",
-      "color": "#1E88E5"
     }
   ],
-  "instagram_caption": "🚀 The models are racing THROUGH TIME. ⏳⚡ Who wins the Neon Spacetime ML Grand Prix—accuracy, speed, or survival in the drift storm? Watch the scoreboard go WILD. #MLRace #AI",
-  "facebook_caption": "Can your model keep up when the universe changes? 🌌⚡ Join the Neon Spacetime ML Grand Prix—an epic visualization of accuracy vs latency vs drift survival. Drop your pick for the winner!",
-  "threads_caption": "Models vs spacetime. Who’s taking the checkered flag? 🏁⚡",
-  "twitter_caption": "Neon Spacetime ML Grand Prix is live: accuracy vs latency vs data-drift survival. Models are racing like it’s 2099. Who’s winning? 🏎️🧠",
-  "youtube_title": "Neon Spacetime ML Grand Prix: Watch AI Models Race Through Time (Live Visualization)",
-  "youtube_description": "Welcome to the Neon Spacetime ML Grand Prix—where competing models sprint through shifting spacetime conditions like latency storms, data drift fields, and strict energy budgets. The visualization shows who stays accurate, who adapts fastest, and who survives the chaos. \n\nWhich competitor wins in your timeline? Comment your pick and turn on notifications for the next leg of the race!",
-  "hashtags": "#ai #ml #tech #deeplearning #datascience #mlvisualization #quantumai #aichallenge"
+  "instagram_caption": "🏎️💥 WHO is winning the Neon Data Dash? Watch transformers compete live on the same track: accuracy vs. speed vs. energy—no mercy. Drop your pick in the comments! 👇",
+  "facebook_caption": "The Transformer Grand Prix is ON. 🚀 Six AI teams sprint through changing data lanes and every lap updates their score for accuracy, latency, and energy efficiency. Which competitor will claim the neon crown?",
+  "threads_caption": "A race where speed, accuracy, and energy all matter. Who wins? 🏁",
+  "twitter_caption": "Neon Data Dash (2026): transformers racing on the same track—accuracy vs latency vs energy. Pick your winner. 🏎️⚡ #AI #ML",
+  "youtube_title": "Neon Data Dash: The Transformer Grand Prix (Live ML Race Visualization) | 2026 Edition",
+  "youtube_description": "Welcome to the Neon Data Dash—an epic ML race visualization where transformer contenders evolve in real time across three performance lanes: accuracy, latency, and energy cost.\n\nIn this episode:\n- Watch each model sprint through shifting data conditions\n- Track scores per lap and see trade-offs play out instantly\n- Vote for the champion and compare different approaches to efficiency\n\nComment your prediction: who wins the Transformer Grand Prix?",
+  "hashtags": "#ai #ml #tech #deeplearning #transformers #aiviz #datascience #innovation"
 }
