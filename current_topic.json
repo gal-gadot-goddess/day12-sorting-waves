@@ -1,41 +1,37 @@
 {
-  "topic": "Neon Trainwreck League: The Quantum Adversary Sprint",
-  "description": "A high-stakes ML race where teams defend their models against live, evolving adversarial attacks—measured by accuracy under attack, latency, and resilience as the “threat waveform” ramps up in real time.",
+  "topic": "Neon Gradient Sprint: The AI Relay Race for Real-Time Weather Forecasting",
+  "description": "A high-energy ML race where models compete to predict the next hour of microclimates using streaming satellite + sensor data—fast, accurate, and robust under sensor dropout.",
   "competitors": [
     {
-      "name": "QuantumShieldNet",
+      "name": "AuroraNet (Transformer)",
       "color": "#00E5FF"
     },
     {
-      "name": "AdversaryBusterX",
-      "color": "#7C4DFF"
+      "name": "StormPulse (Graph ML)",
+      "color": "#7CFF6B"
     },
     {
-      "name": "RobustForge AI",
-      "color": "#00C853"
+      "name": "StratusCore (State-Space)",
+      "color": "#B388FF"
     },
     {
-      "name": "Entropy Sentinel",
-      "color": "#FF1744"
+      "name": "JetLag Ensemble (Hybrid)",
+      "color": "#FF4D6D"
     },
     {
-      "name": "Gradient Ghosts",
-      "color": "#FFEA00"
+      "name": "HailGuard (Uncertainty AI)",
+      "color": "#FFD166"
     },
     {
-      "name": "Spectral Tactician",
-      "color": "#FF6D00"
-    },
-    {
-      "name": "Latency Lynx",
-      "color": "#2962FF"
+      "name": "TeraWind Distill (TinyML)",
+      "color": "#2EE59D"
     }
   ],
-  "instagram_caption": "🚦THE THREAT IS MOVING. Can your model survive the Quantum Adversary Sprint? Watch the neon “accuracy under attack” bars melt in real time—then see who still holds the line. ⚡️🏁 #NeonTrainwreckLeague",
-  "facebook_caption": "What happens when adversarial attacks evolve faster than your defenses? In the Neon Trainwreck League, teams race their models through a live threat waveform—winning by accuracy under attack, speed, and resilience. Watch who cracks first… and who doesn’t. 🔥",
-  "threads_caption": "Live adversaries. Real-time defenses. Who wins the Neon Trainwreck League? 🏁",
-  "twitter_caption": "Neon Trainwreck League is ON. Models vs a Quantum Adversary that adapts mid-race. Can you stay accurate under attack? ⚡️🏁 #ai #ml",
-  "youtube_title": "Neon Trainwreck League: The Quantum Adversary Sprint (ML Race Visualization)",
-  "youtube_description": "Welcome to the Neon Trainwreck League—an adrenaline-fueled ML competition visualization where teams race to defend their models against live, evolving adversarial attacks. \n\n🎯 Scoring: Accuracy under attack • Latency • Robustness across threat stages\n\nWatch the threat waveform ramp up, see confidence collapse in real time, and find out which competitor survives the Quantum Adversary Sprint. \n\nSubscribe for more futuristic ML races + defense breakdowns!",
-  "hashtags": "#ai #ml #tech #deeplearning #cybersecurity #robustness #adversarial #innovation"
+  "instagram_caption": "THE NEON GRADIENT SPRINT is live ⚡🌦️ Models are racing to forecast the next hour—live accuracy meters, glitch-resistant sensors, and uncertainty scores you can SEE. Who takes the crown? 👀🏁",
+  "facebook_caption": "Watch the Neon Gradient Sprint unfold: six AI teams competing to predict real-time microclimates from streaming satellite and sensor feeds. Fast inference. Real-world noise. And one winner. Drop your prediction!",
+  "threads_caption": "AI race + real-time weather = chaos control 🌦️🏁 Who wins?",
+  "twitter_caption": "Neon Gradient Sprint: 6 AI teams racing to forecast the next hour of microclimates. Fast. Accurate. Robust under sensor dropout. Who’s your pick? 🌦️⚡",
+  "youtube_title": "Neon Gradient Sprint: The Futuristic AI Relay Race for Real-Time Weather Forecasting (Live Visuals)",
+  "youtube_description": "Welcome to the Neon Gradient Sprint—an AI competition visualization where forecasting models race to predict the next hour of microclimates using streaming satellite + ground sensor data. Watch accuracy, latency, and uncertainty scores climb across the course, as we introduce sensor dropout and storm-like data shifts.\n\nIn this episode:\n• Compete: 6 specialized ML competitors (Transformer, Graph ML, State-Space, Hybrid Ensemble, Uncertainty AI, TinyML)\n• Track the live scoreboard: error vs speed vs robustness\n• See how uncertainty impacts decision-making under noise\n\nIf you enjoy futuristic ML race visuals, like, subscribe, and comment your winner prediction!",
+  "hashtags": "#ai #ml #tech #machinelearning #weather #futuretech #datascience #transformers #graphml #uncertainty"
 }
