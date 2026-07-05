@@ -1,37 +1,41 @@
 {
-  "topic": "Neon Data Dash: The Transformer Grand Prix (2026 Edition)",
-  "description": "A high-stakes race visualization where each AI contender evolves in real time across latency, accuracy, and energy cost—watch the transformers sprint through shifting data lanes.",
+  "topic": "Neon Trainwreck League: The Quantum Adversary Sprint",
+  "description": "A high-stakes ML race where teams defend their models against live, evolving adversarial attacks—measured by accuracy under attack, latency, and resilience as the “threat waveform” ramps up in real time.",
   "competitors": [
     {
-      "name": "FlashGPT Falcon",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "AtlasVision V2",
+      "name": "QuantumShieldNet",
       "color": "#00E5FF"
     },
     {
-      "name": "QuantumToken Q-Runner",
+      "name": "AdversaryBusterX",
+      "color": "#7C4DFF"
+    },
+    {
+      "name": "RobustForge AI",
       "color": "#00C853"
     },
     {
-      "name": "SparrowRank Distill",
-      "color": "#FF2D55"
+      "name": "Entropy Sentinel",
+      "color": "#FF1744"
     },
     {
-      "name": "AeroSynth LLM",
-      "color": "#FFD400"
+      "name": "Gradient Ghosts",
+      "color": "#FFEA00"
     },
     {
-      "name": "NovaContext RiftNet",
+      "name": "Spectral Tactician",
       "color": "#FF6D00"
+    },
+    {
+      "name": "Latency Lynx",
+      "color": "#2962FF"
     }
   ],
-  "instagram_caption": "🏎️💥 WHO is winning the Neon Data Dash? Watch transformers compete live on the same track: accuracy vs. speed vs. energy—no mercy. Drop your pick in the comments! 👇",
-  "facebook_caption": "The Transformer Grand Prix is ON. 🚀 Six AI teams sprint through changing data lanes and every lap updates their score for accuracy, latency, and energy efficiency. Which competitor will claim the neon crown?",
-  "threads_caption": "A race where speed, accuracy, and energy all matter. Who wins? 🏁",
-  "twitter_caption": "Neon Data Dash (2026): transformers racing on the same track—accuracy vs latency vs energy. Pick your winner. 🏎️⚡ #AI #ML",
-  "youtube_title": "Neon Data Dash: The Transformer Grand Prix (Live ML Race Visualization) | 2026 Edition",
-  "youtube_description": "Welcome to the Neon Data Dash—an epic ML race visualization where transformer contenders evolve in real time across three performance lanes: accuracy, latency, and energy cost.\n\nIn this episode:\n- Watch each model sprint through shifting data conditions\n- Track scores per lap and see trade-offs play out instantly\n- Vote for the champion and compare different approaches to efficiency\n\nComment your prediction: who wins the Transformer Grand Prix?",
-  "hashtags": "#ai #ml #tech #deeplearning #transformers #aiviz #datascience #innovation"
+  "instagram_caption": "🚦THE THREAT IS MOVING. Can your model survive the Quantum Adversary Sprint? Watch the neon “accuracy under attack” bars melt in real time—then see who still holds the line. ⚡️🏁 #NeonTrainwreckLeague",
+  "facebook_caption": "What happens when adversarial attacks evolve faster than your defenses? In the Neon Trainwreck League, teams race their models through a live threat waveform—winning by accuracy under attack, speed, and resilience. Watch who cracks first… and who doesn’t. 🔥",
+  "threads_caption": "Live adversaries. Real-time defenses. Who wins the Neon Trainwreck League? 🏁",
+  "twitter_caption": "Neon Trainwreck League is ON. Models vs a Quantum Adversary that adapts mid-race. Can you stay accurate under attack? ⚡️🏁 #ai #ml",
+  "youtube_title": "Neon Trainwreck League: The Quantum Adversary Sprint (ML Race Visualization)",
+  "youtube_description": "Welcome to the Neon Trainwreck League—an adrenaline-fueled ML competition visualization where teams race to defend their models against live, evolving adversarial attacks. \n\n🎯 Scoring: Accuracy under attack • Latency • Robustness across threat stages\n\nWatch the threat waveform ramp up, see confidence collapse in real time, and find out which competitor survives the Quantum Adversary Sprint. \n\nSubscribe for more futuristic ML races + defense breakdowns!",
+  "hashtags": "#ai #ml #tech #deeplearning #cybersecurity #robustness #adversarial #innovation"
 }
