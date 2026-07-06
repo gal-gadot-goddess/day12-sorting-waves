@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Nebula: The Quantum-Dust ML Race",
-  "description": "A futuristic “race track” where AI agents compete to predict, denoise, and adapt in real time as incoming data behaves like quantum dust—fast, noisy, and unpredictable.",
+  "topic": "NEON SYNC: The Federated Model Grand Prix",
+  "description": "A real-time visualization race where federated learning teams compete to earn the fastest accuracy gains—without sharing raw data—under dynamic cyber-attack and bandwidth weather conditions.",
   "competitors": [
     {
-      "name": "Aurora Predictors",
-      "color": "#7C3AED"
+      "name": "NovaFed Storm",
+      "color": "#00E5FF"
     },
     {
-      "name": "Photon Drift Labs",
+      "name": "QuasarSync",
+      "color": "#7C4DFF"
+    },
+    {
+      "name": "AetherShield FL",
+      "color": "#00FFA3"
+    },
+    {
+      "name": "ByteFalcon Aggregates",
+      "color": "#FF4D6D"
+    },
+    {
+      "name": "PrismLedger Learners",
+      "color": "#FFD400"
+    },
+    {
+      "name": "SableCipher Distillation",
       "color": "#22C55E"
     },
     {
-      "name": "Tensor Mirage Racing",
-      "color": "#06B6D4"
-    },
-    {
-      "name": "Spectra Forge AI",
-      "color": "#F97316"
-    },
-    {
-      "name": "Graviton Gradient Crew",
-      "color": "#F43F5E"
-    },
-    {
-      "name": "Quantum Hull Runners",
-      "color": "#3B82F6"
-    },
-    {
-      "name": "Zero-Lag Distillators",
-      "color": "#EAB308"
+      "name": "HyperLattice Consensus",
+      "color": "#FF6B00"
     }
   ],
-  "instagram_caption": "THE AI RACE just got WEIRDER 👀✨ Watch these models sprint through “quantum dust” data—denoise, predict, and adapt before the track collapses. Who’s taking the lead? 🏁🌌",
-  "facebook_caption": "Which ML team would you back in the Neon Nebula race? 🚀 In this futuristic challenge, models must stay accurate while the data turns chaotic—like quantum dust in motion. Vote for your favorite competitor and drop your prediction!",
-  "threads_caption": "AI models racing through quantum dust data… and only the fastest adaptive ones win. Who’s your pick? 🏁",
-  "twitter_caption": "Neon Nebula ML Race 🌌🏁 Models predicting under “quantum dust” chaos. Real-time denoise + adapt = win. Which team is winning in your head? 👇",
-  "youtube_title": "NEON NEBULA: The Quantum-Dust ML Race (Live Visualization of Competing AI Agents)",
-  "youtube_description": "Welcome to Neon Nebula—where AI competitors race through a simulated “quantum dust” environment. Each team is judged on real-time prediction, denoising under uncertainty, and adaptation speed as the track constantly shifts.\n\nIn this visualization, you’ll see:\n- Competing ML agents represented as neon runners\n- Accuracy vs. latency “lap charts”\n- Denoising under chaotic, noisy streams\n- Real-time leaderboard changes\n\nSubscribe for more futuristic ML race visualizations and model battles.",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #datascience #futurism #quantum #visualization #competition"
+  "instagram_caption": "The data stays locked—only gradients race. Watch who wins the NEON SYNC Grand Prix in real time. ⚡️🤖 #FederatedLearning #AICompetition",
+  "facebook_caption": "Who’s fastest when data can’t move? Track the federated teams as they battle bandwidth storms and adversarial glitches—accuracy vs. speed in a neon race. Join the vote!",
+  "threads_caption": "No raw data. All speed. Who’s taking the checkered flag? 🏁🤖",
+  "twitter_caption": "NEON SYNC is live: federated models racing for accuracy under “bandwidth weather” + attacks. Who wins—NovaFed, QuasarSync, or someone else? ⚡️",
+  "youtube_title": "NEON SYNC: Federated Learning Grand Prix (Live ML Race Visualization)",
+  "youtube_description": "Welcome to NEON SYNC—an overclocked visualization of federated learning teams competing in a futuristic grand prix. Watch accuracy, convergence speed, and robustness metrics spike and crash as bandwidth changes and adversarial challenges hit.\n\nIn this race, competitors train without sharing raw data—only model updates. Can they sync fast enough to stay ahead?\n\nTimestamps:\n0:00 — Start / Baseline\n2:10 — Bandwidth Storm\n4:45 — Adversarial Round\n7:30 — Final Sync Sprint\n\nSubscribe for more AI race visuals and competition dashboards.",
+  "hashtags": "#ai #ml #tech #federatedlearning #neuralnetworks #datascience #competition #futuretech"
 }
