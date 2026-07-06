@@ -1,41 +1,37 @@
 {
-  "topic": "NEON SYNC: The Federated Model Grand Prix",
-  "description": "A real-time visualization race where federated learning teams compete to earn the fastest accuracy gains—without sharing raw data—under dynamic cyber-attack and bandwidth weather conditions.",
+  "topic": "Neon Frontier: The Marsquake ML Sprint (Live Model Racing League)",
+  "description": "A futuristic ML race where models compete to detect, classify, and predict Marsquakes from noisy sensor streams in real time—visualized as neon “model jets” crossing a crater-studded speed map.",
   "competitors": [
     {
-      "name": "NovaFed Storm",
+      "name": "CraterCore CNN",
       "color": "#00E5FF"
     },
     {
-      "name": "QuasarSync",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "AetherShield FL",
-      "color": "#00FFA3"
-    },
-    {
-      "name": "ByteFalcon Aggregates",
+      "name": "DustDevil RNN",
       "color": "#FF4D6D"
     },
     {
-      "name": "PrismLedger Learners",
-      "color": "#FFD400"
+      "name": "Aurora Transformer",
+      "color": "#8B5CFF"
     },
     {
-      "name": "SableCipher Distillation",
-      "color": "#22C55E"
+      "name": "IonPulse GNN",
+      "color": "#00FFA8"
     },
     {
-      "name": "HyperLattice Consensus",
-      "color": "#FF6B00"
+      "name": "LavaLoop Hybrid",
+      "color": "#FFB000"
+    },
+    {
+      "name": "QuakeScout Bayesian",
+      "color": "#4D9BFF"
     }
   ],
-  "instagram_caption": "The data stays locked—only gradients race. Watch who wins the NEON SYNC Grand Prix in real time. ⚡️🤖 #FederatedLearning #AICompetition",
-  "facebook_caption": "Who’s fastest when data can’t move? Track the federated teams as they battle bandwidth storms and adversarial glitches—accuracy vs. speed in a neon race. Join the vote!",
-  "threads_caption": "No raw data. All speed. Who’s taking the checkered flag? 🏁🤖",
-  "twitter_caption": "NEON SYNC is live: federated models racing for accuracy under “bandwidth weather” + attacks. Who wins—NovaFed, QuasarSync, or someone else? ⚡️",
-  "youtube_title": "NEON SYNC: Federated Learning Grand Prix (Live ML Race Visualization)",
-  "youtube_description": "Welcome to NEON SYNC—an overclocked visualization of federated learning teams competing in a futuristic grand prix. Watch accuracy, convergence speed, and robustness metrics spike and crash as bandwidth changes and adversarial challenges hit.\n\nIn this race, competitors train without sharing raw data—only model updates. Can they sync fast enough to stay ahead?\n\nTimestamps:\n0:00 — Start / Baseline\n2:10 — Bandwidth Storm\n4:45 — Adversarial Round\n7:30 — Final Sync Sprint\n\nSubscribe for more AI race visuals and competition dashboards.",
-  "hashtags": "#ai #ml #tech #federatedlearning #neuralnetworks #datascience #competition #futuretech"
+  "instagram_caption": "🚀 The models are sprinting across Mars—can you spot the fastest quake detector in the Neon Frontier race? 🌌⚡ Watch the leaderboard evolve in real time as “neural jets” dodge signal dust and scream-crater noise. Who’s winning: CNN, Transformer, GNN… or chaos? 👀",
+  "facebook_caption": "Marsquake season is ON. 🌑⚡ Six cutting-edge ML teams are racing to detect and classify quakes from noisy sensor data—live, futuristic, and brutally competitive. Drop your pick in the comments: which model will hit the #1 crater first?",
+  "threads_caption": "Real-time Marsquake ML race 🤖💥 Who’s taking 1st—Transformer, GNN, or the underdog hybrid?",
+  "twitter_caption": "Neon Frontier: models sprint to detect Marsquakes from noisy sensor streams. 🧠⚡ Live “model jets” vs crater chaos—who wins the next round? #ai #ml #space",
+  "youtube_title": "NEON FRONTIER: The Marsquake ML Sprint (Live Model Racing League) 🚀🤖",
+  "youtube_description": "Welcome to Neon Frontier—an AI/ML race visualization where multiple model architectures compete to detect, classify, and predict Marsquakes from noisy sensor data in real time. Watch how each competitor “flies” through crater sectors, how accuracy vs speed plays out, and which team claims the top signal station.\n\nIn this episode:\n- Live-style race visualization\n- Model approaches compared (CNN, RNN, Transformer, GNN, Hybrid, Bayesian)\n- Metrics-driven leaderboard swings\n- The final winner: best detection + stability under noise\n\nSubscribe for more futuristic ML competitions and data-racing spectacles!",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #futurism #spacetech #neuralnets"
 }
