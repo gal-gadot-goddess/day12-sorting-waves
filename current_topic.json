@@ -1,41 +1,41 @@
 {
-  "topic": "NEON QUANTUM RACE: The AI Relay of 1ms Predictions",
-  "description": "Teams sprint through a futuristic track where every model must generate accurate predictions under a hard 1-millisecond latency budget, visualized in real time as a neon relay of checkpoints.",
+  "topic": "NEURAL FTL GRAND PRIX: The Speedrun League of AI Models",
+  "description": "A futuristic race where ML models compete in real time to achieve the lowest latency, highest accuracy, and most energy-efficient inference—projected as an FTL-style track of synchronized checkpoints.",
   "competitors": [
     {
-      "name": "PhotonF1 Transformers",
-      "color": "#7C3AED"
+      "name": "PhotonNet (Latency King)",
+      "color": "#00E5FF"
     },
     {
-      "name": "EchoWave Reinforcement",
-      "color": "#22D3EE"
+      "name": "QuantumGrad (Accuracy Ace)",
+      "color": "#7C4DFF"
     },
     {
-      "name": "GraphPulse GNNs",
-      "color": "#34D399"
+      "name": "PrismCache (Efficiency Wizard)",
+      "color": "#00E676"
     },
     {
-      "name": "VectorNova SSM Racing",
-      "color": "#F472B6"
+      "name": "TritonFlow (Throughput Titan)",
+      "color": "#FF1744"
     },
     {
-      "name": "HyperBloom Mixture-of-Experts",
-      "color": "#F59E0B"
+      "name": "AtlasDistill (Tiny & Fast)",
+      "color": "#FFEA00"
     },
     {
-      "name": "QuantumSprinter Distillation",
-      "color": "#60A5FA"
+      "name": "NimbusRL (Decision Maverick)",
+      "color": "#2962FF"
     },
     {
-      "name": "ZeroLatency Bayesian",
-      "color": "#A78BFA"
+      "name": "SableSynth (Robust Generalist)",
+      "color": "#FF6D00"
     }
   ],
-  "instagram_caption": "🏎️⚡ 1ms Prediction Dash! Watch who makes it to the next checkpoint—accuracy AND speed, no excuses. Which team wins the NEON QUANTUM RACE? 💥",
-  "facebook_caption": "The AI race is on! Models compete head-to-head on a futuristic track where every prediction must land within a strict 1ms latency. Drop your pick for the winner below!",
-  "threads_caption": "1ms to predict. Accuracy required. Who’s taking the checkered flag? 👀",
-  "twitter_caption": "NEON QUANTUM RACE is live: AI models sprint to make accurate predictions under 1ms latency. 🏁⚡ Vote for the fastest contender.",
-  "youtube_title": "NEON QUANTUM RACE: Can AI Models Predict in 1ms? (Live ML Competition Visualization)",
-  "youtube_description": "Welcome to the NEON QUANTUM RACE—an electrifying ML competition where multiple AI architectures battle for the fastest accurate predictions under a strict 1ms latency budget. Watch the leaderboard update at each checkpoint in a neon futuristic visualization. Who will win: Transformers, GNNs, Mixture-of-Experts, SSMs, or something else? \n\nIn this video you’ll see:\n- Real-time competition visuals (accuracy vs. latency)\n- How each model handles the 1ms constraint\n- A final showdown with the overall champion\n\nSubscribe for more ML race visualizations!",
-  "hashtags": "#ai #ml #tech #deeplearning #competition #visualization #latency #transformers #gnn #reinforcementlearning"
+  "instagram_caption": "🏁⚡ The NEURAL FTL GRAND PRIX is live! Can your favorite model hit the checkpoint at warp speed—or will it get left in the dust? Drop your pick and watch the ML “race track” update in real time! 🚀",
+  "facebook_caption": "Who’s winning the NEURAL FTL GRAND PRIX? Vote for your favorite AI competitor—then watch latency, accuracy, and energy efficiency clash like a sci‑fi drag race for machine learning. Comment your prediction!",
+  "threads_caption": "Your AI is about to enter a warp-speed race. Who’s taking the checkered flag? 🚀🏁",
+  "twitter_caption": "NEURAL FTL GRAND PRIX 🏁⚡ Models racing for latency, accuracy & energy efficiency. Pick a team—then watch the standings shift at every checkpoint.",
+  "youtube_title": "NEURAL FTL GRAND PRIX: The Speedrun League of AI Models (Live ML Race Visualization)",
+  "youtube_description": "Welcome to the NEURAL FTL GRAND PRIX—an out-of-this-world ML competition visualizing model speedruns across latency, accuracy, throughput, and energy efficiency. Watch each AI competitor sprint through checkpointed track segments like an FTL arcade race. Who wins: the latency king, the accuracy ace, the efficiency wizard, or the throughput titan?\n\nIn this video/visualization:\n- Real-time “race track” ranking across ML metrics\n- Checkpoint-based progression (warp-speed updates)\n- Team-style breakdown of competing model strategies\n\nWhich competitor are you backing? Comment below!",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #dataviz #neuralnetworks #futuretech #innovation"
 }
