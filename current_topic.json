@@ -1,37 +1,41 @@
 {
-  "topic": "Neon Drift: The Quantum-Swarm ML Grand Prix",
-  "description": "A real-time “race track” visualization where ML models compete as quantum-swarm agents, trading off accuracy, latency, and energy to reach the finish line before the adaptive adversary rewrites the rules.",
+  "topic": "Neon Data Dash: The Quantum-AI Relay Race",
+  "description": "A high-speed visualization of competing models sprinting through streaming data, swapping “quantum” checkpoints to win the fastest accuracy under shifting conditions.",
   "competitors": [
     {
-      "name": "Q-Forger (Quantum Ensemble)",
-      "color": "#7C4DFF"
+      "name": "Q-FalconNet",
+      "color": "#7CFFCB"
     },
     {
-      "name": "Latency Lynx (Edge Inference)",
-      "color": "#00E5FF"
+      "name": "SpectraSprint",
+      "color": "#7A5CFF"
     },
     {
-      "name": "EvoPulse (Evolutionary Search)",
-      "color": "#FF2D55"
+      "name": "NeuroPulse GPT",
+      "color": "#FF4FD8"
     },
     {
-      "name": "Graph Mirage (GNN Navigator)",
-      "color": "#22C55E"
-    },
-    {
-      "name": "MetaGlide (Meta-Learning)",
+      "name": "ChaosCalibrator",
       "color": "#FFB020"
     },
     {
-      "name": "Robust Raptor (Adversarial Defense)",
-      "color": "#60A5FA"
+      "name": "TensorDrift Runner",
+      "color": "#00D4FF"
+    },
+    {
+      "name": "EvoLens Architect",
+      "color": "#7DFF4F"
+    },
+    {
+      "name": "Adaptive Orbit-7",
+      "color": "#FF5A5A"
     }
   ],
-  "instagram_caption": "🏎️⚡ The ML race nobody can predict—watch models “drift” through shifting quantum lanes while an adversary changes the map in real time. Who’s winning by accuracy, speed, or energy? #NeonDrift",
-  "facebook_caption": "Neon Drift is live: multiple ML teams sprint across a futuristic track, but the course evolves every second. Can your favorite approach—quantum ensembles, edge inference, or adversarial defense—take the checkered flag? Drop your pick! 🏁",
-  "threads_caption": "The track changes every second. Your model doesn’t just learn… it survives. Who wins: speed, accuracy, or energy?",
-  "twitter_caption": "Neon Drift: ML models racing under an adaptive adversary. Quantum-swarm agents. Edge latency sprints. Who takes the #AI crown? 🏁",
-  "youtube_title": "Neon Drift: The Quantum-Swarm ML Grand Prix (Live Race Visualization)",
-  "youtube_description": "Welcome to Neon Drift—an adrenaline-fueled ML competition visualization where quantum-swarm agents race across evolving lanes. Each competitor is optimized for a different trade-off: accuracy, latency, robustness, and energy. Watch the curves, feel the pressure as the environment shifts, and see which approach truly holds the line. Comment your winner!",
-  "hashtags": "#ai #ml #tech #deeplearning #quantum #visualization #competition #robustai"
+  "instagram_caption": "🏎️⚡ The Neon Data Dash is LIVE! Watch competing AI teams trade “quantum” checkpoint power and race for the #1 fastest + most accurate score as the world changes in real time. Who takes the chequered flag? 🔮🚦",
+  "facebook_caption": "The future of ML looks like a race—and these models are sprinting through streaming data with shifting rules every second. Track who adapts fastest, wins the score, and grabs the final lead in the Neon Data Dash. Which competitor are you backing?",
+  "threads_caption": "AI models racing in real time? Stream-shift chaos + quantum-style checkpoints = who wins? 👀🚀",
+  "twitter_caption": "Neon Data Dash: Quantum-AI Relay Race is running. Fast accuracy under shifting data = ultimate flex. Who’s your pick? 🏁⚡",
+  "youtube_title": "Neon Data Dash: Quantum-AI Relay Race (Live ML Competition Visualization)",
+  "youtube_description": "Welcome to Neon Data Dash—an overclocked ML race where competing models sprint through streaming data, swapping “quantum” checkpoints to maintain accuracy while the environment changes. Watch the leaderboard evolve in real time as each competitor battles for the fastest, most reliable performance.\n\nIn this video you’ll see:\n• Real-time competition visualization\n• Adaptive strategies vs. shifting data distributions\n• Who wins on speed, who wins on accuracy, and who does both\n\nLike, comment your predictions, and subscribe for the next ML race drop.",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #quantumai #aiviz #competition #futuretech"
 }
