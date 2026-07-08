@@ -1,41 +1,37 @@
 {
-  "topic": "NEON NEXUS RACE: AI Models Sprint Through the Synthetic City",
-  "description": "A futuristic ML race where competing models navigate a live-updating synthetic metropolis, battling for leaderboard dominance in latency, accuracy, and robustness under shifting conditions.",
+  "topic": "Neon Drift: The Quantum-Swarm ML Grand Prix",
+  "description": "A real-time “race track” visualization where ML models compete as quantum-swarm agents, trading off accuracy, latency, and energy to reach the finish line before the adaptive adversary rewrites the rules.",
   "competitors": [
     {
-      "name": "AtlasNet (Vision Sprint)",
-      "color": "#00E5FF"
-    },
-    {
-      "name": "PulseGPT (Reasoning Dash)",
+      "name": "Q-Forger (Quantum Ensemble)",
       "color": "#7C4DFF"
     },
     {
-      "name": "GravitonRL (Control Drift)",
-      "color": "#00FF7F"
+      "name": "Latency Lynx (Edge Inference)",
+      "color": "#00E5FF"
     },
     {
-      "name": "QuantaFormer (Multimodal Jump)",
-      "color": "#FF2D95"
+      "name": "EvoPulse (Evolutionary Search)",
+      "color": "#FF2D55"
     },
     {
-      "name": "CipherCore (Robustness Shield)",
-      "color": "#FFD400"
+      "name": "Graph Mirage (GNN Navigator)",
+      "color": "#22C55E"
     },
     {
-      "name": "VectorNova (Efficiency Lap)",
-      "color": "#52FFB8"
+      "name": "MetaGlide (Meta-Learning)",
+      "color": "#FFB020"
     },
     {
-      "name": "IonStitch (Long-Context Relay)",
-      "color": "#FF6B2C"
+      "name": "Robust Raptor (Adversarial Defense)",
+      "color": "#60A5FA"
     }
   ],
-  "instagram_caption": "🏙️⚡ The AI speedrun is LIVE in the Synthetic City—who’s winning the NEON NEXUS RACE? Watch the leaderboard warp as models adapt to chaos in real time. Drop your pick 👇 #NEONNEXUSRACE",
-  "facebook_caption": "The Synthetic City just changed the rules again. Can your favorite model keep up as the streets shift, noise spikes, and the leaderboard accelerates? Vote in the comments—Team AtlasNet, PulseGPT, GravitonRL, and more are charging! 🚀",
-  "threads_caption": "AI models racing through a city that keeps changing? Yeah… it’s NEON NEXUS RACE. Who wins?",
-  "twitter_caption": "NEON NEXUS RACE: models sprint through a live synthetic city (latency + accuracy + robustness). Who’s taking the #1 slot? 🏁🤖",
-  "youtube_title": "NEON NEXUS RACE 2026: AI Models Sprint Through a Synthetic City (Real-Time ML Competition)",
-  "youtube_description": "Welcome to the NEON NEXUS RACE—an electrifying ML competition where AI models race through a live-updating Synthetic City. Each lap tests latency, accuracy, and robustness as the environment shifts mid-run.\n\nIn this video: \n- Real-time leaderboard updates\n- Stress tests against noise + adversarial conditions\n- Model-by-model performance breakdown\n\nWhich competitor are you backing for the win? Comment your pick!\n\nTimestamps:\n00:00 Intro\n00:25 Start of the Race\n02:10 Lap Updates\n05:40 Final Showdown\n\n#ai #ml #tech",
-  "hashtags": "#ai #ml #tech #deeplearning #computervision #multimodal #reinforcementlearning #benchmark #robotics"
+  "instagram_caption": "🏎️⚡ The ML race nobody can predict—watch models “drift” through shifting quantum lanes while an adversary changes the map in real time. Who’s winning by accuracy, speed, or energy? #NeonDrift",
+  "facebook_caption": "Neon Drift is live: multiple ML teams sprint across a futuristic track, but the course evolves every second. Can your favorite approach—quantum ensembles, edge inference, or adversarial defense—take the checkered flag? Drop your pick! 🏁",
+  "threads_caption": "The track changes every second. Your model doesn’t just learn… it survives. Who wins: speed, accuracy, or energy?",
+  "twitter_caption": "Neon Drift: ML models racing under an adaptive adversary. Quantum-swarm agents. Edge latency sprints. Who takes the #AI crown? 🏁",
+  "youtube_title": "Neon Drift: The Quantum-Swarm ML Grand Prix (Live Race Visualization)",
+  "youtube_description": "Welcome to Neon Drift—an adrenaline-fueled ML competition visualization where quantum-swarm agents race across evolving lanes. Each competitor is optimized for a different trade-off: accuracy, latency, robustness, and energy. Watch the curves, feel the pressure as the environment shifts, and see which approach truly holds the line. Comment your winner!",
+  "hashtags": "#ai #ml #tech #deeplearning #quantum #visualization #competition #robustai"
 }
