@@ -1,41 +1,41 @@
 {
-  "topic": "NEURAL FTL GRAND PRIX: The Speedrun League of AI Models",
-  "description": "A futuristic race where ML models compete in real time to achieve the lowest latency, highest accuracy, and most energy-efficient inference—projected as an FTL-style track of synchronized checkpoints.",
+  "topic": "NEON NEXUS RACE: AI Models Sprint Through the Synthetic City",
+  "description": "A futuristic ML race where competing models navigate a live-updating synthetic metropolis, battling for leaderboard dominance in latency, accuracy, and robustness under shifting conditions.",
   "competitors": [
     {
-      "name": "PhotonNet (Latency King)",
+      "name": "AtlasNet (Vision Sprint)",
       "color": "#00E5FF"
     },
     {
-      "name": "QuantumGrad (Accuracy Ace)",
+      "name": "PulseGPT (Reasoning Dash)",
       "color": "#7C4DFF"
     },
     {
-      "name": "PrismCache (Efficiency Wizard)",
-      "color": "#00E676"
+      "name": "GravitonRL (Control Drift)",
+      "color": "#00FF7F"
     },
     {
-      "name": "TritonFlow (Throughput Titan)",
-      "color": "#FF1744"
+      "name": "QuantaFormer (Multimodal Jump)",
+      "color": "#FF2D95"
     },
     {
-      "name": "AtlasDistill (Tiny & Fast)",
-      "color": "#FFEA00"
+      "name": "CipherCore (Robustness Shield)",
+      "color": "#FFD400"
     },
     {
-      "name": "NimbusRL (Decision Maverick)",
-      "color": "#2962FF"
+      "name": "VectorNova (Efficiency Lap)",
+      "color": "#52FFB8"
     },
     {
-      "name": "SableSynth (Robust Generalist)",
-      "color": "#FF6D00"
+      "name": "IonStitch (Long-Context Relay)",
+      "color": "#FF6B2C"
     }
   ],
-  "instagram_caption": "🏁⚡ The NEURAL FTL GRAND PRIX is live! Can your favorite model hit the checkpoint at warp speed—or will it get left in the dust? Drop your pick and watch the ML “race track” update in real time! 🚀",
-  "facebook_caption": "Who’s winning the NEURAL FTL GRAND PRIX? Vote for your favorite AI competitor—then watch latency, accuracy, and energy efficiency clash like a sci‑fi drag race for machine learning. Comment your prediction!",
-  "threads_caption": "Your AI is about to enter a warp-speed race. Who’s taking the checkered flag? 🚀🏁",
-  "twitter_caption": "NEURAL FTL GRAND PRIX 🏁⚡ Models racing for latency, accuracy & energy efficiency. Pick a team—then watch the standings shift at every checkpoint.",
-  "youtube_title": "NEURAL FTL GRAND PRIX: The Speedrun League of AI Models (Live ML Race Visualization)",
-  "youtube_description": "Welcome to the NEURAL FTL GRAND PRIX—an out-of-this-world ML competition visualizing model speedruns across latency, accuracy, throughput, and energy efficiency. Watch each AI competitor sprint through checkpointed track segments like an FTL arcade race. Who wins: the latency king, the accuracy ace, the efficiency wizard, or the throughput titan?\n\nIn this video/visualization:\n- Real-time “race track” ranking across ML metrics\n- Checkpoint-based progression (warp-speed updates)\n- Team-style breakdown of competing model strategies\n\nWhich competitor are you backing? Comment below!",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #dataviz #neuralnetworks #futuretech #innovation"
+  "instagram_caption": "🏙️⚡ The AI speedrun is LIVE in the Synthetic City—who’s winning the NEON NEXUS RACE? Watch the leaderboard warp as models adapt to chaos in real time. Drop your pick 👇 #NEONNEXUSRACE",
+  "facebook_caption": "The Synthetic City just changed the rules again. Can your favorite model keep up as the streets shift, noise spikes, and the leaderboard accelerates? Vote in the comments—Team AtlasNet, PulseGPT, GravitonRL, and more are charging! 🚀",
+  "threads_caption": "AI models racing through a city that keeps changing? Yeah… it’s NEON NEXUS RACE. Who wins?",
+  "twitter_caption": "NEON NEXUS RACE: models sprint through a live synthetic city (latency + accuracy + robustness). Who’s taking the #1 slot? 🏁🤖",
+  "youtube_title": "NEON NEXUS RACE 2026: AI Models Sprint Through a Synthetic City (Real-Time ML Competition)",
+  "youtube_description": "Welcome to the NEON NEXUS RACE—an electrifying ML competition where AI models race through a live-updating Synthetic City. Each lap tests latency, accuracy, and robustness as the environment shifts mid-run.\n\nIn this video: \n- Real-time leaderboard updates\n- Stress tests against noise + adversarial conditions\n- Model-by-model performance breakdown\n\nWhich competitor are you backing for the win? Comment your pick!\n\nTimestamps:\n00:00 Intro\n00:25 Start of the Race\n02:10 Lap Updates\n05:40 Final Showdown\n\n#ai #ml #tech",
+  "hashtags": "#ai #ml #tech #deeplearning #computervision #multimodal #reinforcementlearning #benchmark #robotics"
 }
