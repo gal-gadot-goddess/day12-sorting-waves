@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Data Dash: The Quantum-AI Relay Race",
-  "description": "A high-speed visualization of competing models sprinting through streaming data, swapping “quantum” checkpoints to win the fastest accuracy under shifting conditions.",
+  "topic": "NEON RACE: The Autonomous Model Dash to the Cosmic Edge",
+  "description": "A high-speed ML competition where teams train adaptive agents to maximize accuracy and energy efficiency as they sprint through simulated cosmic weather, shifting datasets, and live leaderboard chaos.",
   "competitors": [
     {
-      "name": "Q-FalconNet",
-      "color": "#7CFFCB"
+      "name": "QuasarNet",
+      "color": "#7C4DFF"
     },
     {
-      "name": "SpectraSprint",
-      "color": "#7A5CFF"
+      "name": "PhotonForge",
+      "color": "#00E5FF"
     },
     {
-      "name": "NeuroPulse GPT",
-      "color": "#FF4FD8"
+      "name": "NebulaKnights",
+      "color": "#FF2D95"
     },
     {
-      "name": "ChaosCalibrator",
-      "color": "#FFB020"
+      "name": "GravityGrad",
+      "color": "#FFD300"
     },
     {
-      "name": "TensorDrift Runner",
-      "color": "#00D4FF"
+      "name": "IonSprint",
+      "color": "#00FF85"
     },
     {
-      "name": "EvoLens Architect",
-      "color": "#7DFF4F"
+      "name": "AstraLattice",
+      "color": "#FF5A00"
     },
     {
-      "name": "Adaptive Orbit-7",
-      "color": "#FF5A5A"
+      "name": "ChronoCatalyst",
+      "color": "#4CAF50"
     }
   ],
-  "instagram_caption": "🏎️⚡ The Neon Data Dash is LIVE! Watch competing AI teams trade “quantum” checkpoint power and race for the #1 fastest + most accurate score as the world changes in real time. Who takes the chequered flag? 🔮🚦",
-  "facebook_caption": "The future of ML looks like a race—and these models are sprinting through streaming data with shifting rules every second. Track who adapts fastest, wins the score, and grabs the final lead in the Neon Data Dash. Which competitor are you backing?",
-  "threads_caption": "AI models racing in real time? Stream-shift chaos + quantum-style checkpoints = who wins? 👀🚀",
-  "twitter_caption": "Neon Data Dash: Quantum-AI Relay Race is running. Fast accuracy under shifting data = ultimate flex. Who’s your pick? 🏁⚡",
-  "youtube_title": "Neon Data Dash: Quantum-AI Relay Race (Live ML Competition Visualization)",
-  "youtube_description": "Welcome to Neon Data Dash—an overclocked ML race where competing models sprint through streaming data, swapping “quantum” checkpoints to maintain accuracy while the environment changes. Watch the leaderboard evolve in real time as each competitor battles for the fastest, most reliable performance.\n\nIn this video you’ll see:\n• Real-time competition visualization\n• Adaptive strategies vs. shifting data distributions\n• Who wins on speed, who wins on accuracy, and who does both\n\nLike, comment your predictions, and subscribe for the next ML race drop.",
-  "hashtags": "#ai #ml #tech #machinelearning #datascience #quantumai #aiviz #competition #futuretech"
+  "instagram_caption": "🚀 The models are racing at LIGHT speed… but the universe is changing every second. Who wins NEON RACE: the Autonomous Model Dash? Track the cosmic leaderboard in real time 👀✨",
+  "facebook_caption": "Turn on notifications—this ML race gets wilder every round. Models adapt to shifting cosmic conditions, optimize for speed + accuracy + efficiency, and battle for the top spot. Can your favorite team pull ahead?",
+  "threads_caption": "AI models sprinting through a changing universe—who takes the crown? ⚡🌌",
+  "twitter_caption": "NEON RACE is live: models adapt to cosmic weather, shifting datasets, and energy limits. Who’s taking 1st? 🚀🏁 #AI #ML",
+  "youtube_title": "NEON RACE: The Futuristic ML Competition Where Models Run for Survival",
+  "youtube_description": "Welcome to NEON RACE—an over-the-top futuristic machine learning race where competing teams push adaptive models to the limit.\n\nIn this visualization, each competitor tries to maximize accuracy while meeting strict energy budgets as the environment shifts in real time (cosmic storms, adversarial drift, and sudden dataset changes).\n\nWatch the leaderboard surge, see strategies collide, and find out which team claims the Cosmic Edge.\n\nDrop your pick in the comments!",
+  "hashtags": "#ai #ml #tech #deeplearning #machinelearning #innovation #datascience #robotics #futuretech"
 }
