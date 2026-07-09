@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Synapse Grand Prix 2090: The Model Sprint Across the Multiverse",
-  "description": "Watch rival ML models race through shifting synthetic universes, where every checkpoint is a new dataset reality—accuracy, latency, and robustness all compete for the finish line.",
+  "topic": "🚀 The Neural Relay Race: Quantum-Grade Models Sprint for Real-Time Accuracy",
+  "description": "Watch a futuristic “relay race” where teams trade model checkpoints like batons, optimizing for latency, robustness, and calibration as the track changes every few seconds.",
   "competitors": [
     {
-      "name": "Quantum Curie-Q",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "Aurora Transformer A9",
+      "name": "PhotonForge",
       "color": "#00E5FF"
     },
     {
-      "name": "Kinetic ConvNet KX",
-      "color": "#00C853"
+      "name": "QuantNova",
+      "color": "#7C4DFF"
     },
     {
-      "name": "Hyperbolic Hedge H-7",
-      "color": "#FF1744"
+      "name": "PrismPulse",
+      "color": "#FF2E88"
     },
     {
-      "name": "Entropy Ranger E-R",
-      "color": "#FFEA00"
+      "name": "VectorVanguard",
+      "color": "#00FF9A"
     },
     {
-      "name": "Spectra Distiller SD-3",
-      "color": "#2979FF"
+      "name": "LatencyLynx",
+      "color": "#FFB300"
     },
     {
-      "name": "Vector Nomad V-11",
-      "color": "#FF6D00"
+      "name": "RobustRanger",
+      "color": "#4CAF50"
+    },
+    {
+      "name": "CalibraCrew",
+      "color": "#42A5F5"
     }
   ],
-  "instagram_caption": "🚦🏎️ The Neon Synapse Grand Prix is live: who wins the Multiverse Sprint—speed, accuracy, or survive-when-the-rules-change? ⚡🤖 Watch the race checkpoints stack up in real time.",
-  "facebook_caption": "Can your model handle a new “reality” every checkpoint? Join the Neon Synapse Grand Prix 2090 and vote who takes the Multiverse Sprint title—accuracy, latency, or robustness wins.",
-  "threads_caption": "Name the model you think wins the Multiverse Sprint 👇⚡",
-  "twitter_caption": "Neon Synapse Grand Prix 2090: models racing across shifting datasets—accuracy vs latency vs robustness. Who’s taking the crown? 🏎️🤖 #AI #ML",
-  "youtube_title": "Neon Synapse Grand Prix 2090 — ML Models Race Across the Multiverse! (Live-Style Viz)",
-  "youtube_description": "Welcome to the Neon Synapse Grand Prix 2090: a futuristic ML competition visualization where rival models sprint through a sequence of ever-changing synthetic universes. Each checkpoint introduces a new data reality, testing accuracy, latency, and robustness simultaneously.\n\nWhich competitor do you think will dominate: Quantum Curie-Q, Aurora Transformer A9, Kinetic ConvNet KX, Hyperbolic Hedge H-7, Entropy Ranger E-R, Spectra Distiller SD-3, or Vector Nomad V-11?\n\nDrop your prediction in the comments—then hit like and subscribe for more race-style ML visualizations.",
-  "hashtags": "#ai #ml #tech #datascience #deeplearning #competition #visualization #futuretech"
+  "instagram_caption": "🏁⚡ The Neural Relay Race is ON. Teams swap “model batons” mid-lap—who wins when the track (data) changes every few seconds? Watch accuracy, latency, and calibration collide in real time. 👀🌌",
+  "facebook_caption": "Can your model finish the lap when conditions change instantly? In the Neural Relay Race, teams pass checkpoints like batons and sprint for real-time accuracy. Drop your pick: who takes the crown—PhotonForge, QuantNova, or LatencyLynx?",
+  "threads_caption": "Models sprinting like athletes… but with changing data traps every lap. Who wins the relay? 🧠🏁",
+  "twitter_caption": "🏁 The Neural Relay Race: relay-passing model checkpoints, optimizing latency + robustness in a world that changes every few seconds. Which team are you backing? #AI #ML",
+  "youtube_title": "The Neural Relay Race (2026): Quantum-Grade Models Compete for Real-Time Accuracy! 🏁⚡",
+  "youtube_description": "Welcome to the Neural Relay Race—an ultra-futuristic ML competition where teams pass model checkpoints like batons and race for real-time accuracy under shifting track conditions. \n\nIn this visualization, we track: \n• Accuracy (top-line performance) \n• Latency (speed to decision) \n• Robustness (performance under noise/shift) \n• Calibration (confidence that matches reality) \n\nComment your predicted winner and watch the leaderboard evolve lap by lap!",
+  "hashtags": "#ai #ml #tech #machinelearning #neuralnetwork #dataviz #futurism #race #robotics #quantumai"
 }
