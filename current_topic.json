@@ -1,41 +1,41 @@
 {
-  "topic": "NEON RACE: The Autonomous Model Dash to the Cosmic Edge",
-  "description": "A high-speed ML competition where teams train adaptive agents to maximize accuracy and energy efficiency as they sprint through simulated cosmic weather, shifting datasets, and live leaderboard chaos.",
+  "topic": "Neon Synapse Grand Prix 2090: The Model Sprint Across the Multiverse",
+  "description": "Watch rival ML models race through shifting synthetic universes, where every checkpoint is a new dataset reality—accuracy, latency, and robustness all compete for the finish line.",
   "competitors": [
     {
-      "name": "QuasarNet",
+      "name": "Quantum Curie-Q",
       "color": "#7C4DFF"
     },
     {
-      "name": "PhotonForge",
+      "name": "Aurora Transformer A9",
       "color": "#00E5FF"
     },
     {
-      "name": "NebulaKnights",
-      "color": "#FF2D95"
+      "name": "Kinetic ConvNet KX",
+      "color": "#00C853"
     },
     {
-      "name": "GravityGrad",
-      "color": "#FFD300"
+      "name": "Hyperbolic Hedge H-7",
+      "color": "#FF1744"
     },
     {
-      "name": "IonSprint",
-      "color": "#00FF85"
+      "name": "Entropy Ranger E-R",
+      "color": "#FFEA00"
     },
     {
-      "name": "AstraLattice",
-      "color": "#FF5A00"
+      "name": "Spectra Distiller SD-3",
+      "color": "#2979FF"
     },
     {
-      "name": "ChronoCatalyst",
-      "color": "#4CAF50"
+      "name": "Vector Nomad V-11",
+      "color": "#FF6D00"
     }
   ],
-  "instagram_caption": "🚀 The models are racing at LIGHT speed… but the universe is changing every second. Who wins NEON RACE: the Autonomous Model Dash? Track the cosmic leaderboard in real time 👀✨",
-  "facebook_caption": "Turn on notifications—this ML race gets wilder every round. Models adapt to shifting cosmic conditions, optimize for speed + accuracy + efficiency, and battle for the top spot. Can your favorite team pull ahead?",
-  "threads_caption": "AI models sprinting through a changing universe—who takes the crown? ⚡🌌",
-  "twitter_caption": "NEON RACE is live: models adapt to cosmic weather, shifting datasets, and energy limits. Who’s taking 1st? 🚀🏁 #AI #ML",
-  "youtube_title": "NEON RACE: The Futuristic ML Competition Where Models Run for Survival",
-  "youtube_description": "Welcome to NEON RACE—an over-the-top futuristic machine learning race where competing teams push adaptive models to the limit.\n\nIn this visualization, each competitor tries to maximize accuracy while meeting strict energy budgets as the environment shifts in real time (cosmic storms, adversarial drift, and sudden dataset changes).\n\nWatch the leaderboard surge, see strategies collide, and find out which team claims the Cosmic Edge.\n\nDrop your pick in the comments!",
-  "hashtags": "#ai #ml #tech #deeplearning #machinelearning #innovation #datascience #robotics #futuretech"
+  "instagram_caption": "🚦🏎️ The Neon Synapse Grand Prix is live: who wins the Multiverse Sprint—speed, accuracy, or survive-when-the-rules-change? ⚡🤖 Watch the race checkpoints stack up in real time.",
+  "facebook_caption": "Can your model handle a new “reality” every checkpoint? Join the Neon Synapse Grand Prix 2090 and vote who takes the Multiverse Sprint title—accuracy, latency, or robustness wins.",
+  "threads_caption": "Name the model you think wins the Multiverse Sprint 👇⚡",
+  "twitter_caption": "Neon Synapse Grand Prix 2090: models racing across shifting datasets—accuracy vs latency vs robustness. Who’s taking the crown? 🏎️🤖 #AI #ML",
+  "youtube_title": "Neon Synapse Grand Prix 2090 — ML Models Race Across the Multiverse! (Live-Style Viz)",
+  "youtube_description": "Welcome to the Neon Synapse Grand Prix 2090: a futuristic ML competition visualization where rival models sprint through a sequence of ever-changing synthetic universes. Each checkpoint introduces a new data reality, testing accuracy, latency, and robustness simultaneously.\n\nWhich competitor do you think will dominate: Quantum Curie-Q, Aurora Transformer A9, Kinetic ConvNet KX, Hyperbolic Hedge H-7, Entropy Ranger E-R, Spectra Distiller SD-3, or Vector Nomad V-11?\n\nDrop your prediction in the comments—then hit like and subscribe for more race-style ML visualizations.",
+  "hashtags": "#ai #ml #tech #datascience #deeplearning #competition #visualization #futuretech"
 }
