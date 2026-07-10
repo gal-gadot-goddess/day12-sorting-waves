@@ -1,41 +1,41 @@
 {
-  "topic": "NEURAL SPEEDRUN: The Quantum Sprint Across the Loss Landscape",
-  "description": "Watch ML models race in real time as they traverse a shifting “loss desert,” where routes mutate every second and only the fastest generalizers keep their lead.",
+  "topic": "Quantum Drift Grand Prix: AI Models Racing Through Unstable Reality",
+  "description": "Watch ML agents compete as the “track” dynamically collapses, bends, and rewrites itself—testing robustness, calibration, and real-time decision speed under quantum-like uncertainty.",
   "competitors": [
     {
-      "name": "HyperNova Transformer",
+      "name": "NOVA-Q Calibrator",
       "color": "#00E5FF"
     },
     {
-      "name": "Loss Mirage GAN",
+      "name": "VANTA DriftNet",
       "color": "#7C4DFF"
     },
     {
-      "name": "Gradient Drift Swarm",
-      "color": "#00FFB3"
+      "name": "PRISM Robust Learner",
+      "color": "#00E676"
     },
     {
-      "name": "SparseRocket SNN",
-      "color": "#FF2D55"
+      "name": "ION Edge Racer",
+      "color": "#FF1744"
     },
     {
-      "name": "MetaLearner Atlas",
-      "color": "#FFD300"
+      "name": "ORBIT Uncertainty Pilot",
+      "color": "#FFEA00"
     },
     {
-      "name": "DistillForge Student",
-      "color": "#4CAF50"
+      "name": "SPECTRA Latency Slayer",
+      "color": "#00B0FF"
     },
     {
-      "name": "QuantumTwin Predictor",
+      "name": "MIRAGE Fault-Tolerant",
       "color": "#FF6D00"
     }
   ],
-  "instagram_caption": "🏁 The loss desert is moving… and your model’s sprint score updates every second. Who wins the NEURAL SPEEDRUN? ⚡️ Drop your pick—blue, purple, or neon green? #NeuralSpeedrun",
-  "facebook_caption": "The rules changed mid-race: the loss landscape mutates every second. Models must adapt, generalize, and still finish first. Who’s your winner in this futuristic ML sprint?",
-  "threads_caption": "The loss landscape is alive. Your model has to outrun it. Who’s winning?",
-  "twitter_caption": "ML models racing through a shifting loss desert. Every second = new route. Who takes the #NeuralSpeedrun crown? ⚡️",
-  "youtube_title": "NEURAL SPEEDRUN: ML Models Race Through a Living Loss Landscape (Live-Style Visualization)",
-  "youtube_description": "Welcome to NEURAL SPEEDRUN—where ML competitors sprint across a shifting loss landscape. In this futuristic visualization, each model must adapt as routes mutate every second, testing speed, stability, and generalization.\n\nIn the video:\n• Models launch from the same starting checkpoint\n• The “loss desert” reshapes continuously\n• Leaders change as generalization beats brute-force\n\nComment your winner and why—then subscribe for the next race.",
-  "hashtags": "#ai #ml #tech #deeplearning #futuretech #datascience #quantum #transformers #gan"
+  "instagram_caption": "🚦🌌 The Quantum Drift Grand Prix just dropped. Can your favorite AI survive a track that keeps changing physics mid-lap? 🧠💥 Comment your pick and predict who takes the checkered flag! #RaceToRobustness",
+  "facebook_caption": "Welcome to the Quantum Drift Grand Prix—an ML race where the environment literally rewrites itself in real time. Robustness, calibration, and speed all matter. Who do you think will win this unstable reality circuit?",
+  "threads_caption": "Your model has ONE lap before reality changes. Who’s winning the Quantum Drift Grand Prix? 🏎️🤖",
+  "twitter_caption": "Quantum Drift Grand Prix: ML models racing on a track that collapses & reconfigures mid-lap. Robustness + calibration + latency = victory. Who’s your champion? 🚀",
+  "youtube_title": "Quantum Drift Grand Prix (ML Race Visualization): Can AI Models Survive Unstable Reality?",
+  "youtube_description": "In this futuristic ML “race,” competitors sprint through a dynamically changing environment designed to mimic quantum-like uncertainty and domain drift. Watch leaderboards update in real time as models face collapsing track physics, sensor noise spikes, and distribution shifts. \n\nWill the fastest model win—or the most robust one?\n\nSubscribe for more AI race visualizations and performance battles.",
+  "hashtags": "#ai #ml #tech #deeplearning #datascience #machinelearning #aiviz #robustai #quantum"
 }
