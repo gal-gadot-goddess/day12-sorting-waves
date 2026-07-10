@@ -1,41 +1,41 @@
 {
-  "topic": "🚀 The Neural Relay Race: Quantum-Grade Models Sprint for Real-Time Accuracy",
-  "description": "Watch a futuristic “relay race” where teams trade model checkpoints like batons, optimizing for latency, robustness, and calibration as the track changes every few seconds.",
+  "topic": "NEURAL SPEEDRUN: The Quantum Sprint Across the Loss Landscape",
+  "description": "Watch ML models race in real time as they traverse a shifting “loss desert,” where routes mutate every second and only the fastest generalizers keep their lead.",
   "competitors": [
     {
-      "name": "PhotonForge",
+      "name": "HyperNova Transformer",
       "color": "#00E5FF"
     },
     {
-      "name": "QuantNova",
+      "name": "Loss Mirage GAN",
       "color": "#7C4DFF"
     },
     {
-      "name": "PrismPulse",
-      "color": "#FF2E88"
+      "name": "Gradient Drift Swarm",
+      "color": "#00FFB3"
     },
     {
-      "name": "VectorVanguard",
-      "color": "#00FF9A"
+      "name": "SparseRocket SNN",
+      "color": "#FF2D55"
     },
     {
-      "name": "LatencyLynx",
-      "color": "#FFB300"
+      "name": "MetaLearner Atlas",
+      "color": "#FFD300"
     },
     {
-      "name": "RobustRanger",
+      "name": "DistillForge Student",
       "color": "#4CAF50"
     },
     {
-      "name": "CalibraCrew",
-      "color": "#42A5F5"
+      "name": "QuantumTwin Predictor",
+      "color": "#FF6D00"
     }
   ],
-  "instagram_caption": "🏁⚡ The Neural Relay Race is ON. Teams swap “model batons” mid-lap—who wins when the track (data) changes every few seconds? Watch accuracy, latency, and calibration collide in real time. 👀🌌",
-  "facebook_caption": "Can your model finish the lap when conditions change instantly? In the Neural Relay Race, teams pass checkpoints like batons and sprint for real-time accuracy. Drop your pick: who takes the crown—PhotonForge, QuantNova, or LatencyLynx?",
-  "threads_caption": "Models sprinting like athletes… but with changing data traps every lap. Who wins the relay? 🧠🏁",
-  "twitter_caption": "🏁 The Neural Relay Race: relay-passing model checkpoints, optimizing latency + robustness in a world that changes every few seconds. Which team are you backing? #AI #ML",
-  "youtube_title": "The Neural Relay Race (2026): Quantum-Grade Models Compete for Real-Time Accuracy! 🏁⚡",
-  "youtube_description": "Welcome to the Neural Relay Race—an ultra-futuristic ML competition where teams pass model checkpoints like batons and race for real-time accuracy under shifting track conditions. \n\nIn this visualization, we track: \n• Accuracy (top-line performance) \n• Latency (speed to decision) \n• Robustness (performance under noise/shift) \n• Calibration (confidence that matches reality) \n\nComment your predicted winner and watch the leaderboard evolve lap by lap!",
-  "hashtags": "#ai #ml #tech #machinelearning #neuralnetwork #dataviz #futurism #race #robotics #quantumai"
+  "instagram_caption": "🏁 The loss desert is moving… and your model’s sprint score updates every second. Who wins the NEURAL SPEEDRUN? ⚡️ Drop your pick—blue, purple, or neon green? #NeuralSpeedrun",
+  "facebook_caption": "The rules changed mid-race: the loss landscape mutates every second. Models must adapt, generalize, and still finish first. Who’s your winner in this futuristic ML sprint?",
+  "threads_caption": "The loss landscape is alive. Your model has to outrun it. Who’s winning?",
+  "twitter_caption": "ML models racing through a shifting loss desert. Every second = new route. Who takes the #NeuralSpeedrun crown? ⚡️",
+  "youtube_title": "NEURAL SPEEDRUN: ML Models Race Through a Living Loss Landscape (Live-Style Visualization)",
+  "youtube_description": "Welcome to NEURAL SPEEDRUN—where ML competitors sprint across a shifting loss landscape. In this futuristic visualization, each model must adapt as routes mutate every second, testing speed, stability, and generalization.\n\nIn the video:\n• Models launch from the same starting checkpoint\n• The “loss desert” reshapes continuously\n• Leaders change as generalization beats brute-force\n\nComment your winner and why—then subscribe for the next race.",
+  "hashtags": "#ai #ml #tech #deeplearning #futuretech #datascience #quantum #transformers #gan"
 }
