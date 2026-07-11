@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Datalane: The Quantum-Quest ML Grand Prix",
-  "description": "A futuristic race visualization where rival AI teams sprint through “data lanes” to win the fastest, most accurate model—boosted by quantum-inspired training boosts and real-time leaderboards.",
+  "topic": "Neon Nebula: The Quantum Drift Race (AI vs. Reality)",
+  "description": "A futuristic ML showdown where models sprint through shifting “reality maps,” adapting to adversarial noise, latency shocks, and quantum-inspired uncertainty in real time.",
   "competitors": [
     {
-      "name": "Qubit SprintNet",
-      "color": "#7C4DFF"
+      "name": "DriftDash Q-LM",
+      "color": "#7C3AED"
     },
     {
-      "name": "HyperLane Transformers",
-      "color": "#00E5FF"
+      "name": "Aurora AdaptNet",
+      "color": "#22D3EE"
     },
     {
-      "name": "PhotonForest Ensemble",
-      "color": "#00C853"
+      "name": "PhotonForge Transformer",
+      "color": "#F97316"
     },
     {
-      "name": "Aurora Logic Drifters",
-      "color": "#FFD600"
+      "name": "VantaBayes Agent",
+      "color": "#10B981"
     },
     {
-      "name": "Graviton GradientLab",
-      "color": "#FF4081"
+      "name": "SpectraGrid SNN",
+      "color": "#60A5FA"
     },
     {
-      "name": "Spectra SVM Cyclone",
-      "color": "#FF6D00"
+      "name": "NullShift RobustRL",
+      "color": "#EF4444"
     },
     {
-      "name": "NovaGraph RL Racers",
-      "color": "#40C4FF"
+      "name": "NebulaCache DistillRx",
+      "color": "#EAB308"
     }
   ],
-  "instagram_caption": "🚀 The Neon Datalane ML Grand Prix is ON. Who’s winning your feed: Qubit SprintNet, HyperLane Transformers, or NovaGraph RL Racers? Watch the leaderboard warp in real time and drop your prediction in the comments. ⚡🏁",
-  "facebook_caption": "Neon Datalane: the ultimate ML race—accuracy vs. speed vs. zero-regret generalization. Track the rivals as they “quantum-boost” their training and battle through live data lanes. Which team takes the checkered flag?",
-  "threads_caption": "Real-time ML race visualization: accuracy, speed, and quantum boosts—who wins? 🏁",
-  "twitter_caption": "Neon Datalane ML Grand Prix is live. 7 rival teams. One checkered flag. Who’s taking P1? 🏁⚡ #AI #ML #DeepLearning",
-  "youtube_title": "Neon Datalane: The Quantum-Quest ML Grand Prix (Race to the Top)",
-  "youtube_description": "Welcome to Neon Datalane—an electrifying, futuristic ML competition visualization! Watch rival AI teams sprint through simulated data lanes, use quantum-inspired training boosts, and battle for the top spot on a live accuracy/speed leaderboard.\n\nIn this race:\n- Fastest convergence vs. best generalization\n- Ensemble vs. transformer vs. RL strategies\n- Real-time “lane hazards” that test robustness\n\nComment your pick for the winner and subscribe for the next AI race drop.",
-  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #quantum #transformers #reinforcementlearning #datascience #futuretech"
+  "instagram_caption": "The race isn’t in the code… it’s in the universe. 🚀✨ Who wins as reality starts changing mid-run? Watch “Neon Nebula” live—models adapt, break, and recover in seconds. Comment your pick! 👇",
+  "facebook_caption": "AI models are racing through a shifting “Neon Nebula” of real-world chaos—adversarial noise, latency spikes, and uncertainty storms included. ⚡ Who do you think will cross the finish line first? Drop your vote!",
+  "threads_caption": "Reality is unstable. Can your model adapt fast enough?",
+  "twitter_caption": "Neon Nebula: Quantum Drift Race 🌌⚡\nModels sprint through changing reality maps—adversarial noise, latency shocks, uncertainty.\nWho takes the crown? 👇",
+  "youtube_title": "Neon Nebula: The Quantum Drift Race — Can AI Beat Reality Mid-Run? 🧠⚡",
+  "youtube_description": "Welcome to Neon Nebula: The Quantum Drift Race—an ML competition visualization where top models must adapt in real time to adversarial perturbations, latency shocks, and uncertainty-driven “reality drift.”\n\nIn this episode, we track each competitor’s progress across shifting trajectories and score them on adaptation speed, stability, and final accuracy under stress.\n\nComment which competitor you think will win and why—then watch the race to see who survives the chaos.",
+  "hashtags": "#ai #ml #tech #machinelearning #deeplearning #quantumai #adversarialai #futuretech"
 }
