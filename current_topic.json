@@ -1,41 +1,41 @@
 {
-  "topic": "NEON DATA DERBY 2099: The Model Sprint to Zero-Latency Truth",
-  "description": "A high-speed race visualization where AI models compete to predict, explain, and verify answers in real time—optimized for accuracy under pressure, energy efficiency, and unstoppable latency.",
+  "topic": "NEON DATA DERBY: The 1-Second Model Sprint",
+  "description": "A futuristic race visualization where AI models compete to win the 1-second inference challenge—accuracy, latency, and “confidence under pressure” battle in real time.",
   "competitors": [
     {
-      "name": "AuroraNet",
-      "color": "#7CFFCB"
+      "name": "QuantumLynx-Q",
+      "color": "#7C3AED"
     },
     {
-      "name": "QuantumQuill",
-      "color": "#8A7CFF"
+      "name": "TurboSage T6",
+      "color": "#22C55E"
     },
     {
-      "name": "BladeVision AI",
-      "color": "#00D4FF"
+      "name": "InfernoVector",
+      "color": "#F97316"
     },
     {
-      "name": "SaffronSage",
-      "color": "#FFB020"
+      "name": "AstraCalibrate",
+      "color": "#38BDF8"
     },
     {
-      "name": "CryoLogic",
-      "color": "#69F0FF"
+      "name": "PrismForge",
+      "color": "#F43F5E"
     },
     {
-      "name": "LumenForge",
-      "color": "#FF4FD8"
+      "name": "ZeroLag ZL",
+      "color": "#A3E635"
     },
     {
-      "name": "NovaRook",
-      "color": "#9BFF57"
+      "name": "NovaRank N9",
+      "color": "#60A5FA"
     }
   ],
-  "instagram_caption": "🏎️💡 NEON DATA DERBY 2099 is live! Which model reaches zero-latency truth first—Accuracy, Efficiency, or Explainability? Watch the ML race in real time and vote your winner 🔥🚦",
-  "facebook_caption": "The future of machine learning is a race. In NEON DATA DERBY 2099, models compete to predict faster, explain clearer, and verify harder. Drop your prediction in the comments—who takes the checkered flag? 🏁🤖",
-  "threads_caption": "Zero-latency truth is the goal. Who wins the NEON Data Derby? 👀🏎️",
-  "twitter_caption": "NEON DATA DERBY 2099 🚦🤖 Models sprint for zero-latency truth (accuracy + efficiency + explainability). Who’s taking the lead? #AI #ML",
-  "youtube_title": "NEON DATA DERBY 2099: The ML Race for ZERO-LATENCY TRUTH!",
-  "youtube_description": "Welcome to NEON DATA DERBY 2099—an adrenaline-fueled ML competition visualization where top models sprint to zero-latency truth. Watch competitors battle across accuracy under pressure, energy efficiency, and real-time verification. Who will dominate the neon track?\n\nVote in the comments, and subscribe for the next round!",
-  "hashtags": "#ai #ml #tech #deeplearning #datascience #futuretech #aiviz #mlearnings #innovation"
+  "instagram_caption": "🏎️💥 The NEON DATA DERBY is live: who wins the 1-second inference sprint—accuracy or speed? Watch the confidence flames rise in real time. 👀⚡️ #MachineLearningRace #AIDerby",
+  "facebook_caption": "Can your favorite model beat the 1-second wall? 🚀 Watch the NEON DATA DERBY where latency, accuracy, and “confidence under pressure” compete in a high-speed futuristic showdown. Drop your pick in the comments!",
+  "threads_caption": "1 second. No mercy. Who’s taking the checkered flag? ⚡️🏁",
+  "twitter_caption": "NEON DATA DERBY: 1-second AI sprint. Accuracy vs latency vs confidence—live visualization. Who wins? 🏎️⚡️",
+  "youtube_title": "NEON DATA DERBY 🏎️⚡️ AI Models Racing for 1-Second Inference (Live Visualization)",
+  "youtube_description": "Welcome to the NEON DATA DERBY—an ultra-futuristic ML competition where AI models race for the 1-second inference crown. Each competitor is judged on accuracy, latency, and confidence under pressure, with real-time “track” updates and dramatic performance swings.\n\nWhich model will win the checkered flag? Comment your pick!\n\n#ai #ml #tech #machinelearning",
+  "hashtags": "#ai #ml #tech #deeplearning #competition #dataviz #race #inference"
 }
