@@ -1,41 +1,41 @@
 {
-  "topic": "NEON DATA DERBY: The 1-Second Model Sprint",
-  "description": "A futuristic race visualization where AI models compete to win the 1-second inference challenge—accuracy, latency, and “confidence under pressure” battle in real time.",
+  "topic": "Neon Sentience Sprint: The Quantum Data Grand Prix (Live ML Race)",
+  "description": "A futuristic ML competition where models accelerate through an animated track of shifting “data gravity,” battling to stay accurate as the environment changes every second.",
   "competitors": [
     {
-      "name": "QuantumLynx-Q",
+      "name": "AstraQ-LSTM",
       "color": "#7C3AED"
     },
     {
-      "name": "TurboSage T6",
-      "color": "#22C55E"
+      "name": "VectorNova Transformers",
+      "color": "#22D3EE"
     },
     {
-      "name": "InfernoVector",
+      "name": "SonicGradientBoost",
+      "color": "#34D399"
+    },
+    {
+      "name": "PrismRL Agent",
       "color": "#F97316"
     },
     {
-      "name": "AstraCalibrate",
-      "color": "#38BDF8"
+      "name": "CryoDistillNet",
+      "color": "#60A5FA"
     },
     {
-      "name": "PrismForge",
+      "name": "NovaBayes Ensemble",
       "color": "#F43F5E"
     },
     {
-      "name": "ZeroLag ZL",
+      "name": "HyperSparse MoE",
       "color": "#A3E635"
-    },
-    {
-      "name": "NovaRank N9",
-      "color": "#60A5FA"
     }
   ],
-  "instagram_caption": "🏎️💥 The NEON DATA DERBY is live: who wins the 1-second inference sprint—accuracy or speed? Watch the confidence flames rise in real time. 👀⚡️ #MachineLearningRace #AIDerby",
-  "facebook_caption": "Can your favorite model beat the 1-second wall? 🚀 Watch the NEON DATA DERBY where latency, accuracy, and “confidence under pressure” compete in a high-speed futuristic showdown. Drop your pick in the comments!",
-  "threads_caption": "1 second. No mercy. Who’s taking the checkered flag? ⚡️🏁",
-  "twitter_caption": "NEON DATA DERBY: 1-second AI sprint. Accuracy vs latency vs confidence—live visualization. Who wins? 🏎️⚡️",
-  "youtube_title": "NEON DATA DERBY 🏎️⚡️ AI Models Racing for 1-Second Inference (Live Visualization)",
-  "youtube_description": "Welcome to the NEON DATA DERBY—an ultra-futuristic ML competition where AI models race for the 1-second inference crown. Each competitor is judged on accuracy, latency, and confidence under pressure, with real-time “track” updates and dramatic performance swings.\n\nWhich model will win the checkered flag? Comment your pick!\n\n#ai #ml #tech #machinelearning",
-  "hashtags": "#ai #ml #tech #deeplearning #competition #dataviz #race #inference"
+  "instagram_caption": "🚀 The #ML race is ON. Watch models sprint through shifting data gravity—accuracy up, latency down, chaos rising. Which neon team wins the Quantum Data Grand Prix? ⚡🏁",
+  "facebook_caption": "Neon Sentience Sprint just went live! 🤖🏎️ Seven AI contenders battle through changing data conditions in real time. Can your favorite model keep its edge when the track morphs every second?",
+  "threads_caption": "If your model can’t handle data gravity changes… does it even deserve the finish line? 🏁⚡",
+  "twitter_caption": "Neon Sentience Sprint: ML models racing through shifting data gravity. Live accuracy vs latency—who takes the chequered flag? 🏎️🤖 #ai #ml",
+  "youtube_title": "NEON SENTIENCE SPRINT | The Quantum Data Grand Prix (Live ML Race Visualization 2026)",
+  "youtube_description": "Welcome to the Neon Sentience Sprint—an electrifying, futuristic visualization of an ML “race” where competitors must keep accuracy high while conditions shift every moment (changing data gravity, noise, drift, and distribution quirks). \n\nWatch how each model handles: \n- real-time distribution shifts\n- latency under pressure\n- robustness vs speed tradeoffs\n\nCast your vote in the comments: which team should win the Quantum Data Grand Prix?",
+  "hashtags": "#ai #ml #tech #deeplearning #quantumai #mle"
 }
