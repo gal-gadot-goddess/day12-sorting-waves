@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Gauntlet: The Microchip Sprint 2060",
-  "description": "Watch 7 AI teams race micro-optimizations in a real-time ML arena where models compete on accuracy per watt, latency per token, and energy-aware scaling—live on a futuristic leaderboard.",
+  "topic": "Quantum Drift Grand Prix: AI Models vs. Reality Lag",
+  "description": "Watch competing ML teams race across changing data and simulated quantum-grade distribution shifts, scoring who adapts fastest without losing accuracy.",
   "competitors": [
     {
-      "name": "VoltVision",
-      "color": "#00E5FF"
+      "name": "QuantaNet",
+      "color": "#7C3AED"
     },
     {
-      "name": "ThermaNet",
-      "color": "#FF3D71"
+      "name": "DriftHunter",
+      "color": "#22C55E"
     },
     {
-      "name": "PulseQuant",
-      "color": "#7C4DFF"
+      "name": "TemporalForge",
+      "color": "#06B6D4"
     },
     {
-      "name": "Graphion Forge",
-      "color": "#00FF9A"
+      "name": "EntropyPilot",
+      "color": "#F97316"
     },
     {
-      "name": "LatticeLock",
-      "color": "#FFD400"
+      "name": "SynapseRanger",
+      "color": "#EF4444"
     },
     {
-      "name": "AstraTune",
-      "color": "#FF7A18"
+      "name": "Stability Sentinel",
+      "color": "#3B82F6"
     },
     {
-      "name": "ColdStart AI",
-      "color": "#4DA3FF"
+      "name": "Gradient Mirage",
+      "color": "#F59E0B"
     }
   ],
-  "instagram_caption": "🚀 The Neon Gauntlet is live. 7 AI teams. 1 scoreboard. Can your favorite model win the race on ACCURACY per WATT? ⚡🏁 Watch the microchip sprint unfold—latency, tokens, and energy in one insane visualization. Comment your pick! 🔥",
-  "facebook_caption": "Who’s taking the Neon Gauntlet trophy? 🏆 Teams are competing like it’s 2060: accuracy per watt, speed per token, and smart scaling under pressure. Drop a comment with your contender and share this to start the hype!",
-  "threads_caption": "Accuracy per watt = the new speedrun. Who wins Neon Gauntlet? ⚡🏁",
-  "twitter_caption": "Neon Gauntlet 2060: models racing for ACC/W (accuracy per watt) + latency per token. Real-time ML chaos. Who’s your pick? ⚡🏁",
-  "youtube_title": "Neon Gauntlet 2060: The ML Race for Accuracy per Watt (Live Visualization)",
-  "youtube_description": "Welcome to the Neon Gauntlet—an ultra-futuristic ML competition where teams race to maximize accuracy while minimizing energy and latency. \n\nIn this visualization, each competitor is judged on:\n• Accuracy per Watt (ACC/W)\n• Latency per Token\n• Energy-aware scaling performance\n\nWhich AI team will break the leaderboard first? Subscribe and comment your champion! \n\n#NeonGauntlet #MachineLearning #AISpeedrun",
-  "hashtags": "#ai #ml #tech #deeplearning #mlengineering #computervision #quantization #energyaware #datavisualization #innovation"
+  "instagram_caption": "🏎️⚛️ The Quantum Drift Grand Prix is ON. Can your favorite AI model adapt before reality lags behind? Track who wins the speed-vs-accuracy showdown as the data universe keeps shifting. Drop your pick in the comments! 👇",
+  "facebook_caption": "Welcome to the Quantum Drift Grand Prix! Seven AI teams sprint through reality-warping data shifts—only the fastest adapters score. Which competitor are you betting on? Comment your winner and share with a fellow ML fan!",
+  "threads_caption": "AI models racing through reality lag? ⚛️🏎️ Who’s taking the checkered flag—QuantaNet or DriftHunter?",
+  "twitter_caption": "🏎️⚛️ Quantum Drift Grand Prix: models vs. reality lag. Who adapts fastest under distribution shift—without accuracy collapse? Comment your pick.",
+  "youtube_title": "Quantum Drift Grand Prix: AI Models Race Against Reality Lag (Live Visualization)",
+  "youtube_description": "In this futuristic ML competition visualization, seven AI competitors battle it out across simulated quantum-grade distribution shifts. Watch them adapt in real time, scoring performance under uncertainty, speed of recovery, and long-term stability.\n\nSubscribe for more AI race simulations, model duels, and interactive ML visualizations!",
+  "hashtags": "#ai #ml #tech #machinelearning #datascience #futuretech #modeltraining #visualization"
 }
