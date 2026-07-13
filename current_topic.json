@@ -1,41 +1,41 @@
 {
-  "topic": "Neon Sentience Sprint: The Quantum Data Grand Prix (Live ML Race)",
-  "description": "A futuristic ML competition where models accelerate through an animated track of shifting “data gravity,” battling to stay accurate as the environment changes every second.",
+  "topic": "Neon Gauntlet: The Microchip Sprint 2060",
+  "description": "Watch 7 AI teams race micro-optimizations in a real-time ML arena where models compete on accuracy per watt, latency per token, and energy-aware scaling—live on a futuristic leaderboard.",
   "competitors": [
     {
-      "name": "AstraQ-LSTM",
-      "color": "#7C3AED"
+      "name": "VoltVision",
+      "color": "#00E5FF"
     },
     {
-      "name": "VectorNova Transformers",
-      "color": "#22D3EE"
+      "name": "ThermaNet",
+      "color": "#FF3D71"
     },
     {
-      "name": "SonicGradientBoost",
-      "color": "#34D399"
+      "name": "PulseQuant",
+      "color": "#7C4DFF"
     },
     {
-      "name": "PrismRL Agent",
-      "color": "#F97316"
+      "name": "Graphion Forge",
+      "color": "#00FF9A"
     },
     {
-      "name": "CryoDistillNet",
-      "color": "#60A5FA"
+      "name": "LatticeLock",
+      "color": "#FFD400"
     },
     {
-      "name": "NovaBayes Ensemble",
-      "color": "#F43F5E"
+      "name": "AstraTune",
+      "color": "#FF7A18"
     },
     {
-      "name": "HyperSparse MoE",
-      "color": "#A3E635"
+      "name": "ColdStart AI",
+      "color": "#4DA3FF"
     }
   ],
-  "instagram_caption": "🚀 The #ML race is ON. Watch models sprint through shifting data gravity—accuracy up, latency down, chaos rising. Which neon team wins the Quantum Data Grand Prix? ⚡🏁",
-  "facebook_caption": "Neon Sentience Sprint just went live! 🤖🏎️ Seven AI contenders battle through changing data conditions in real time. Can your favorite model keep its edge when the track morphs every second?",
-  "threads_caption": "If your model can’t handle data gravity changes… does it even deserve the finish line? 🏁⚡",
-  "twitter_caption": "Neon Sentience Sprint: ML models racing through shifting data gravity. Live accuracy vs latency—who takes the chequered flag? 🏎️🤖 #ai #ml",
-  "youtube_title": "NEON SENTIENCE SPRINT | The Quantum Data Grand Prix (Live ML Race Visualization 2026)",
-  "youtube_description": "Welcome to the Neon Sentience Sprint—an electrifying, futuristic visualization of an ML “race” where competitors must keep accuracy high while conditions shift every moment (changing data gravity, noise, drift, and distribution quirks). \n\nWatch how each model handles: \n- real-time distribution shifts\n- latency under pressure\n- robustness vs speed tradeoffs\n\nCast your vote in the comments: which team should win the Quantum Data Grand Prix?",
-  "hashtags": "#ai #ml #tech #deeplearning #quantumai #mle"
+  "instagram_caption": "🚀 The Neon Gauntlet is live. 7 AI teams. 1 scoreboard. Can your favorite model win the race on ACCURACY per WATT? ⚡🏁 Watch the microchip sprint unfold—latency, tokens, and energy in one insane visualization. Comment your pick! 🔥",
+  "facebook_caption": "Who’s taking the Neon Gauntlet trophy? 🏆 Teams are competing like it’s 2060: accuracy per watt, speed per token, and smart scaling under pressure. Drop a comment with your contender and share this to start the hype!",
+  "threads_caption": "Accuracy per watt = the new speedrun. Who wins Neon Gauntlet? ⚡🏁",
+  "twitter_caption": "Neon Gauntlet 2060: models racing for ACC/W (accuracy per watt) + latency per token. Real-time ML chaos. Who’s your pick? ⚡🏁",
+  "youtube_title": "Neon Gauntlet 2060: The ML Race for Accuracy per Watt (Live Visualization)",
+  "youtube_description": "Welcome to the Neon Gauntlet—an ultra-futuristic ML competition where teams race to maximize accuracy while minimizing energy and latency. \n\nIn this visualization, each competitor is judged on:\n• Accuracy per Watt (ACC/W)\n• Latency per Token\n• Energy-aware scaling performance\n\nWhich AI team will break the leaderboard first? Subscribe and comment your champion! \n\n#NeonGauntlet #MachineLearning #AISpeedrun",
+  "hashtags": "#ai #ml #tech #deeplearning #mlengineering #computervision #quantization #energyaware #datavisualization #innovation"
 }
