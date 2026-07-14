@@ -1,41 +1,37 @@
 {
-  "topic": "Neural Warp Rally: Who Reaches Supremacy in One Shot?",
-  "description": "A futuristic ML race where models sprint through shifting data “wormholes,” using one-shot adaptation to win under real-time latency and concept-drift chaos.",
+  "topic": "NEON NURSE vs. VIRUS: The Galactic Triage Race",
+  "description": "A high-stakes ML showdown where teams compete to deploy real-time, privacy-preserving triage models that detect emerging outbreaks and route scarce healthcare resources—fast enough to save lives in the “first 60 seconds.”",
   "competitors": [
     {
-      "name": "QuantumSprintNet",
-      "color": "#7C4DFF"
-    },
-    {
-      "name": "DriftHunter Transformer",
+      "name": "PulsePilot (EdgeNet)",
       "color": "#00E5FF"
     },
     {
-      "name": "MetaOneShot Engine",
-      "color": "#FF2D55"
+      "name": "AstraTriage (Federated Sage)",
+      "color": "#7C4DFF"
     },
     {
-      "name": "EdgeFlash Distiller",
-      "color": "#00C853"
+      "name": "ChronoCortex (Quantum-ish Boost)",
+      "color": "#FF2D95"
     },
     {
-      "name": "Graph Warp Voyager",
-      "color": "#FFB300"
+      "name": "SentrySwarm (Ensemble Radar)",
+      "color": "#00FFA3"
     },
     {
-      "name": "TokenTorrent Optimizer",
-      "color": "#2962FF"
+      "name": "MedMorph (Generative Counterfactuals)",
+      "color": "#FFD400"
     },
     {
-      "name": "Synthesis Sentinel",
-      "color": "#D500F9"
+      "name": "ViralVantage (Self-Supervised Lens)",
+      "color": "#FF6B6B"
     }
   ],
-  "instagram_caption": "🚀 The Neural Warp Rally just started… models are entering wormholes of changing data and only ONE-shot adaptation counts. Who wins: speed, accuracy, or survival? Watch the leaderboard warp in real time. 👀✨",
-  "facebook_caption": "Neural Warp Rally is live! 🤖🌌 Competing ML teams are racing through concept drift, latency traps, and one-shot challenges. Can your favorite competitor adapt fast enough before the next wormhole collapses?",
-  "threads_caption": "One-shot. No mercy. Wormholes ahead. Who’s taking 1st place? ⚡️🤖",
-  "twitter_caption": "Neural Warp Rally: models race through data wormholes with one-shot adaptation. Who hits the finish line first—speed, accuracy, or resilience? 🧠⚡️",
-  "youtube_title": "Neural Warp Rally (2026): The One-Shot ML Race Through Concept-D Drift Wormholes!",
-  "youtube_description": "Welcome to the Neural Warp Rally—an AI/ML competition visualization where contenders sprint through shifting data wormholes (concept drift + real-time latency). Each model must adapt using one-shot updates to stay competitive.\n\nIn this episode, we track accuracy under pressure, adaptation speed, and stability scores as the leaderboard warps in real time.\n\nDrop your pick in the comments: Who will reach supremacy first?",
-  "hashtags": "#ai #ml #tech #deeplearning #competition #transformers #futuretech"
+  "instagram_caption": "The clock is ticking and the sky is neon. ⏱️🚀 Who wins the GALACTIC TRIAGE RACE—PulsePilot, AstraTriage, or SentrySwarm? Watch the AI decide who gets help in the first 60 seconds. 🌌🩺 #ai #ml #healthtech",
+  "facebook_caption": "Imagine an outbreak hit… and your AI has to triage in real time—without compromising patient privacy. In the NEON NURSE vs. VIRUS competition, each team battles for speed, accuracy, and fairness. Who do you think takes the lead? Comment your pick! 🛰️🧠",
+  "threads_caption": "60 seconds. One mission. Can AI triage faster than chaos? 👀🩺",
+  "twitter_caption": "NEON NURSE vs. VIRUS: the ML triage sprint. Real-time outbreak detection + privacy-preserving routing. Who’s winning your bracket? 🛰️🧠",
+  "youtube_title": "NEON NURSE vs. VIRUS | The Galactic Triage Race (ML Competition Visualization)",
+  "youtube_description": "Welcome to the Galactic Triage Race—an AI showdown where teams compete to deploy real-time, privacy-preserving ML models for outbreak detection and resource routing. Watch the live-style visualization as competitors optimize speed, accuracy, calibration, and fairness under a “first 60 seconds” constraint.\n\nIn this episode: \n- Edge vs. Federated learning strategies\n- Ensemble radar vs. self-supervised perception\n- Generative counterfactuals for safer decisions\n\nWho should take the crown? Drop your predictions in the comments.",
+  "hashtags": "#ai #ml #tech #healthtech #machinelearning #federatedlearning #datascience #edgeai #futuretech"
 }
