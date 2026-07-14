@@ -1,37 +1,41 @@
 {
-  "topic": "NEON NURSE vs. VIRUS: The Galactic Triage Race",
-  "description": "A high-stakes ML showdown where teams compete to deploy real-time, privacy-preserving triage models that detect emerging outbreaks and route scarce healthcare resources—fast enough to save lives in the “first 60 seconds.”",
+  "topic": "Neon Quantum Sprint: The 7-NanoSec AI Race",
+  "description": "A futuristic visualization where specialized models compete to make accurate predictions in ultra-low-latency bursts—every “nano-second” measured on a live leaderboard.",
   "competitors": [
     {
-      "name": "PulsePilot (EdgeNet)",
-      "color": "#00E5FF"
+      "name": "PhotonForge",
+      "color": "#00F5FF"
     },
     {
-      "name": "AstraTriage (Federated Sage)",
+      "name": "CarbonPulse",
+      "color": "#00FF7B"
+    },
+    {
+      "name": "AstraVector",
       "color": "#7C4DFF"
     },
     {
-      "name": "ChronoCortex (Quantum-ish Boost)",
-      "color": "#FF2D95"
+      "name": "HelioMind",
+      "color": "#FF4D6D"
     },
     {
-      "name": "SentrySwarm (Ensemble Radar)",
-      "color": "#00FFA3"
-    },
-    {
-      "name": "MedMorph (Generative Counterfactuals)",
+      "name": "VectorNova",
       "color": "#FFD400"
     },
     {
-      "name": "ViralVantage (Self-Supervised Lens)",
-      "color": "#FF6B6B"
+      "name": "NimbusLogic",
+      "color": "#00A3FF"
+    },
+    {
+      "name": "KryoKernel",
+      "color": "#B6FF00"
     }
   ],
-  "instagram_caption": "The clock is ticking and the sky is neon. ⏱️🚀 Who wins the GALACTIC TRIAGE RACE—PulsePilot, AstraTriage, or SentrySwarm? Watch the AI decide who gets help in the first 60 seconds. 🌌🩺 #ai #ml #healthtech",
-  "facebook_caption": "Imagine an outbreak hit… and your AI has to triage in real time—without compromising patient privacy. In the NEON NURSE vs. VIRUS competition, each team battles for speed, accuracy, and fairness. Who do you think takes the lead? Comment your pick! 🛰️🧠",
-  "threads_caption": "60 seconds. One mission. Can AI triage faster than chaos? 👀🩺",
-  "twitter_caption": "NEON NURSE vs. VIRUS: the ML triage sprint. Real-time outbreak detection + privacy-preserving routing. Who’s winning your bracket? 🛰️🧠",
-  "youtube_title": "NEON NURSE vs. VIRUS | The Galactic Triage Race (ML Competition Visualization)",
-  "youtube_description": "Welcome to the Galactic Triage Race—an AI showdown where teams compete to deploy real-time, privacy-preserving ML models for outbreak detection and resource routing. Watch the live-style visualization as competitors optimize speed, accuracy, calibration, and fairness under a “first 60 seconds” constraint.\n\nIn this episode: \n- Edge vs. Federated learning strategies\n- Ensemble radar vs. self-supervised perception\n- Generative counterfactuals for safer decisions\n\nWho should take the crown? Drop your predictions in the comments.",
-  "hashtags": "#ai #ml #tech #healthtech #machinelearning #federatedlearning #datascience #edgeai #futuretech"
+  "instagram_caption": "⏱️⚡ The 7-NanoSec AI Race just went LIVE. Who’s fastest, who’s accurate, and who will peak when the “quantum lights” flicker? Drop your pick in the comments! 👇",
+  "facebook_caption": "Welcome to the Neon Quantum Sprint: models competing for 7-nanosecond prediction glory. Watch the leaderboard surge, vote for your champion, and share this with the friend who always says “speed doesn’t matter.”",
+  "threads_caption": "7 nanoseconds. One winner. Can your favorite model survive the sprint?",
+  "twitter_caption": "Neon Quantum Sprint just locked in: 7-nanoSec accuracy vs latency. Who takes the checkered flag? 🏁⚡ #AI #ML #LatencyRace",
+  "youtube_title": "Neon Quantum Sprint: The 7-NanoSec AI Race (Live ML Competition Visualization)",
+  "youtube_description": "In this futuristic ML race visualization, seven specialist models battle for ultra-low-latency prediction wins. Watch how accuracy, speed, and stability trade off as the track gets harder—nano-second by nano-second. Who will finish first and stay correct under pressure?\n\nChapters:\n00:00 Neon Arena Setup\n01:12 Sprint Heats\n03:45 Quantum Light Flicker Round\n06:30 Final NanoSec Shootout\n\nComment your pick for the champion!",
+  "hashtags": "#ai #ml #tech #deeplearning #quantumai #latency #futuristic #competition"
 }
